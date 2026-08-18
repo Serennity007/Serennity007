@@ -20,6 +20,7 @@ I build tools that make developers more productive with AI.
 ### AI Developer Tools
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [agent-trace](https://github.com/liangzhengtao/agent-trace) | `npx agent-trace` — Track your AI agent's costs, tokens, tool health | ![](https://img.shields.io/github/stars/liangzhengtao/agent-trace) |
 | [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 AI coding rules for Cursor, Claude Code, Kimi Code | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-ai-rules) |
 | [vibe-check](https://github.com/liangzhengtao/vibe-check) | `npx vibe-check` — Score your project's AI-readiness | ![](https://img.shields.io/github/stars/liangzhengtao/vibe-check) |
 | [commit-ai](https://github.com/liangzhengtao/ai-commit) | `npx commit-ai` — AI writes your commit messages | ![](https://img.shields.io/github/stars/liangzhengtao/ai-commit) |
@@ -111,6 +112,6 @@ I build tools that make developers more productive with AI.
 
 <div align="center">
 
-**28 open source projects and counting...**
+**33 open source projects and counting...**
 
 </div>
