@@ -15,16 +15,21 @@
 
 ---
 
-## ⚡ 现在就试试（30 秒）
+## ⚡ 现在就试试
 
 ```bash
-npx agent-trace          # 看看你的 AI Agent 到底在干什么
-npx vibe-check           # 给你的项目打个 AI 友好度分（0-100）
-npx commit-ai            # AI 帮你写 commit message，无需 API key
-npx git-format           # 把 commit 格式化为 conventional commits
+# 克隆到本地运行（所有项目都在 GitHub 上）
+git clone https://github.com/liangzhengtao/vibe-check && cd vibe-check && npm install && node bin/cli.js
+git clone https://github.com/liangzhengtao/ai-commit && cd ai-commit && npm install && node bin/cli.js
+git clone https://github.com/liangzhengtao/agent-trace && cd agent-trace && npm install && node bin/cli.js
+git clone https://github.com/liangzhengtao/git-format && cd git-format && npm install && node bin/cli.js
+
+# 或者用 npx（已发布的包）
+npx @liangzhengtao/vibe-check    # 给项目打 AI 友好度分
+npx @liangzhengtao/commit-ai     # AI 帮你写 commit message
 ```
 
-不用装，不用 API Key，复制粘贴就能用。
+不用 API Key，复制粘贴就能用。
 
 ---
 
@@ -32,9 +37,9 @@ npx git-format           # 把 commit 格式化为 conventional commits
 
 | 功能 | 试试看 |
 |------|--------|
-| **追踪 AI Agent** — 成本、Token、工具健康、每条对话 | `npx agent-trace` |
-| **给项目打分** — 你的项目对 AI 编程助手友好吗？ | `npx vibe-check` |
-| **AI commit** — 根据暂存的更改自动生成 commit message | `npx commit-ai` |
+| **追踪 AI Agent** — 成本、Token、工具健康、每条对话 | [agent-trace](https://github.com/liangzhengtao/agent-trace) |
+| **给项目打分** — 你的项目对 AI 编程助手友好吗？ | `npx @liangzhengtao/vibe-check` |
+| **AI commit** — 根据暂存的更改自动生成 commit message | `npx @liangzhengtao/commit-ai` |
 | **20 个 AI 编程规则** — 复制粘贴就能用的 Cursor/Claude/Kimi 配置 | [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) |
 | **9 个 MCP 服务器** — 验证过的 Cursor/Claude/Kimi 配置 | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) |
 | **200+ 视频生成 prompt** — Sora、Runway、Pika、Kling 专用 | [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) |

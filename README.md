@@ -15,16 +15,21 @@
 
 ---
 
-## ⚡ Try These Right Now (30 seconds)
+## ⚡ Try These Right Now
 
 ```bash
-npx agent-trace          # See what your AI agent is actually doing
-npx vibe-check           # Score your project's AI-readiness (0-100)
-npx commit-ai            # AI writes your commit messages, no API key
-npx git-format           # Format commits to conventional commits
+# Clone and run locally (all projects are on GitHub)
+git clone https://github.com/liangzhengtao/vibe-check && cd vibe-check && npm install && node bin/cli.js
+git clone https://github.com/liangzhengtao/ai-commit && cd ai-commit && npm install && node bin/cli.js
+git clone https://github.com/liangzhengtao/agent-trace && cd agent-trace && npm install && node bin/cli.js
+git clone https://github.com/liangzhengtao/git-format && cd git-format && npm install && node bin/cli.js
+
+# Or use npx with scoped packages (published)
+npx @liangzhengtao/vibe-check    # Score your project's AI-readiness
+npx @liangzhengtao/commit-ai     # AI writes your commit messages
 ```
 
-No install. No API key. Copy, paste, done.
+No API key needed. Copy, paste, done.
 
 ---
 
@@ -32,9 +37,9 @@ No install. No API key. Copy, paste, done.
 
 | What it does | Try it |
 |-------------|--------|
-| **Track your AI agent** — costs, tokens, tool health, every conversation | `npx agent-trace` |
-| **Score your project** — is it configured for AI coding assistants? | `npx vibe-check` |
-| **AI commit messages** — generates conventional commits from staged changes | `npx commit-ai` |
+| **Track your AI agent** — costs, tokens, tool health, every conversation | [agent-trace](https://github.com/liangzhengtao/agent-trace) |
+| **Score your project** — is it configured for AI coding assistants? | `npx @liangzhengtao/vibe-check` |
+| **AI commit messages** — generates conventional commits from staged changes | `npx @liangzhengtao/commit-ai` |
 | **20 AI coding rules** — copy-paste config for Cursor, Claude, Kimi Code | [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) |
 | **9 MCP servers** — verified configs for Cursor, Claude, Kimi Code | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) |
 | **200+ video prompts** — for Sora, Runway, Pika, Kling | [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) |
