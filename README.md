@@ -1,3 +1,5 @@
+[中文版](README.zh.md)
+
 # Hi, I'm Zhengtao 👋
 
 <div align="center">
@@ -13,7 +15,7 @@ I build tools that make developers more productive with AI.
 
 ---
 
-## 🔥 What I've Built
+## What I've Built
 
 ### AI Developer Tools
 | Project | Description | Stars |
@@ -69,7 +71,7 @@ I build tools that make developers more productive with AI.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -81,7 +83,7 @@ I build tools that make developers more productive with AI.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python · TypeScript · JavaScript · Go · Rust · LaTeX
 
@@ -97,7 +99,7 @@ I build tools that make developers more productive with AI.
 
 ---
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
