@@ -52,7 +52,7 @@ No API key needed. Copy, paste, done.
 | Project | What it does |
 |---------|-------------|
 | [agent-trace](https://github.com/liangzhengtao/agent-trace) | Trace your AI agent — costs, tokens, tool health, session timeline |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 production-ready AI coding rules (Cursor, Claude, Kimi Code) |
+| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 production AI coding rules (Cursor, Claude, Kimi Code) |
 | [vibe-check](https://github.com/liangzhengtao/vibe-check) | Score your project's AI-readiness (0-100) |
 | [commit-ai](https://github.com/liangzhengtao/ai-commit) | AI writes your commit messages, no API key needed |
 | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 verified MCP servers for AI coding assistants |
