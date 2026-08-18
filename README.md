@@ -1,12 +1,12 @@
 [中文版](README.zh.md)
 
-# Hi, I'm Zhengtao 👋
-
 <div align="center">
 
-**AI Developer Tools Builder** · Open Source Contributor
+# Hey, I'm Zhengtao 👋
 
-I build tools that make developers more productive with AI.
+### I build tools that save developers hours every week.
+
+**33 open source projects** · **200+ reusable skills** · **285+ AI prompts** · All free, all open source.
 
 [![GitHub followers](https://img.shields.io/github/followers/liangzhengtao?style=social)](https://github.com/liangzhengtao)
 [![GitHub stars](https://img.shields.io/github/stars/liangzhengtao?style=social)](https://github.com/liangzhengtao)
@@ -15,76 +15,89 @@ I build tools that make developers more productive with AI.
 
 ---
 
-## What I've Built
+## ⚡ Try These Right Now (30 seconds)
+
+```bash
+npx agent-trace          # See what your AI agent is actually doing
+npx vibe-check           # Score your project's AI-readiness (0-100)
+npx commit-ai            # AI writes your commit messages, no API key
+npx git-format           # Format commits to conventional commits
+```
+
+No install. No API key. Copy, paste, done.
+
+---
+
+## 🔥 Featured Projects
+
+| What it does | Try it |
+|-------------|--------|
+| **Track your AI agent** — costs, tokens, tool health, every conversation | `npx agent-trace` |
+| **Score your project** — is it configured for AI coding assistants? | `npx vibe-check` |
+| **AI commit messages** — generates conventional commits from staged changes | `npx commit-ai` |
+| **20 AI coding rules** — copy-paste config for Cursor, Claude, Kimi Code | [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) |
+| **9 MCP servers** — verified configs for Cursor, Claude, Kimi Code | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) |
+| **200+ video prompts** — for Sora, Runway, Pika, Kling | [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) |
+
+---
+
+## 📚 All 33 Projects
 
 ### AI Developer Tools
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [agent-trace](https://github.com/liangzhengtao/agent-trace) | `npx agent-trace` — Track your AI agent's costs, tokens, tool health | ![](https://img.shields.io/github/stars/liangzhengtao/agent-trace) |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 AI coding rules for Cursor, Claude Code, Kimi Code | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-ai-rules) |
-| [vibe-check](https://github.com/liangzhengtao/vibe-check) | `npx vibe-check` — Score your project's AI-readiness | ![](https://img.shields.io/github/stars/liangzhengtao/vibe-check) |
-| [commit-ai](https://github.com/liangzhengtao/ai-commit) | `npx commit-ai` — AI writes your commit messages | ![](https://img.shields.io/github/stars/liangzhengtao/ai-commit) |
-| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | MCP servers for Cursor, Claude Code, Kimi Code | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-mcp-servers) |
-| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 skills for building production AI agents | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-ai-agents) |
+| Project | What it does |
+|---------|-------------|
+| [agent-trace](https://github.com/liangzhengtao/agent-trace) | Trace your AI agent — costs, tokens, tool health, session timeline |
+| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 production-ready AI coding rules (Cursor, Claude, Kimi Code) |
+| [vibe-check](https://github.com/liangzhengtao/vibe-check) | Score your project's AI-readiness (0-100) |
+| [commit-ai](https://github.com/liangzhengtao/ai-commit) | AI writes your commit messages, no API key needed |
+| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 verified MCP servers for AI coding assistants |
+| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 skills for building production AI agents |
 
-### Research & Academia
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 research AI skills (LaTeX, stats, lit review) | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-skills) |
-| [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | Publication-quality scientific figures | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-research-figures) |
-| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 skills to land your dream job | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-interview-skills) |
+### Research & Career
+| Project | What it does |
+|---------|-------------|
+| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 research skills (LaTeX, stats, literature review) |
+| [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | Publication-quality scientific figures |
+| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 skills to land your dream job |
+| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | System design interview prep with ASCII diagrams |
+| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 career roadmaps (junior → staff) |
+| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | Build tech from scratch (10 tutorials, Chinese) |
+| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 algorithm patterns, 72 problems (Chinese) |
 
-### Creative & Content
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ prompts for Sora, Runway, Pika, Kling | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-video-prompts) |
-| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | Posters, album covers, logos, photography | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-creative-skills) |
-| [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10 video creation skills | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-video-skills) |
-| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | Complete video workflow (idea → publish) | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-video-creation) |
-| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 writing skills for bloggers & marketers | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-writing-skills) |
-| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ AI prompts for every task | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-prompts) |
+### Video & Creative
+| Project | What it does |
+|---------|-------------|
+| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ prompts for Sora, Runway, Pika, Kling |
+| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 skills for transcription, notes, subtitles |
+| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14 skills for complete video workflow |
+| [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10 video editing skills |
+| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10 creative skills (posters, logos, photography) |
+| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 writing skills (blog, SEO, copywriting) |
+| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ AI prompts for every task |
 
 ### Developer Resources
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 career roadmaps from junior to staff | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-developer-roadmap) |
-| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | Build tech from scratch (Chinese) | ![](https://img.shields.io/github/stars/liangzhengtao/build-your-own-x-cn) |
-| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | System design interview prep | ![](https://img.shields.io/github/stars/liangzhengtao/system-design-interview) |
-| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | AI agent architecture patterns | ![](https://img.shields.io/github/stars/liangzhengtao/ai-agent-architectures) |
-| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | Run LLMs on your own hardware | ![](https://img.shields.io/github/stars/liangzhengtao/open-source-llm-guide) |
-| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ developer tools by category | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-dev-tools) |
-| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 DevOps skills (CI/CD, K8s, Cloud) | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-devops-skills) |
-| [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12 cybersecurity skills | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-security-skills) |
-| [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | 12 skills for founders | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-startup-skills) |
-
-### Data & Analysis
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | GitHub star trends analysis | ![](https://img.shields.io/github/stars/liangzhengtao/github-stars-analysis) |
-| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | Chinese developer tools | ![](https://img.shields.io/github/stars/liangzhengtao/awesome-chinese-developer-tools) |
-| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | LeetCode patterns (Chinese) | ![](https://img.shields.io/github/stars/liangzhengtao/leetcode-patterns-cn) |
-| [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | Guizhou exam papers collection | ![](https://img.shields.io/github/stars/liangzhengtao/guizhou-exam-papers) |
+| Project | What it does |
+|---------|-------------|
+| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ developer tools by category |
+| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 DevOps skills (CI/CD, K8s, Cloud) |
+| [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12 cybersecurity skills |
+| [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | 12 skills for founders |
+| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7 AI agent patterns with production code |
+| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | Run LLMs on your own hardware |
+| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | GitHub star trends analysis |
+| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | Chinese developer tools (8 categories) |
 
 ### Personal
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | My dev environment configs | ![](https://img.shields.io/github/stars/liangzhengtao/my-dotfiles) |
+| Project | What it does |
+|---------|-------------|
+| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | My dev environment (Zsh, Git, VS Code, Neovim) |
+| [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | Guizhou exam papers (free for students) |
+| [blog](https://github.com/liangzhengtao/blog) | Technical blog posts |
+| [git-format](https://github.com/liangzhengtao/git-format) | Format git commits to conventional commits |
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=radical)
-
-</div>
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:** Python · TypeScript · JavaScript · Go · Rust · LaTeX
 
@@ -100,11 +113,13 @@ I build tools that make developers more productive with AI.
 
 ---
 
-## Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=radical)
 
 </div>
 
@@ -112,6 +127,8 @@ I build tools that make developers more productive with AI.
 
 <div align="center">
 
-**33 open source projects and counting...**
+**33 projects. 200+ skills. 285+ prompts. All free.**
+
+If any of this saved you time, give it a ⭐
 
 </div>
