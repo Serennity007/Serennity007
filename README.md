@@ -255,7 +255,7 @@ graph LR
 
 <div align="center">
 
-### `>_` ALL PROJECTS `33`
+### `>_` ALL PROJECTS `60+`
 
 </div>
 
