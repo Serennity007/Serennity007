@@ -109,6 +109,20 @@
 
 ---
 
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  ACHIEVEMENTS                                                            ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### `>_` LOGROS
+
+<img src="https://github-profile-trophy.vercel.app/?username=liangzhengtao&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ██  ANALYTICS  ██ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -123,6 +137,36 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  ACTIVITY GRAPH                                                          ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### `>_` ACTIVIDAD
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  STAR HISTORY                                                            ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### `>_` HISTORIAL STAR
+
+<a href="https://star-history.com/#liangzhengtao/git-format&liangzhengtao/agent-trace&liangzhengtao/ai-commit&Date">
+  <img src="https://api.star-history.com/svg?repos=liangzhengtao/git-format,liangzhengtao/agent-trace,liangzhengtao/ai-commit&type=Date&theme=dark" width="95%" />
+</a>
 
 </div>
 
