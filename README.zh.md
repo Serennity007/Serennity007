@@ -1,64 +1,77 @@
-[English](README.md)
-
-<div align="center">
+[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md)
 
 # 你好，我是正涛 👋
 
-### 我做的工具帮开发者每周省几小时。
+### 我构建自动化 AI 开发繁琐环节的 CLI 工具。
 
-**33 个开源项目** · **200+ 可复用技能** · **285+ AI 提示词** · 全部免费，全部开源。
+我开发开源工具来处理 Git 工作流、Agent 监控、项目审计和 Commit 生成——让你专注于构建，而不是管理。
 
-[![GitHub followers](https://img.shields.io/github/followers/liangzhengtao?style=social)](https://github.com/liangzhengtao)
-[![GitHub stars](https://img.shields.io/github/stars/liangzhengtao?style=social)](https://github.com/liangzhengtao)
-
-</div>
+[![npm downloads (git-format)](https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square)](https://www.npmjs.com/package/git-format)
+[![npm downloads (ai-commit)](https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=flat-square)](https://www.npmjs.com/package/ai-commit)
+[![npm downloads (agent-trace)](https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=flat-square)](https://www.npmjs.com/package/agent-trace)
+[![GitHub followers](https://img.shields.io/github/followers/liangzhengtao?style=flat-square)](https://github.com/liangzhengtao)
 
 ---
 
-## ⚡ 现在就试试
+## ⚡ 10 秒试一个
+
+无需克隆。无需 API Key。无需配置。直接运行。
 
 ```bash
-# 克隆到本地运行（所有项目都在 GitHub 上）
-git clone https://github.com/liangzhengtao/vibe-check && cd vibe-check && npm install && node bin/cli.js
-git clone https://github.com/liangzhengtao/ai-commit && cd ai-commit && npm install && node bin/cli.js
-git clone https://github.com/liangzhengtao/agent-trace && cd agent-trace && npm install && node bin/cli.js
-git clone https://github.com/liangzhengtao/git-format && cd git-format && npm install && node bin/cli.js
+# 把杂乱的 Git 历史整理成 Conventional Commits
+npx git-format
 
-# 或者用 npx（已发布的包）
-npx @liangzhengtao/vibe-check    # 给项目打 AI 友好度分
-npx @liangzhengtao/commit-ai     # AI 帮你写 commit message
+# AI 根据暂存的变更生成 commit message
+npx ai-commit
+
+# 给你的项目打 AI 友好度分（0-100）
+npx @liangzhengtao/vibe-check
 ```
 
-不用 API Key，复制粘贴就能用。
+选一个。粘贴。立刻看结果。
 
 ---
 
-## 🔥 精选项目
+## 🔧 我做什么
 
-| 功能 | 试试看 |
-|------|--------|
-| **追踪 AI Agent** — 成本、Token、工具健康、每条对话 | [agent-trace](https://github.com/liangzhengtao/agent-trace) |
-| **给项目打分** — 你的项目对 AI 编程助手友好吗？ | `npx @liangzhengtao/vibe-check` |
-| **AI commit** — 根据暂存的更改自动生成 commit message | `npx @liangzhengtao/commit-ai` |
-| **20 个 AI 编程规则** — 复制粘贴就能用的 Cursor/Claude/Kimi 配置 | [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) |
-| **9 个 MCP 服务器** — 验证过的 Cursor/Claude/Kimi 配置 | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) |
-| **200+ 视频生成 prompt** — Sora、Runway、Pika、Kling 专用 | [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) |
+**原创 CLI 工具** — 可安装、可运行、无供应商锁定。
+
+| 工具 | 功能 | 安装 |
+|------|------|------|
+| **[git-format](https://github.com/liangzhengtao/git-format)** | 把混乱的 commit 历史转为 [Conventional Commits](https://www.conventionalcommits.org/) | `npx git-format` |
+| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | AI 从 `git diff` 生成 commit message | `npx ai-commit` |
+| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | 追踪 AI Agent 的成本、Token、工具调用和会话时间线 | `npx agent-trace` |
+| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | 审计仓库的 AI 编程助手准备度（0-100 分） | `npx @liangzhengtao/vibe-check` |
+
+**精选合集** — 生产环境验证过的配置和资源。
+
+| 合集 | 内容 |
+|------|------|
+| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 条生产级 AI 编程规则（Cursor、Claude、Kimi Code） |
+| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 个经过真实 AI 助手验证的 MCP 服务器配置 |
+| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ AI 提示词，覆盖编程、写作、研究和创意任务 |
 
 ---
 
-## 📚 全部 33 个项目
+## 📂 全部项目（33 个）
 
-### AI 开发工具
+<details>
+<summary><strong>AI 开发工具（6 个）</strong></summary>
+
 | 项目 | 功能 |
 |------|------|
 | [agent-trace](https://github.com/liangzhengtao/agent-trace) | 追踪 AI Agent — 成本、Token、工具健康、会话时间线 |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 个生产级 AI 编程规则（Cursor、Claude、Kimi Code） |
+| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 条生产级 AI 编程规则（Cursor、Claude、Kimi Code） |
 | [vibe-check](https://github.com/liangzhengtao/vibe-check) | 给项目打 AI 友好度分（0-100） |
 | [commit-ai](https://github.com/liangzhengtao/ai-commit) | AI 写 commit message，无需 API key |
 | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 个验证过的 MCP 服务器 |
 | [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 个构建生产级 AI Agent 的技能 |
 
-### 科研与求职
+</details>
+
+<details>
+<summary><strong>科研与求职（7 个）</strong></summary>
+
 | 项目 | 功能 |
 |------|------|
 | [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 个科研技能（LaTeX、统计、文献综述） |
@@ -69,7 +82,11 @@ npx @liangzhengtao/commit-ai     # AI 帮你写 commit message
 | [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | 从零构建技术（10 个教程，中文） |
 | [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 种算法模式，72 道题（中文） |
 
-### 视频与创意
+</details>
+
+<details>
+<summary><strong>视频与创意（7 个）</strong></summary>
+
 | 项目 | 功能 |
 |------|------|
 | [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ 视频生成 prompt（Sora、Runway、Pika、Kling） |
@@ -80,7 +97,11 @@ npx @liangzhengtao/commit-ai     # AI 帮你写 commit message
 | [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 个写作技能（博客、SEO、文案） |
 | [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ AI 提示词（覆盖所有场景） |
 
-### 开发者资源
+</details>
+
+<details>
+<summary><strong>开发者资源（8 个）</strong></summary>
+
 | 项目 | 功能 |
 |------|------|
 | [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ 开发者工具分类大全 |
@@ -92,48 +113,50 @@ npx @liangzhengtao/commit-ai     # AI 帮你写 commit message
 | [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | GitHub Star 趋势分析 |
 | [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | 中文开发者工具（8 大分类） |
 
-### 个人项目
+</details>
+
+<details>
+<summary><strong>个人项目（4 个）</strong></summary>
+
 | 项目 | 功能 |
 |------|------|
 | [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | 我的开发环境配置（Zsh、Git、VS Code、Neovim） |
 | [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | 贵州高考真题（免费给学生用） |
 | [blog](https://github.com/liangzhengtao/blog) | 技术博客 |
-| [git-format](https://github.com/liangzhengtao/git-format) | 格式化 git commit 为 conventional commits |
+| [git-format](https://github.com/liangzhengtao/git-format) | 格式化 git commit 为 Conventional Commits |
+
+</details>
 
 ---
 
-## 🛠️ 技术栈
+## 💬 使用场景
 
-**语言：** Python · TypeScript · JavaScript · Go · Rust · LaTeX
+```bash
+# PR 前 — 清理 commit 历史
+git rebase -i main
+npx git-format
 
-**AI/ML：** PyTorch · Transformers · LangChain · OpenAI API · 本地 LLM
+# 开发中 — 让 AI 处理 commit message
+git add .
+npx ai-commit
 
-**前端：** React · Next.js · Vue · Tailwind CSS
+# 接入新项目 — 检查仓库的 AI 准备度
+git clone <repo> && cd <repo>
+npx @liangzhengtao/vibe-check
 
-**后端：** FastAPI · Node.js · PostgreSQL · Redis
-
-**DevOps：** Docker · Kubernetes · GitHub Actions · Terraform
-
-**工具：** Cursor · Claude Code · Kimi Code · Vim · tmux
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=radical)
-
-</div>
+# 调试 — 查看 AI Agent 实际做了什么
+npx agent-trace --last-session
+```
 
 ---
 
-<div align="center">
+## 🤝 联系
 
-**33 个项目 · 200+ 技能 · 285+ 提示词 · 全部免费**
+- **GitHub**: [liangzhengtao](https://github.com/liangzhengtao) — 关注获取新工具发布
+- **Blog**: [liangzhengtao/blog](https://github.com/liangzhengtao/blog) — 技术博客
 
-如果对你有帮助，给个 ⭐ 吧
+---
 
-</div>
+**7 个精选工具。33 个项目。全部开源。**
+
+如果对你有帮助，给你最常用的仓库 [点个 Star](https://github.com/liangzhengtao/git-format) 吧。
