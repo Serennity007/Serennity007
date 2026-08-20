@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+AI+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94+CLI+%EB%8F%84%EA%B5%AC%EB%A5%BC+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4;60%2B+%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8;%EB%AA%A8%EB%93%A0+%EB%AC%B4%EB%A3%8C+%7C+%EB%AA%A8%EB%93%A0+%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+AI+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94+CLI+%EB%8F%84%EA%B5%AC%EB%A5%BC+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4;300++%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8;%EB%AA%A8%EB%93%A0+%EB%AC%B4%EB%A3%8C+%7C+%EB%AA%A8%EB%93%A0+%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -168,7 +168,7 @@ graph LR
 <!-- ALL PROJECTS                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📂 전체 프로젝트（60+）
+## 📂 전체 프로젝트（300+）
 
 <details>
 <summary><b>🤖 AI 개발 도구（6）</b></summary>
@@ -255,7 +255,7 @@ graph LR
 [![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
 [![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
 
-**60+ 프로젝트 · 모두 오픈 소스 · 모두 무료**
+**300+ 프로젝트 · 모두 오픈 소스 · 모두 무료**
 
 *이 프로젝트들이 시간을 절약해 주었다면, 가장 많이 사용한 리포지토리에 ⭐를 눌러 주세요.*
 

@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+Construyo+herramientas+CLI+que+automatizan+el+desarrollo+AI;60%2B+proyectos+de+c%C3%B3digo+abierto;Todo+gratis+%7C+Todo+abierto" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+Construyo+herramientas+CLI+que+automatizan+el+desarrollo+AI;300++proyectos+de+c%C3%B3digo+abierto;Todo+gratis+%7C+Todo+abierto" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -168,7 +168,7 @@ graph LR
 <!-- ALL PROJECTS                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📂 Todos los proyectos (60+)
+## 📂 Todos los proyectos (300+)
 
 <details>
 <summary><b>🤖 Herramientas de desarrollo IA (6)</b></summary>
@@ -255,7 +255,7 @@ graph LR
 [![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
 [![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
 
-**60+ proyectos · Todo open source · Todo gratis**
+**300+ proyectos · Todo open source · Todo gratis**
 
 *Si alguna de estas herramientas te ahorró tiempo, ⭐ el repo que más usaste.*
 

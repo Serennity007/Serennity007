@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+%D8%A3%D8%A8%D9%86%D9%8A+%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+CLI+%D8%AA%D8%AE%D8%AA%D8%B1%D9%85+%D8%AA%D8%B7%D9%88%D9%8A%D8%B1+AI;60%2B+%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D9%85%D9%81%D8%AA%D9%88%D8%AD+%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1;%D8%AC%D9%85%D9%8A%D8%B9+%D9%85%D8%AC%D8%A7%D9%86%D9%8A+%7C+%D8%AC%D9%85%D9%8A%D8%B9+%D9%85%D9%81%D8%AA%D9%88%D8%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+%D8%A3%D8%A8%D9%86%D9%8A+%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+CLI+%D8%AA%D8%AE%D8%AA%D8%B1%D9%85+%D8%AA%D8%B7%D9%88%D9%8A%D8%B1+AI;300++%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D9%85%D9%81%D8%AA%D9%88%D8%AD+%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1;%D8%AC%D9%85%D9%8A%D8%B9+%D9%85%D8%AC%D8%A7%D9%86%D9%8A+%7C+%D8%AC%D9%85%D9%8A%D8%B9+%D9%85%D9%81%D8%AA%D9%88%D8%AD" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -168,7 +168,7 @@ graph LR
 <!-- ALL PROJECTS                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📂 جميع المشاريع (60+)
+## 📂 جميع المشاريع (300+)
 
 <details>
 <summary><b>🤖 أدوات تطوير الذكاء الاصطناعي (6)</b></summary>
@@ -255,7 +255,7 @@ graph LR
 [![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
 [![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
 
-**60+ مشروع · جميعها مفتوحة المصدر · جميعها مجانية**
+**300+ مشروع · جميعها مفتوحة المصدر · جميعها مجانية**
 
 *إذا وفر لك أي منها وقتاً، ⭐ للمستودع الذي استخدمته أكثر.*
 

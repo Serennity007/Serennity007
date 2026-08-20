@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+CLI-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%B4%D0%BB%D1%8F+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8+AI;60%2B+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2+%D1%81+%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC+%D0%BA%D0%BE%D0%B4%D0%BE%D0%BC;%D0%92%D1%81%D1%91+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE+%7C+%D0%92%D1%81%D1%91+%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+CLI-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%B4%D0%BB%D1%8F+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8+AI;300++%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2+%D1%81+%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC+%D0%BA%D0%BE%D0%B4%D0%BE%D0%BC;%D0%92%D1%81%D1%91+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE+%7C+%D0%92%D1%81%D1%91+%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -168,7 +168,7 @@ graph LR
 <!-- ALL PROJECTS                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📂 Все проекты (60+)
+## 📂 Все проекты (300+)
 
 <details>
 <summary><b>🤖 Инструменты ИИ-разработки (6)</b></summary>
@@ -255,7 +255,7 @@ graph LR
 [![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
 [![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
 
-**60+ проектов · Всё с открытым кодом · Всё бесплатно**
+**300+ проектов · Всё с открытым кодом · Всё бесплатно**
 
 *Если что-то из этого сэкономило вам время, ⭐ репозиторий, который вы использовали больше всего.*
 
