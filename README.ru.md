@@ -32,7 +32,7 @@
 <!-- Badges row 2: profile stats -->
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/33_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -354,7 +354,7 @@ graph LR
 
 <br/>
 
-**33 проекта · Всё с открытым исходным кодом · Всё бесплатно**
+**60+ проекта · Всё с открытым исходным кодом · Всё бесплатно**
 
 *Если что-то из этого сэкономило ваше время, ⭐ репозиторий, который вы использовали чаще всего.*
 

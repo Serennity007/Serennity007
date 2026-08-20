@@ -17,7 +17,7 @@
     ╚═╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+npx+agent-trace+%23+Track+your+AI+agent;I+build+CLI+tools+that+automate+AI+development;33+open+source+projects+%7C+All+free+%7C+All+open+source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+npx+agent-trace+%23+Track+your+AI+agent;I+build+CLI+tools+that+automate+AI+development;60%2B+open+source+projects+%7C+All+free+%7C+All+open+source" alt="Typing SVG" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/33_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -351,7 +351,7 @@ graph LR
 
 <br/>
 
-**33 projects · All open source · All free**
+**60+ projects · All open source · All free**
 
 *If any of these saved you time, ⭐ the repo you used most.*
 

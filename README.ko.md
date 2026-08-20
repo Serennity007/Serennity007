@@ -32,7 +32,7 @@
 <!-- Badges row 2: profile stats -->
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/33_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -354,7 +354,7 @@ graph LR
 
 <br/>
 
-**33개 프로젝트 · 모두 오픈소스 · 모두 무료**
+**60+개 프로젝트 · 모두 오픈소스 · 모두 무료**
 
 *이 프로젝트들이 시간을 절약해 주었다면, 가장 많이 사용한 리포지토리에 ⭐를 남겨주세요.*
 

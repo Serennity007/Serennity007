@@ -19,7 +19,7 @@
 ```
 
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+npx+agent-trace+%23+Rastreie+seu+agente+AI;Construo+ferramentas+CLI+que+automatizam+o+desenvolvimento+AI;33+projetos+open+source+%7C+Tudo+gr%C3%A1tis" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+npx+agent-trace+%23+Rastreie+seu+agente+AI;Construo+ferramentas+CLI+que+automatizam+o+desenvolvimento+AI;60%2B+projetos+open+source+%7C+Tudo+gr%C3%A1tis" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 <!-- Badges row 2: profile stats -->
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/33_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -354,7 +354,7 @@ graph LR
 
 <br/>
 
-**33 projetos · Tudo open source · Tudo grátis**
+**60+ projetos · Tudo open source · Tudo grátis**
 
 *Se algum deles economizou seu tempo, ⭐ ao repo que você mais usou.*
 

@@ -32,7 +32,7 @@
 <!-- Badges row 2: profile stats -->
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/33_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -354,7 +354,7 @@ graph LR
 
 <br/>
 
-**33 proyectos · Todo código abierto · Todo gratis**
+**60+ proyectos · Todo código abierto · Todo gratis**
 
 *Si alguno te ahorró tiempo, ⭐ al repo que más usaste.*
 
