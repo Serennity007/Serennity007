@@ -1,162 +1,321 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
-# Salut, je suis Zhengtao 👋
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  HEADER: Deep Space Terminal  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-### Je construis des outils CLI qui automatisent les tâches fastidieuses du développement AI.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:00d4ff&height=200&section=header&text=%20&fontSize=0" width="100%"/>
 
-Je développe des outils open-source qui gèrent les workflows Git, le monitoring d'agents, l'audit de projets et la génération de commits — pour que vous puissiez vous concentrer sur le code, pas sur la gestion.
+<div align="center">
 
-[![npm downloads (git-format)](https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square)](https://www.npmjs.com/package/git-format)
-[![npm downloads (ai-commit)](https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=flat-square)](https://www.npmjs.com/package/ai-commit)
-[![npm downloads (agent-trace)](https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=flat-square)](https://www.npmjs.com/package/agent-trace)
-[![GitHub followers](https://img.shields.io/github/followers/liangzhengtao?style=flat-square)](https://github.com/liangzhengtao)
-
----
-
-## ⚡ Essayez-en un en 10 secondes
-
-Pas de clone. Pas de clé API. Pas de configuration. Lancez-le directement.
-
-```bash
-# Transformez l'historique Git en Conventional Commits
-npx git-format
-
-# L'IA génère vos messages de commit à partir des changements indexés
-npx ai-commit
-
-# Scorez la preparation AI de votre projet (0-100)
-npx @liangzhengtao/vibe-check
+<!-- Terminal-style name -->
+```
+ ███████╗██╗  ██╗███████╗███╗   ██╗ ██████╗ ████████╗ █████╗  ██████╗ 
+ ╚══██╔╝██║  ██║██╔════╝████╗  ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔═══██╗
+    ██║ ███████║█████╗  ██╔██╗ ██║██║   ██║   ██║   ███████║██║   ██║
+    ██║ ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║   ██║   ██╔══██║██║   ██║
+    ██║ ██║  ██║███████╗██║ ╚████║╚██████╔╝   ██║   ██║  ██║╚██████╔╝
+    ╚═╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝
 ```
 
-Choisissez un outil. Collez-le. Résultat immédiat.
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+npx+agent-trace+%23+Suivez+votre+agent+IA;J'automatise+les+t%C3%A2ches+fastidieuses+du+dev+AI+avec+des+outils+CLI;33+projets+open+source+%7C+Tout+gratuit" alt="Typing SVG" />
+
+<br/>
+
+<!-- Badges row 1: npm downloads -->
+<a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
+
+<!-- Badges row 2: profile stats -->
+<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/33_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
-## 🔧 Ce que je construis
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  QUICK TRY: Terminal Demo  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-**Outils CLI originaux** — installables, exécutables, sans dépendance à un fournisseur.
+<div align="center">
 
-| Outil | Description | Installation |
-|-------|-------------|--------------|
-| **[git-format](https://github.com/liangzhengtao/git-format)** | Transformez l'historique Git en [Conventional Commits](https://www.conventionalcommits.org/) | `npx git-format` |
-| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | L'IA génère les messages de commit depuis `git diff` | `npx ai-commit` |
-| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | Suivez les coûts, tokens, appels d'outils et timelines de session de votre agent AI | `npx agent-trace` |
-| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | Auditez la preparation de votre repo pour les assistants de codage AI (score 0-100) | `npx @liangzhengtao/vibe-check` |
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  $ npx git-format                                                    │
+│  ✓ feat(auth): add login validation                                  │
+│                                                                      │
+│  $ npx ai-commit                                                     │
+│  ✓ fix(api): handle null response in user endpoint                   │
+│                                                                      │
+│  $ npx @liangzhengtao/vibe-check                                     │
+│  ┌────────────────────────────────────────────────────────────────┐  │
+│  │ ✨ Score: 83/100 │ Grade: A                                    │  │
+│  │ Super ! Votre projet est très adapté à l'IA.                   │  │
+│  └────────────────────────────────────────────────────────────────┘  │
+│                                                                      │
+│  $ npx agent-trace                                                   │
+│  📊 Sessions : 64 │ Coût : 4681 $ │ Tokens : 2,3B                   │
+│                                                                      │
+│  Pas de clone · Pas de clé API · Pas de config · Exécutez-le         │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-**Collections curées** — configurations et ressources éprouvées en production.
-
-| Collection | Contenu |
-|-----------|---------|
-| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 règles de codage AI prêtes pour la production (Cursor, Claude, Kimi Code) |
-| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 configurations de serveurs MCP vérifiées, testées avec de vrais assistants AI |
-| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ prompts AI pour le codage, l'écriture, la recherche et la création |
+</div>
 
 ---
 
-## 📂 Tous les projets (33 au total)
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  WHAT I BUILD  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `>_` CE QUE JE CONSTRUIS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔧 Outils CLI Originaux
+
+| Outil | Commande |
+|:------|:---------|
+| **[git-format](https://github.com/liangzhengtao/git-format)** — Conventional Commits | `npx git-format` |
+| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** — Messages de commit IA | `npx ai-commit` |
+| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** — Surveillance d'agent | `npx agent-trace` |
+| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** — Audit d'adaptation à l'IA | `npx @liangzhengtao/vibe-check` |
+
+</td>
+<td width="50%" valign="top">
+
+#### 📦 Collections Curatées
+
+| Collection | Points forts |
+|:-----------|:-------------|
+| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 règles de codage IA en production |
+| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 configurations MCP vérifiées |
+| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ prompts IA |
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  ANALYTICS  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `>_` ANALYTIQUES
+
+<img src="https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=6e40c9&text_color=c9d1d9&custom_title=GitHub%20Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="41%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  TECH STACK  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `>_` PILE TECHNOLOGIQUE
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+
+<!-- AI/ML -->
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Claude_AI-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kimi_Code-6e40c9?style=flat-square&logo=kiwi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  WORKFLOW  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `>_` FLUX DE TRAVAIL
+
+</div>
+
+```mermaid
+graph LR
+    A["🔧 git-format<br/>Clean Commits"] -->|formatted| B["📦 PR Ready"]
+    C["🤖 ai-commit<br/>AI Messages"] -->|auto-msg| B
+    B --> D["📊 vibe-check<br/>AI-Readiness"]
+    D -->|"score 0-100"| E["✅ AI-Ready Repo"]
+    E --> F["🔍 agent-trace<br/>Monitoring"]
+    F --> G["💰 Cost Control"]
+
+    style A fill:#0d1117,stroke:#00d4ff,stroke-width:2px,color:#00d4ff
+    style B fill:#0d1117,stroke:#6e40c9,stroke-width:2px,color:#6e40c9
+    style C fill:#0d1117,stroke:#00d4ff,stroke-width:2px,color:#00d4ff
+    style D fill:#0d1117,stroke:#6e40c9,stroke-width:2px,color:#6e40c9
+    style E fill:#0d1117,stroke:#00d4ff,stroke-width:2px,color:#00d4ff
+    style F fill:#0d1117,stroke:#6e40c9,stroke-width:2px,color:#6e40c9
+    style G fill:#0d1117,stroke:#00d4ff,stroke-width:2px,color:#00d4ff
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  ALL PROJECTS  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `>_` TOUS LES PROJETS `33`
+
+</div>
 
 <details>
-<summary><strong>Outils de développement AI (6)</strong></summary>
+<summary><b><img src="https://img.shields.io/badge/-AI_Tools-00d4ff?style=flat-square" /> Outils Développeur IA (6)</b></summary>
+<br>
 
 | Projet | Description |
-|--------|-------------|
-| [agent-trace](https://github.com/liangzhengtao/agent-trace) | Tracez votre agent AI — coûts, tokens, santé des outils, timeline de session |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 règles de codage AI en production (Cursor, Claude, Kimi Code) |
-| [vibe-check](https://github.com/liangzhengtao/vibe-check) | Scorez la preparation AI de votre projet (0-100) |
-| [commit-ai](https://github.com/liangzhengtao/ai-commit) | L'IA écrit vos messages de commit, sans clé API |
-| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 serveurs MCP vérifiés pour les assistants de codage AI |
-| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 compétences pour construire des agents AI en production |
+|:-------|:------------|
+| [agent-trace](https://github.com/liangzhengtao/agent-trace) | Suivre l'agent IA — coûts, tokens, santé des outils |
+| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 règles de codage IA en production |
+| [vibe-check](https://github.com/liangzhengtao/vibe-check) | Évaluer l'adaptation du projet à l'IA (0-100) |
+| [commit-ai](https://github.com/liangzhengtao/ai-commit) | L'IA rédige les messages de commit |
+| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 serveurs MCP vérifiés |
+| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 compétences d'agents IA en production |
 
 </details>
 
 <details>
-<summary><strong>Recherche & Carrière (7)</strong></summary>
+<summary><b><img src="https://img.shields.io/badge/-Research-6e40c9?style=flat-square" /> Recherche & Carrière (7)</b></summary>
+<br>
 
 | Projet | Description |
-|--------|-------------|
-| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 compétences de recherche (LaTeX, stats, revue de littérature) |
+|:-------|:------------|
+| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 compétences de recherche (LaTeX, stats) |
 | [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | Figures scientifiques de qualité publication |
-| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 compétenses pour décrocher le job de vos rêves |
-| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | Préparation à l'entretien de conception système avec diagrammes ASCII |
+| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 compétences pour décrocher votre emploi idéal |
+| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | Préparation au design système avec diagrammes ASCII |
 | [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 feuilles de route de carrière (junior → staff) |
-| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | Construisez la technologie de zéro (10 tutoriels, chinois) |
-| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 patterns d'algorithmes, 72 problèmes (chinois) |
+| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | Construire la tech de zéro (10 tutoriels) |
+| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 modèles d'algorithmes, 72 problèmes |
 
 </details>
 
 <details>
-<summary><strong>Vidéo & Créativité (7)</strong></summary>
+<summary><b><img src="https://img.shields.io/badge/-Creative-ff6b6b?style=flat-square" /> Vidéo & Créatif (7)</b></summary>
+<br>
 
 | Projet | Description |
-|--------|-------------|
-| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ prompts pour Sora, Runway, Pika, Kling |
-| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 compétences pour la transcription, notes, sous-titres |
-| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14 compétences pour le workflow complet de création vidéo |
+|:-------|:------------|
+| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ prompts (Sora, Runway, Kling) |
+| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 compétences de transcription |
+| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14 compétences de workflow vidéo |
 | [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10 compétences de montage vidéo |
-| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10 compétences créatives (affiches, logos, photographie) |
-| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 compétences d'écriture (blog, SEO, copywriting) |
-| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ prompts AI pour chaque tâche |
+| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10 compétences créatives (affiches, logos) |
+| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 compétences rédactionnelles (blog, SEO) |
+| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ prompts IA pour chaque tâche |
 
 </details>
 
 <details>
-<summary><strong>Ressources pour développeurs (8)</strong></summary>
+<summary><b><img src="https://img.shields.io/badge/-DevTools-ffd700?style=flat-square" /> Ressources Développeur (8)</b></summary>
+<br>
 
 | Projet | Description |
-|--------|-------------|
-| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ outils de développement par catégorie |
-| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 compétences DevOps (CI/CD, K8s, Cloud) |
+|:-------|:------------|
+| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ outils développeur par catégorie |
+| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 compétences DevOps (CI/CD, K8s) |
 | [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12 compétences en cybersécurité |
 | [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | 12 compétences pour les fondateurs |
-| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7 patterns d'architectures d'agents AI avec code de production |
-| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | Exécutez des LLMs sur votre propre matériel |
-| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | Analyse des tendances d'étoiles GitHub |
-| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | Outils pour développeurs chinois (8 catégories) |
+| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7 modèles d'agents IA |
+| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | Exécuter des LLMs sur votre propre matériel |
+| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | Analyse des tendances GitHub stars |
+| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | Outils développeur chinois |
 
 </details>
 
 <details>
-<summary><strong>Projets personnels (4)</strong></summary>
+<summary><b><img src="https://img.shields.io/badge/-Personal-00ff41?style=flat-square" /> Personnel (4)</b></summary>
+<br>
 
 | Projet | Description |
-|--------|-------------|
-| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | Mon environnement de développement (Zsh, Git, VS Code, Neovim) |
+|:-------|:------------|
+| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | Environnement dev (Zsh, Git, Neovim) |
 | [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | Sujets d'examen du Guizhou (gratuit pour les étudiants) |
 | [blog](https://github.com/liangzhengtao/blog) | Articles de blog techniques |
-| [git-format](https://github.com/liangzhengtao/git-format) | Formatez les commits Git en Conventional Commits |
+| [git-format](https://github.com/liangzhengtao/git-format) | Formater les commits en Conventional Commits |
 
 </details>
 
 ---
 
-## 💬 Comment les gens utilisent ces outils
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██  FOOTER  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-```bash
-# Avant une PR — nettoyer l'historique des commits
-git rebase -i main
-npx git-format
+<div align="center">
 
-# Pendant le développement — laissez l'IA gérer les messages de commit
-git add .
-npx ai-commit
+### `>_` CONTACT
 
-# Intégration — vérifier si un repo est prêt pour le codage AI
-git clone <repo> && cd <repo>
-npx @liangzhengtao/vibe-check
+[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=flat-square&logo=github)](https://github.com/liangzhengtao)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=flat-square&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
 
-# Débogage — voir ce que votre agent AI a réellement fait
-npx agent-trace --last-session
-```
+<br/>
 
----
+**33 projets · Tout open source · Tout gratuit**
 
-## 🤝 Me contacter
+*Si l'un d'eux vous a fait gagner du temps, ⭐ le repo que vous avez le plus utilisé.*
 
-- **GitHub** : [liangzhengtao](https://github.com/liangzhengtao) — Suivez pour les nouvelles sorties d'outils
-- **Blog** : [liangzhengtao/blog](https://github.com/liangzhengtao/blog) — Articles techniques
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:6e40c9,100:0d1117&height=80&section=footer&text=%20&fontSize=0" width="100%"/>
 
-**7 outils en vedette. 33 projets. Tout est open source.**
-
-Si l'un de ces outils vous a fait gagner du temps, [mettez une étoile au repo](https://github.com/liangzhengtao/git-format) que vous avez le plus utilisé.
+</div>
