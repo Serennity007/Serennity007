@@ -1,61 +1,64 @@
 [中文版](README.zh.md)
-n<div align="center">
-
-<img src=".banner.svg" width="100%" alt="banner">
-
-</div>
-
-
-<div align="center">
 
 # Hey, I'm Zhengtao 👋
 
-### I build tools that save developers hours every week.
+### I build CLI tools that automate the boring parts of AI development.
 
-**33 open source projects** · **200+ reusable skills** · **285+ AI prompts** · All free, all open source.
+I write open-source tools that handle git workflows, agent monitoring, project auditing, and commit generation — so you can focus on building, not babysitting.
 
-[![GitHub followers](https://img.shields.io/github/followers/liangzhengtao?style=social)](https://github.com/liangzhengtao)
-[![GitHub stars](https://img.shields.io/github/stars/liangzhengtao?style=social)](https://github.com/liangzhengtao)
-
-</div>
+[![npm downloads (git-format)](https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square)](https://www.npmjs.com/package/git-format)
+[![npm downloads (ai-commit)](https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=flat-square)](https://www.npmjs.com/package/ai-commit)
+[![npm downloads (agent-trace)](https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=flat-square)](https://www.npmjs.com/package/agent-trace)
+[![GitHub followers](https://img.shields.io/github/followers/liangzhengtao?style=flat-square)](https://github.com/liangzhengtao)
 
 ---
 
-## ⚡ Try These Right Now
+## ⚡ Try One in 10 Seconds
+
+No clone. No API key. No config. Just run it.
 
 ```bash
-# Clone and run locally (all projects are on GitHub)
-git clone https://github.com/liangzhengtao/vibe-check && cd vibe-check && npm install && node bin/cli.js
-git clone https://github.com/liangzhengtao/ai-commit && cd ai-commit && npm install && node bin/cli.js
-git clone https://github.com/liangzhengtao/agent-trace && cd agent-trace && npm install && node bin/cli.js
-git clone https://github.com/liangzhengtao/git-format && cd git-format && npm install && node bin/cli.js
+# Format messy git history into clean conventional commits
+npx git-format
 
-# Or use npx with scoped packages (published)
-npx @liangzhengtao/vibe-check    # Score your project's AI-readiness
-npx @liangzhengtao/commit-ai     # AI writes your commit messages
+# Let AI write your commit messages from staged changes
+npx ai-commit
+
+# Score your project's AI-readiness (0-100)
+npx @liangzhengtao/vibe-check
 ```
 
-No API key needed. Copy, paste, done.
+Pick one. Paste it. See results immediately.
 
 ---
 
-## 🔥 Featured Projects
+## 🔧 What I Build
 
-| What it does | Try it |
-|-------------|--------|
-| **Track your AI agent** — costs, tokens, tool health, every conversation | [agent-trace](https://github.com/liangzhengtao/agent-trace) |
-| **Score your project** — is it configured for AI coding assistants? | `npx @liangzhengtao/vibe-check` |
-| **AI commit messages** — generates conventional commits from staged changes | `npx @liangzhengtao/commit-ai` |
-| **20 AI coding rules** — copy-paste config for Cursor, Claude, Kimi Code | [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) |
-| **9 MCP servers** — verified configs for Cursor, Claude, Kimi Code | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) |
-| **200+ video prompts** — for Sora, Runway, Pika, Kling | [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) |
+**Original CLI Tools** — installable, runnable, no vendor lock-in.
+
+| Tool | What it does | Install |
+|------|-------------|---------|
+| **[git-format](https://github.com/liangzhengtao/git-format)** | Turn messy commits into [Conventional Commits](https://www.conventionalcommits.org/) | `npx git-format` |
+| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | AI generates commit messages from `git diff` | `npx ai-commit` |
+| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | Track AI agent costs, tokens, tool calls, and session timelines | `npx agent-trace` |
+| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | Audit your repo for AI-coding-assistant readiness (0-100 score) | `npx @liangzhengtao/vibe-check` |
+
+**Curated Collections** — battle-tested configs and resources.
+
+| Collection | What's inside |
+|-----------|--------------|
+| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 production-ready AI coding rules for Cursor, Claude, Kimi Code |
+| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 verified MCP server configs, tested with real AI assistants |
+| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ AI prompts for coding, writing, research, and creative tasks |
 
 ---
 
-## 📚 All 33 Projects
+## 📂 All Projects (33 total)
 
-### AI Developer Tools
-| Project | What it does |
+<details>
+<summary><strong>AI Developer Tools (6)</strong></summary>
+
+| Project | Description |
 |---------|-------------|
 | [agent-trace](https://github.com/liangzhengtao/agent-trace) | Trace your AI agent — costs, tokens, tool health, session timeline |
 | [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 production AI coding rules (Cursor, Claude, Kimi Code) |
@@ -64,19 +67,27 @@ No API key needed. Copy, paste, done.
 | [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 verified MCP servers for AI coding assistants |
 | [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 skills for building production AI agents |
 
-### Research & Career
-| Project | What it does |
+</details>
+
+<details>
+<summary><strong>Research & Career (7)</strong></summary>
+
+| Project | Description |
 |---------|-------------|
 | [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 research skills (LaTeX, stats, literature review) |
 | [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | Publication-quality scientific figures |
 | [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 skills to land your dream job |
 | [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | System design interview prep with ASCII diagrams |
-| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 career roadmaps (junior → staff) |
+| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 career roadmaps (junior to staff) |
 | [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | Build tech from scratch (10 tutorials, Chinese) |
 | [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 algorithm patterns, 72 problems (Chinese) |
 
-### Video & Creative
-| Project | What it does |
+</details>
+
+<details>
+<summary><strong>Video & Creative (7)</strong></summary>
+
+| Project | Description |
 |---------|-------------|
 | [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ prompts for Sora, Runway, Pika, Kling |
 | [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 skills for transcription, notes, subtitles |
@@ -86,8 +97,12 @@ No API key needed. Copy, paste, done.
 | [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 writing skills (blog, SEO, copywriting) |
 | [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ AI prompts for every task |
 
-### Developer Resources
-| Project | What it does |
+</details>
+
+<details>
+<summary><strong>Developer Resources (8)</strong></summary>
+
+| Project | Description |
 |---------|-------------|
 | [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ developer tools by category |
 | [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 DevOps skills (CI/CD, K8s, Cloud) |
@@ -98,48 +113,50 @@ No API key needed. Copy, paste, done.
 | [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | GitHub star trends analysis |
 | [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | Chinese developer tools (8 categories) |
 
-### Personal
-| Project | What it does |
+</details>
+
+<details>
+<summary><strong>Personal (4)</strong></summary>
+
+| Project | Description |
 |---------|-------------|
 | [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | My dev environment (Zsh, Git, VS Code, Neovim) |
 | [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | Guizhou exam papers (free for students) |
 | [blog](https://github.com/liangzhengtao/blog) | Technical blog posts |
 | [git-format](https://github.com/liangzhengtao/git-format) | Format git commits to conventional commits |
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python · TypeScript · JavaScript · Go · Rust · LaTeX
-
-**AI/ML:** PyTorch · Transformers · LangChain · OpenAI API · Local LLMs
-
-**Frontend:** React · Next.js · Vue · Tailwind CSS
-
-**Backend:** FastAPI · Node.js · PostgreSQL · Redis
-
-**DevOps:** Docker · Kubernetes · GitHub Actions · Terraform
-
-**Tools:** Cursor · Claude Code · Kimi Code · Vim · tmux
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 💬 How People Use These Tools
 
-<div align="center">
+```bash
+# Before a PR — clean up your commit history
+git rebase -i main
+npx git-format
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=radical)
+# During development — let AI handle commit messages
+git add .
+npx ai-commit
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=radical)
+# Onboarding — check if a repo is ready for AI coding
+git clone <repo> && cd <repo>
+npx @liangzhengtao/vibe-check
 
-</div>
+# Debugging — see what your AI agent actually did
+npx agent-trace --last-session
+```
 
 ---
 
-<div align="center">
+## 🤝 Connect
 
-**33 projects. 200+ skills. 285+ prompts. All free.**
+- **GitHub**: [liangzhengtao](https://github.com/liangzhengtao) — Follow for new tool releases
+- **Blog**: [liangzhengtao/blog](https://github.com/liangzhengtao/blog) — Technical writing
 
-If any of this saved you time, give it a ⭐
+---
 
-</div>
+**7 featured tools. 33 projects. All open source.**
+
+If any of these saved you time, [star the repo](https://github.com/liangzhengtao/git-format) you used most.
