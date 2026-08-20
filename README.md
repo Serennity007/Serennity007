@@ -1,14 +1,13 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  HEADER: Deep Space Terminal  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  HEADER: Cyberpunk Terminal                                              ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:00d4ff&height=200&section=header&text=%20&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0d1117,60:1a0533,100:00d4ff&height=200&section=header&text=%20&fontSize=0" width="100%"/>
 
 <div align="center">
 
-<!-- Terminal-style name -->
 ```
  ███████╗██╗  ██╗███████╗███╗   ██╗ ██████╗ ████████╗ █████╗  ██████╗ 
  ╚══██╔╝██║  ██║██╔════╝████╗  ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔═══██╗
@@ -18,18 +17,16 @@
     ╚═╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝
 ```
 
-<!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+npx+agent-trace+%23+Track+your+AI+agent;I+build+CLI+tools+that+automate+AI+development;33+open+source+projects+%7C+All+free" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+npx+agent-trace+%23+Track+your+AI+agent;I+build+CLI+tools+that+automate+AI+development;33+open+source+projects+%7C+All+free+%7C+All+open+source" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges row 1: npm downloads -->
+<!-- ═══════════ BADGES ═══════════ -->
 <a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
 <a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
 <a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
 <a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
 
-<!-- Badges row 2: profile stats -->
 <a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
 <a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/33_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
@@ -38,9 +35,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  QUICK TRY: Terminal Demo  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  TERMINAL DEMO                                                           ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -69,9 +66,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  WHAT I BUILD  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  WHAT I BUILD                                                            ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -109,9 +106,23 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  ANALYTICS  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  GITHUB TROPHIES                                                         ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### `>_` ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=liangzhengtao&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  ANALYTICS                                                                ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -128,9 +139,23 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  TECH STACK  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  ACTIVITY GRAPH                                                           ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### `>_` ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  TECH STACK                                                               ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -178,9 +203,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  WORKFLOW  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  WORKFLOW                                                                 ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -208,9 +233,25 @@ graph LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  ALL PROJECTS  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  STAR HISTORY                                                             ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### `>_` STAR HISTORY
+
+<a href="https://star-history.com/#liangzhengtao/git-format&liangzhengtao/agent-trace&liangzhengtao/ai-commit&Date">
+  <img src="https://api.star-history.com/svg?repos=liangzhengtao/git-format,liangzhengtao/agent-trace,liangzhengtao/ai-commit&type=Date&theme=dark" width="95%" />
+</a>
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  ALL PROJECTS                                                             ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -297,9 +338,9 @@ graph LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██  FOOTER  ██ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██  FOOTER                                                                   ██ -->
+<!-- ██████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -316,6 +357,6 @@ graph LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:6e40c9,100:0d1117&height=80&section=footer&text=%20&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:6e40c9,100:000000&height=80&section=footer&text=%20&fontSize=0" width="100%"/>
 
 </div>
