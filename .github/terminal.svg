@@ -1,0 +1,315 @@
+<svg width="750" height="784" viewBox="0 0 750 784" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Animated terminal showing: echo &quot;Initializing...&quot;, npx agent-trace, echo &quot;Available tools:&quot;">
+  <title>Animated terminal showing: echo &quot;Initializing...&quot;, npx agent-trace, echo &quot;Available tools:&quot;</title>
+  <desc>zhengtao@dev:~$ echo &quot;Initializing...&quot;
+Z H E N G T A O
+AI Developer Tools Builder
+
+✓ 60+ open source projects
+✓ 4 CLI tools (npx ready)
+✓ 285+ AI prompts
+zhengtao@dev:~$ npx agent-trace
+
+$ npx agent-trace
+📊 Sessions: 64  Cost: $4681  Tokens: 2.3B
+
+$ npx vibe-check
+✨ Score: 83/100 | Grade: A
+Great! Your project is very AI-friendly.
+zhengtao@dev:~$ echo &quot;Available tools:&quot;
+
+Available Tools:
+npx git-format    → Format commits
+npx ai-commit     → AI commit messages
+npx agent-trace   → Track AI agents
+npx vibe-check    → Audit AI-readiness
+
+All free. All open source. No API key needed.</desc>
+  <style>
+    .tt { font-family: JetBrains Mono, monospace; font-size: 14px; white-space: pre; }
+    @keyframes scanlineScroll {
+      from { transform: translateY(0); }
+      to { transform: translateY(4px); }
+    }
+    .scanline-overlay { animation: scanlineScroll 1.2s linear infinite; }
+    /* fadeIn drives all opacity fade-ins (prompt + output lines + animated frame
+       wrappers). Lives in CSS rather than SMIL so the @media block below kills
+       it under prefers-reduced-motion. fill-mode: backwards keeps the element
+       at opacity 0 during the animation-delay window so it doesn't pop in
+       before its scheduled time. */
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    .fade-in { animation: fadeIn 10ms linear backwards; }
+    /* frame-cycle-N (closes #69): one rule per unique frame count across the
+       animated blocks in this render. Each frame text element carries the
+       class + an inline animation-delay = i*frameDur. The static opacity
+       attribute (frame 0 = 1, others = 0) is the SMIL-stripped AND
+       reduced-motion fallback — frame 0 visible, rest invisible. Under
+       prefers-reduced-motion the @media block kills animation-duration so
+       the underlying opacity attribute applies. */
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+  <defs>
+    
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="1" height="2">
+      <rect width="1" height="1" fill="transparent"/>
+      <rect y="1" width="1" height="1" fill="rgba(255,255,255,0.02)"/>
+    </pattern>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="black" stop-opacity="0"/>
+      <stop offset="60%" stop-color="black" stop-opacity="0"/>
+      <stop offset="100%" stop-color="black" stop-opacity="0.25"/>
+    </radialGradient>
+    
+    <filter id="textGlow" x="-12%" y="-12%" width="124%" height="124%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.4" result="halo"/>
+      <feMerge>
+        <feMergeNode in="halo"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="shadow" x="-8%" y="-8%" width="116%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dx="0" dy="6" result="offsetblur"/>
+      <feFlood flood-color="#000000" flood-opacity="0.55"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="terminalViewport">
+      <rect x="0" y="40" width="750" height="744"/>
+    </clipPath>
+  </defs>
+
+  <g filter="url(#shadow)">
+    
+    <rect x="0" y="0" width="750" height="784"
+          rx="12" ry="12"
+          fill="#0a0014"/>
+    
+    <rect x="0" y="0" width="750" height="40"
+          rx="12" ry="12"
+          fill="#150028"/>
+    <rect x="0" y="16" width="750" height="16"
+          fill="#150028"/>
+    <g id="window-controls">
+      <circle cx="14" cy="16" r="6" fill="#ff0055" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="34" cy="16" r="6" fill="#ffff00" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="54" cy="16" r="6" fill="#00ff88" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+    </g>
+    <text x="375" y="24.55"
+          font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="13"
+          fill="#e0e0ff" text-anchor="middle">
+      zhengtao@dev-machine:~
+    </text>
+    
+    <rect x="0" y="40" width="750"
+          height="744" fill="#0a0014"/>
+    <g clip-path="url(#terminalViewport)">
+      <g id="scrollContainer" transform="translate(12, 54)" filter="url(#textGlow)">
+        
+        
+    <g transform="translate(0, 0)">
+      <defs><clipPath id="cmdrev-0"><rect x="134" y="-14" width="176" height="28"><animate attributeName="width" values="0;8;16;24;32;40;48;56;64;72;80;88;96;104;112;120;128;136;144;152;160;168;176" keyTimes="0.0000;0.0455;0.0909;0.1364;0.1818;0.2273;0.2727;0.3182;0.3636;0.4091;0.4545;0.5000;0.5455;0.5909;0.6364;0.6818;0.7273;0.7727;0.8182;0.8636;0.9091;0.9545;1.0000" calcMode="discrete" begin="0ms" dur="1200ms" fill="freeze"/></rect></clipPath></defs>
+      <text class="tt fade-in" style="animation-delay: 0ms" fill="#ff0080" textLength="134" lengthAdjust="spacingAndGlyphs">zhengtao@dev:~$ </text>
+      <text class="tt" x="134" fill="#ff0080" textLength="176" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmdrev-0)">echo &quot;Initializing...&quot;</text>
+      
+    <rect x="134" y="-12" width="8" height="14"
+          fill="#00ffff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="opacity" to="0" begin="1200ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="x" values="134;134;142;150;158;166;174;182;190;198;206;214;222;230;238;246;254;262;270;278;286;294;302" keyTimes="0.0000;0.0455;0.0909;0.1364;0.1818;0.2273;0.2727;0.3182;0.3636;0.4091;0.4545;0.5000;0.5455;0.5909;0.6364;0.6818;0.7273;0.7727;0.8182;0.8636;0.9091;0.9545;1.0000" calcMode="discrete" begin="0ms" dur="1200ms" fill="freeze"/>
+    </rect>
+    </g>
+
+    <g transform="translate(0, 25.2)" class="fade-in" style="animation-delay: 1500ms">
+      <text class="tt">
+        <tspan fill="#00ffff">╔════════════════════════════════════════════════════════════╗</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 50.4)" class="fade-in" style="animation-delay: 1550ms">
+      <text class="tt">
+        <tspan fill="#00ffff">║</tspan><tspan fill="#e0e0ff">  </tspan><tspan fill="#e0e0ff">Z H E N G T A O</tspan><tspan fill="#e0e0ff">                                        </tspan><tspan fill="#00ffff">║</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 75.6)" class="fade-in" style="animation-delay: 1600ms">
+      <text class="tt">
+        <tspan fill="#00ffff">║</tspan><tspan fill="#e0e0ff">  </tspan><tspan fill="#e0e0ff">AI Developer Tools Builder</tspan><tspan fill="#e0e0ff">                              </tspan><tspan fill="#00ffff">║</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 100.8)" class="fade-in" style="animation-delay: 1650ms">
+      <text class="tt">
+        <tspan fill="#00ffff">╚════════════════════════════════════════════════════════════╝</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 126)" class="fade-in" style="animation-delay: 1700ms">
+      <text class="tt" fill="#e0e0ff">
+        
+      </text>
+    </g>
+
+    <g transform="translate(0, 151.2)" class="fade-in" style="animation-delay: 1750ms">
+      <text class="tt">
+        <tspan fill="#00ff88">✓</tspan><tspan fill="#e0e0ff"> </tspan><tspan fill="#ffffff">60+ open source projects</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 176.4)" class="fade-in" style="animation-delay: 1800ms">
+      <text class="tt">
+        <tspan fill="#00ff88">✓</tspan><tspan fill="#e0e0ff"> </tspan><tspan fill="#ffffff">4 CLI tools (npx ready)</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 201.6)" class="fade-in" style="animation-delay: 1850ms">
+      <text class="tt">
+        <tspan fill="#00ff88">✓</tspan><tspan fill="#e0e0ff"> </tspan><tspan fill="#ffffff">285+ AI prompts</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 226.8)">
+      <defs><clipPath id="cmdrev-9"><rect x="134" y="-14" width="120" height="28"><set attributeName="width" to="0" begin="0s" end="3100ms"/><animate attributeName="width" values="0;8;16;24;32;40;48;56;64;72;80;88;96;104;112;120" keyTimes="0.0000;0.0667;0.1333;0.2000;0.2667;0.3333;0.4000;0.4667;0.5333;0.6000;0.6667;0.7333;0.8000;0.8667;0.9333;1.0000" calcMode="discrete" begin="3100ms" dur="1200ms" fill="freeze"/></rect></clipPath></defs>
+      <text class="tt fade-in" style="animation-delay: 3100ms" fill="#ff0080" textLength="134" lengthAdjust="spacingAndGlyphs">zhengtao@dev:~$ </text>
+      <text class="tt" x="134" fill="#ff0080" textLength="120" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmdrev-9)">npx agent-trace</text>
+      
+    <rect x="134" y="-12" width="8" height="14"
+          fill="#00ffff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3100ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="opacity" to="0" begin="4300ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="x" values="134;134;142;150;158;166;174;182;190;198;206;214;222;230;238;246" keyTimes="0.0000;0.0667;0.1333;0.2000;0.2667;0.3333;0.4000;0.4667;0.5333;0.6000;0.6667;0.7333;0.8000;0.8667;0.9333;1.0000" calcMode="discrete" begin="3100ms" dur="1200ms" fill="freeze"/>
+    </rect>
+    </g>
+
+    <g transform="translate(0, 252)" class="fade-in" style="animation-delay: 4600ms">
+      <text class="tt" fill="#e0e0ff">
+        
+      </text>
+    </g>
+
+    <g transform="translate(0, 277.2)" class="fade-in" style="animation-delay: 4650ms">
+      <text class="tt">
+        <tspan fill="#ffff00">$ npx agent-trace</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 302.4)" class="fade-in" style="animation-delay: 4700ms">
+      <text class="tt">
+        <tspan fill="#e0e0ff">────────────────────────────────────────</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 327.6)" class="fade-in" style="animation-delay: 4750ms">
+      <text class="tt">
+        <tspan fill="#00ffff">📊 Sessions: 64</tspan><tspan fill="#e0e0ff">  </tspan><tspan fill="#00ff88">Cost: $4681</tspan><tspan fill="#e0e0ff">  </tspan><tspan fill="#ff00ff">Tokens: 2.3B</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 352.8)" class="fade-in" style="animation-delay: 4800ms">
+      <text class="tt">
+        <tspan fill="#e0e0ff">────────────────────────────────────────</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 378)" class="fade-in" style="animation-delay: 4850ms">
+      <text class="tt" fill="#e0e0ff">
+        
+      </text>
+    </g>
+
+    <g transform="translate(0, 403.2)" class="fade-in" style="animation-delay: 4900ms">
+      <text class="tt">
+        <tspan fill="#ffff00">$ npx vibe-check</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 428.4)" class="fade-in" style="animation-delay: 4950ms">
+      <text class="tt">
+        <tspan fill="#00ff88">✨ Score: 83/100 | Grade: A</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 453.6)" class="fade-in" style="animation-delay: 5000ms">
+      <text class="tt">
+        <tspan fill="#ffffff">Great! Your project is very AI-friendly.</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 478.8)">
+      <defs><clipPath id="cmdrev-19"><rect x="134" y="-14" width="184" height="28"><set attributeName="width" to="0" begin="0s" end="6250ms"/><animate attributeName="width" values="0;8;16;24;32;40;48;56;64;72;80;88;96;104;112;120;128;136;144;152;160;168;176;184" keyTimes="0.0000;0.0435;0.0870;0.1304;0.1739;0.2174;0.2609;0.3043;0.3478;0.3913;0.4348;0.4783;0.5217;0.5652;0.6087;0.6522;0.6957;0.7391;0.7826;0.8261;0.8696;0.9130;0.9565;1.0000" calcMode="discrete" begin="6250ms" dur="1200ms" fill="freeze"/></rect></clipPath></defs>
+      <text class="tt fade-in" style="animation-delay: 6250ms" fill="#ff0080" textLength="134" lengthAdjust="spacingAndGlyphs">zhengtao@dev:~$ </text>
+      <text class="tt" x="134" fill="#ff0080" textLength="184" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmdrev-19)">echo &quot;Available tools:&quot;</text>
+      
+    <rect x="134" y="-12" width="8" height="14"
+          fill="#00ffff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="6250ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="opacity" to="0" begin="7450ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="x" values="134;134;142;150;158;166;174;182;190;198;206;214;222;230;238;246;254;262;270;278;286;294;302;310" keyTimes="0.0000;0.0435;0.0870;0.1304;0.1739;0.2174;0.2609;0.3043;0.3478;0.3913;0.4348;0.4783;0.5217;0.5652;0.6087;0.6522;0.6957;0.7391;0.7826;0.8261;0.8696;0.9130;0.9565;1.0000" calcMode="discrete" begin="6250ms" dur="1200ms" fill="freeze"/>
+    </rect>
+    </g>
+
+    <g transform="translate(0, 504)" class="fade-in" style="animation-delay: 7750ms">
+      <text class="tt" fill="#e0e0ff">
+        
+      </text>
+    </g>
+
+    <g transform="translate(0, 529.2)" class="fade-in" style="animation-delay: 7800ms">
+      <text class="tt">
+        <tspan fill="#00ffff">Available Tools:</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 554.4)" class="fade-in" style="animation-delay: 7850ms">
+      <text class="tt">
+        <tspan fill="#ffffff">  npx git-format    </tspan><tspan fill="#e0e0ff">→</tspan><tspan fill="#e0e0ff"> Format commits</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 579.6)" class="fade-in" style="animation-delay: 7900ms">
+      <text class="tt">
+        <tspan fill="#ffffff">  npx ai-commit     </tspan><tspan fill="#e0e0ff">→</tspan><tspan fill="#e0e0ff"> AI commit messages</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 604.8)" class="fade-in" style="animation-delay: 7950ms">
+      <text class="tt">
+        <tspan fill="#ffffff">  npx agent-trace   </tspan><tspan fill="#e0e0ff">→</tspan><tspan fill="#e0e0ff"> Track AI agents</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 630)" class="fade-in" style="animation-delay: 8000ms">
+      <text class="tt">
+        <tspan fill="#ffffff">  npx vibe-check    </tspan><tspan fill="#e0e0ff">→</tspan><tspan fill="#e0e0ff"> Audit AI-readiness</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0, 655.2)" class="fade-in" style="animation-delay: 8050ms">
+      <text class="tt" fill="#e0e0ff">
+        
+      </text>
+    </g>
+
+    <g transform="translate(0, 680.4)" class="fade-in" style="animation-delay: 8100ms">
+      <text class="tt">
+        <tspan fill="#00ff88">All free. All open source. No API key needed.</tspan>
+      </text>
+    </g>
+      </g>
+    </g>
+    <rect x="0" y="40" width="750" height="744" fill="url(#vignette)" pointer-events="none"/>
+    <rect x="0" y="40" width="750" height="744" fill="url(#scanlines)" pointer-events="none" opacity="0.5" class="scanline-overlay"/>
+  </g>
+</svg>

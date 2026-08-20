@@ -1,10 +1,14 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER: Animated Typing Effect                                  -->
+<!-- HEADER: Animated Terminal                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src=".github/terminal.svg" width="100%" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+I+build+CLI+tools+that+automate+AI+development;60%2B+open+source+projects;All+free+%7C+All+open+source" alt="Typing SVG" />
 
