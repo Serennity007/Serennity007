@@ -1,23 +1,25 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HEADER: 动态打字效果                                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 正涛
-
-### `>_` 构建自动化 AI 开发的 CLI 工具
-
-**AI 开发工具作者 · 60+ 开源项目 · CLI 工具开发者**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+%E6%9E%84%E5%BB%BA%E8%87%AA%E5%8A%A8%E5%8C%96+AI+%E5%BC%80%E5%8F%91%E7%9A%84+CLI+%E5%B7%A5%E5%85%B7;60%2B+%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE;%E5%85%A8%E9%83%A8%E5%85%8D%E8%B4%B9+%7C+%E5%85%A8%E9%83%A8%E5%BC%80%E6%BA%90" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
 
-<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+<br/>
+
+<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -79,13 +81,9 @@ npx agent-trace
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,react,nextjs,vue,tailwind,docker,k8s,githubactions,postgres,redis,neovim,linux&theme=dark" />
+</a>
 
 </div>
 
@@ -102,6 +100,31 @@ graph LR
     E --> F["🔍 agent-trace"]
     F --> G["💰 成本控制"]
 ```
+
+---
+
+## 📈 GitHub 数据
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=6e40c9&text_color=c9d1d9&custom_title=GitHub%20%E7%BB%9F%E8%AE%A1" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="41%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+
+</div>
+
+---
+
+## 🔥 活跃度
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
@@ -185,8 +208,8 @@ graph LR
 
 ### 🤝 联系
 
-[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=flat-square&logo=github)](https://github.com/liangzhengtao)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=flat-square&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
+[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
 
 **60+ 个项目 · 全部开源 · 全部免费**
 

@@ -1,27 +1,37 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HEADER: Animated Typing Effect                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# ZHENGTAO
-
-### `>_` I build CLI tools that automate AI development
-
-**AI Developer Tools Builder · 60+ Open Source Projects · CLI Tools for Developers**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+I+build+CLI+tools+that+automate+AI+development;60%2B+open+source+projects;All+free+%7C+All+open+source" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BADGES: npm downloads + profile stats                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=flat-square&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=flat-square" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+
+<br/>
+
+<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 👋 About Me
 
@@ -33,6 +43,10 @@ I'm a developer focused on building AI-powered CLI tools. My tools help develope
 All tools are open source, MIT licensed, and can be run with `npx` — zero install required.
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- QUICK TRY: Terminal Demo                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Try One in 10 Seconds
 
@@ -53,6 +67,10 @@ npx agent-trace
 **No clone · No API key · No config · Just run it**
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I BUILD                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🔧 What I Build
 
@@ -75,21 +93,25 @@ npx agent-trace
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK: Animated Skill Icons                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📊 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,react,nextjs,vue,tailwind,docker,k8s,githubactions,postgres,redis,neovim,linux&theme=dark" />
+</a>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WORKFLOW: Mermaid Diagram                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🔀 How My Tools Work Together
 
@@ -104,6 +126,43 @@ graph LR
 ```
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS: Animated Cards                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=6e40c9&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="41%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔥 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ALL PROJECTS                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📂 All Projects (60+)
 
@@ -181,12 +240,16 @@ graph LR
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=flat-square&logo=github)](https://github.com/liangzhengtao)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=flat-square&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
+[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
 
 **60+ projects · All open source · All free**
 
