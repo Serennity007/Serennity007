@@ -6,6 +6,8 @@
 
 ### `>_` 构建自动化 AI 开发的 CLI 工具
 
+**AI 开发工具作者 · 60+ 开源项目 · CLI 工具开发者**
+
 <br/>
 
 <a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=flat-square&logo=npm&logoColor=white&color=cb3837" /></a>
@@ -18,6 +20,17 @@
 <a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/60%2B_Repos-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
+
+---
+
+## 👋 关于我
+
+我是一名专注于构建 AI 驱动 CLI 工具的开发者。我的工具帮助开发者：
+- **Git 工作流** — 自动格式化 commit、AI 生成消息
+- **AI Agent 监控** — 追踪成本、Token、工具健康
+- **项目审计** — 评估代码库的 AI 准备度
+
+所有工具都是开源的，MIT 协议，可以通过 `npx` 直接运行——零安装。
 
 ---
 
@@ -43,33 +56,22 @@ npx agent-trace
 
 ## 🔧 我做什么
 
-<table>
-<tr>
-<td width="50%">
-
 ### 原创 CLI 工具
 
-| 工具 | 命令 |
-|:-----|:-----|
-| **[git-format](https://github.com/liangzhengtao/git-format)** — Conventional Commits | `npx git-format` |
-| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** — AI commit message | `npx ai-commit` |
-| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** — Agent 监控 | `npx agent-trace` |
-| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** — AI 准备度审计 | `npx @liangzhengtao/vibe-check` |
-
-</td>
-<td width="50%">
+| 工具 | 功能 | 试用 |
+|:-----|:-----|:-----|
+| **[git-format](https://github.com/liangzhengtao/git-format)** | 格式化 commit 为 Conventional Commits | `npx git-format` |
+| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | AI 从 git diff 生成 commit message | `npx ai-commit` |
+| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | 追踪 AI Agent 成本、Token、工具健康 | `npx agent-trace` |
+| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | 审计项目 AI 准备度（0-100 分） | `npx @liangzhengtao/vibe-check` |
 
 ### 精选合集
 
-| 合集 | 亮点 |
+| 合集 | 内容 |
 |:-----|:-----|
-| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 条生产级 AI 编程规则 |
-| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 个验证过的 MCP 配置 |
-| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ AI 提示词 |
-
-</td>
-</tr>
-</table>
+| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 条生产级 AI 编程规则（Cursor、Claude、Kimi Code） |
+| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 个验证过的 MCP 服务器配置 |
+| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ 经过测试的 AI 提示词 |
 
 ---
 
@@ -79,21 +81,17 @@ npx agent-trace
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 🔀 工作流
+## 🔀 工具协作流程
 
 ```mermaid
 graph LR
