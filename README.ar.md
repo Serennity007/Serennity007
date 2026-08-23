@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src=".github/terminal.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/liangzhengtao/liangzhengtao@main/.github/terminal.svg" width="100%" />
 
 </div>
 
@@ -139,12 +139,12 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=liangzhengtao&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=6e40c9&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangzhengtao&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="41%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangzhengtao&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/mostCommitLanguage?username=liangzhengtao&theme=github_dark" width="41%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 </div>
 
