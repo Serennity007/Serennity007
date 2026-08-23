@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/liangzhengtao/liangzhengtao@main/.github/terminal.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@main/.github/terminal.svg" width="100%" />
 
 </div>
 
@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # Score your project's AI-readiness (0-100)
-npx @liangzhengtao/vibe-check
+npx @Serennity007/vibe-check
 
 # Track your AI agent — costs, tokens, tool calls
 npx agent-trace
@@ -82,18 +82,18 @@ npx agent-trace
 
 | الأداة | ماذا تفعل | جرّبها |
 |:-------|:----------|:-------|
-| **[git-format](https://github.com/liangzhengtao/git-format)** | تنسيق الالتزامات إلى Conventional Commits | `npx git-format` |
-| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | الذكاء الاصطناعي يولد رسائل الالتزام من git diff | `npx ai-commit` |
-| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | تتبع تكاليف ورموز وصحة أدوات وكيل الذكاء الاصطناعي | `npx agent-trace` |
-| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | تدقيق جاهزية المشروع للذكاء الاصطناعي (درجة 0-100) | `npx @liangzhengtao/vibe-check` |
+| **[git-format](https://github.com/Serennity007/git-format)** | تنسيق الالتزامات إلى Conventional Commits | `npx git-format` |
+| **[ai-commit](https://github.com/Serennity007/ai-commit)** | الذكاء الاصطناعي يولد رسائل الالتزام من git diff | `npx ai-commit` |
+| **[agent-trace](https://github.com/Serennity007/agent-trace)** | تتبع تكاليف ورموز وصحة أدوات وكيل الذكاء الاصطناعي | `npx agent-trace` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | تدقيق جاهزية المشروع للذكاء الاصطناعي (درجة 0-100) | `npx @Serennity007/vibe-check` |
 
 ### مجموعات منسقة
 
 | المجموعة | المحتوى |
 |:---------|:--------|
-| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 قاعدة برمجة ذكاء اصطناعي للإنتاج لـ Cursor، Claude، Kimi Code |
-| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 إعدادات خوادم MCP موثقة |
-| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | أكثر من 285 موجه ذكاء اصطناعي مختبر لكل مهمة |
+| **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | 20 قاعدة برمجة ذكاء اصطناعي للإنتاج لـ Cursor، Claude، Kimi Code |
+| **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 9 إعدادات خوادم MCP موثقة |
+| **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | أكثر من 285 موجه ذكاء اصطناعي مختبر لكل مهمة |
 
 ---
 
@@ -139,12 +139,12 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangzhengtao&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liangzhengtao&theme=github_dark" width="41%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="41%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 </div>
 
@@ -158,7 +158,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Serennity007&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
 
 </div>
 
@@ -175,12 +175,12 @@ graph LR
 
 | المشروع | الوصف |
 |:--------|:------|
-| [agent-trace](https://github.com/liangzhengtao/agent-trace) | تتبع وكيل الذكاء الاصطناعي — التكاليف، الرموز، صحة الأدوات |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 قاعدة برمجة ذكاء اصطناعي للإنتاج |
-| [vibe-check](https://github.com/liangzhengtao/vibe-check) | تقييم جاهزية المشروع للذكاء الاصطناعي (درجة 0-100) |
-| [commit-ai](https://github.com/liangzhengtao/ai-commit) | الذكاء الاصطناعي يكتب رسائل الالتزام |
-| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 خوادم MCP موثقة |
-| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 مهارة وكيل ذكاء اصطناعي للإنتاج |
+| [agent-trace](https://github.com/Serennity007/agent-trace) | تتبع وكيل الذكاء الاصطناعي — التكاليف، الرموز، صحة الأدوات |
+| [awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules) | 20 قاعدة برمجة ذكاء اصطناعي للإنتاج |
+| [vibe-check](https://github.com/Serennity007/vibe-check) | تقييم جاهزية المشروع للذكاء الاصطناعي (درجة 0-100) |
+| [commit-ai](https://github.com/Serennity007/ai-commit) | الذكاء الاصطناعي يكتب رسائل الالتزام |
+| [awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers) | 9 خوادم MCP موثقة |
+| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 مهارة وكيل ذكاء اصطناعي للإنتاج |
 
 </details>
 
@@ -189,13 +189,13 @@ graph LR
 
 | المشروع | الوصف |
 |:--------|:------|
-| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 مهارة بحثية (LaTeX، إحصاء) |
-| [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | أشكال علمية بجودة منشورات |
-| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 مهارة للحصول على وظيفة أحلامك |
-| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | التحضير لتصميم الأنظمة مع مخططات ASCII |
-| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 خرائط طريق مهنية (مبتدئ ← كبير) |
-| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | بناء التقنيات من الصفر (10 دروس) |
-| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 أنماط خوارزميات، 72 مسألة |
+| [awesome-skills](https://github.com/Serennity007/awesome-skills) | 12 مهارة بحثية (LaTeX، إحصاء) |
+| [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | أشكال علمية بجودة منشورات |
+| [awesome-interview-skills](https://github.com/Serennity007/awesome-interview-skills) | 14 مهارة للحصول على وظيفة أحلامك |
+| [system-design-interview](https://github.com/Serennity007/system-design-interview) | التحضير لتصميم الأنظمة مع مخططات ASCII |
+| [awesome-developer-roadmap](https://github.com/Serennity007/awesome-developer-roadmap) | 10 خرائط طريق مهنية (مبتدئ ← كبير) |
+| [build-your-own-x-cn](https://github.com/Serennity007/build-your-own-x-cn) | بناء التقنيات من الصفر (10 دروس) |
+| [leetcode-patterns-cn](https://github.com/Serennity007/leetcode-patterns-cn) | 8 أنماط خوارزميات، 72 مسألة |
 
 </details>
 
@@ -204,13 +204,13 @@ graph LR
 
 | المشروع | الوصف |
 |:--------|:------|
-| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | أكثر من 200 موجه (Sora، Runway، Kling) |
-| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 مهارة نسخ صوتي |
-| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14 مهارة سير عمل فيديو |
-| [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10 مهارات تحرير فيديو |
-| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10 مهارات إبداعية (ملصقات، شعارات) |
-| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 مهارة كتابة (مدونة، SEO) |
-| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | أكثر من 285 موجه ذكاء اصطناعي لكل مهمة |
+| [awesome-video-prompts](https://github.com/Serennity007/awesome-video-prompts) | أكثر من 200 موجه (Sora، Runway، Kling) |
+| [awesome-video-to-text](https://github.com/Serennity007/awesome-video-to-text) | 12 مهارة نسخ صوتي |
+| [awesome-video-creation](https://github.com/Serennity007/awesome-video-creation) | 14 مهارة سير عمل فيديو |
+| [awesome-video-skills](https://github.com/Serennity007/awesome-video-skills) | 10 مهارات تحرير فيديو |
+| [awesome-creative-skills](https://github.com/Serennity007/awesome-creative-skills) | 10 مهارات إبداعية (ملصقات، شعارات) |
+| [awesome-writing-skills](https://github.com/Serennity007/awesome-writing-skills) | 12 مهارة كتابة (مدونة، SEO) |
+| [awesome-prompts](https://github.com/Serennity007/awesome-prompts) | أكثر من 285 موجه ذكاء اصطناعي لكل مهمة |
 
 </details>
 
@@ -219,14 +219,14 @@ graph LR
 
 | المشروع | الوصف |
 |:--------|:------|
-| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | أكثر من 50 أداة مطور مصنفة |
-| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 مهارة DevOps (CI/CD، K8s) |
-| [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12 مهارة أمن سيبراني |
-| [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | 12 مهارة لرواد الأعمال |
-| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7 أنماط وكلاء ذكاء اصطناعي |
-| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | تشغيل LLMs على جهازك الخاص |
-| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | تحليل اتجاهات نجوم GitHub |
-| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | أدوات المطورين الصينية |
+| [awesome-dev-tools](https://github.com/Serennity007/awesome-dev-tools) | أكثر من 50 أداة مطور مصنفة |
+| [awesome-devops-skills](https://github.com/Serennity007/awesome-devops-skills) | 12 مهارة DevOps (CI/CD، K8s) |
+| [awesome-security-skills](https://github.com/Serennity007/awesome-security-skills) | 12 مهارة أمن سيبراني |
+| [awesome-startup-skills](https://github.com/Serennity007/awesome-startup-skills) | 12 مهارة لرواد الأعمال |
+| [ai-agent-architectures](https://github.com/Serennity007/ai-agent-architectures) | 7 أنماط وكلاء ذكاء اصطناعي |
+| [open-source-llm-guide](https://github.com/Serennity007/open-source-llm-guide) | تشغيل LLMs على جهازك الخاص |
+| [github-stars-analysis](https://github.com/Serennity007/github-stars-analysis) | تحليل اتجاهات نجوم GitHub |
+| [awesome-chinese-developer-tools](https://github.com/Serennity007/awesome-chinese-developer-tools) | أدوات المطورين الصينية |
 
 </details>
 
@@ -235,10 +235,10 @@ graph LR
 
 | المشروع | الوصف |
 |:--------|:------|
-| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | بيئة التطوير (Zsh، Git، Neovim) |
-| [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | أوراق امتحان قويتشو (مجانية للطلاب) |
-| [blog](https://github.com/liangzhengtao/blog) | منشورات مدونة تقنية |
-| [git-format](https://github.com/liangzhengtao/git-format) | تنسيق الالتزامات إلى Conventional Commits |
+| [my-dotfiles](https://github.com/Serennity007/my-dotfiles) | بيئة التطوير (Zsh، Git، Neovim) |
+| [guizhou-exam-papers](https://github.com/Serennity007/guizhou-exam-papers) | أوراق امتحان قويتشو (مجانية للطلاب) |
+| [blog](https://github.com/Serennity007/blog) | منشورات مدونة تقنية |
+| [git-format](https://github.com/Serennity007/git-format) | تنسيق الالتزامات إلى Conventional Commits |
 
 </details>
 
@@ -252,8 +252,8 @@ graph LR
 
 ### 🤝 تواصل
 
-[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
+[![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Serennity007/blog)
 
 **300+ مشروع · جميعها مفتوحة المصدر · جميعها مجانية**
 

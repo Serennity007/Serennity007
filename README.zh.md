@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/liangzhengtao/liangzhengtao@main/.github/terminal.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@main/.github/terminal.svg" width="100%" />
 
 </div>
 
@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # 评估项目的 AI 就绪度（0-100 分）
-npx @liangzhengtao/vibe-check
+npx @Serennity007/vibe-check
 
 # 追踪你的 AI 代理 — 成本、Token、工具调用
 npx agent-trace
@@ -82,18 +82,18 @@ npx agent-trace
 
 | 工具 | 功能 | 试用 |
 |:-----|:-----|:-----|
-| **[git-format](https://github.com/liangzhengtao/git-format)** | 将提交格式化为 Conventional Commits | `npx git-format` |
-| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | AI 根据 git diff 生成提交信息 | `npx ai-commit` |
-| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | 追踪 AI 代理成本、Token、工具健康状态 | `npx agent-trace` |
-| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | 审计项目 AI 就绪度（0-100 分） | `npx @liangzhengtao/vibe-check` |
+| **[git-format](https://github.com/Serennity007/git-format)** | 将提交格式化为 Conventional Commits | `npx git-format` |
+| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI 根据 git diff 生成提交信息 | `npx ai-commit` |
+| **[agent-trace](https://github.com/Serennity007/agent-trace)** | 追踪 AI 代理成本、Token、工具健康状态 | `npx agent-trace` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | 审计项目 AI 就绪度（0-100 分） | `npx @Serennity007/vibe-check` |
 
 ### 精选合集
 
 | 合集 | 内容 |
 |:-----|:-----|
-| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 条生产级 AI 编码规则，适用于 Cursor、Claude、Kimi Code |
-| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 个经过验证的 MCP 服务器配置 |
-| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ 经过测试的 AI 提示词，覆盖各类任务 |
+| **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | 20 条生产级 AI 编码规则，适用于 Cursor、Claude、Kimi Code |
+| **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 9 个经过验证的 MCP 服务器配置 |
+| **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | 285+ 经过测试的 AI 提示词，覆盖各类任务 |
 
 ---
 
@@ -139,12 +139,12 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangzhengtao&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liangzhengtao&theme=github_dark" width="41%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="41%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 </div>
 
@@ -158,7 +158,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Serennity007&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
 
 </div>
 
@@ -175,12 +175,12 @@ graph LR
 
 | 项目 | 描述 |
 |:-----|:-----|
-| [agent-trace](https://github.com/liangzhengtao/agent-trace) | 追踪 AI 代理 — 成本、Token、工具健康状态 |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 条生产级 AI 编码规则 |
-| [vibe-check](https://github.com/liangzhengtao/vibe-check) | 评估项目 AI 就绪度（0-100 分） |
-| [commit-ai](https://github.com/liangzhengtao/ai-commit) | AI 撰写提交信息 |
-| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 个经过验证的 MCP 服务器 |
-| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 个生产级 AI 代理技能 |
+| [agent-trace](https://github.com/Serennity007/agent-trace) | 追踪 AI 代理 — 成本、Token、工具健康状态 |
+| [awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules) | 20 条生产级 AI 编码规则 |
+| [vibe-check](https://github.com/Serennity007/vibe-check) | 评估项目 AI 就绪度（0-100 分） |
+| [commit-ai](https://github.com/Serennity007/ai-commit) | AI 撰写提交信息 |
+| [awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers) | 9 个经过验证的 MCP 服务器 |
+| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 个生产级 AI 代理技能 |
 
 </details>
 
@@ -189,13 +189,13 @@ graph LR
 
 | 项目 | 描述 |
 |:-----|:-----|
-| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 项研究技能（LaTeX、统计） |
-| [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | 出版级科学图表 |
-| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 项技能助你拿到理想 Offer |
-| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | 系统设计面试准备，含 ASCII 图解 |
-| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 条职业路线图（初级 → 首席） |
-| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | 从零构建技术（10 篇教程） |
-| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 种算法模式，72 道题 |
+| [awesome-skills](https://github.com/Serennity007/awesome-skills) | 12 项研究技能（LaTeX、统计） |
+| [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | 出版级科学图表 |
+| [awesome-interview-skills](https://github.com/Serennity007/awesome-interview-skills) | 14 项技能助你拿到理想 Offer |
+| [system-design-interview](https://github.com/Serennity007/system-design-interview) | 系统设计面试准备，含 ASCII 图解 |
+| [awesome-developer-roadmap](https://github.com/Serennity007/awesome-developer-roadmap) | 10 条职业路线图（初级 → 首席） |
+| [build-your-own-x-cn](https://github.com/Serennity007/build-your-own-x-cn) | 从零构建技术（10 篇教程） |
+| [leetcode-patterns-cn](https://github.com/Serennity007/leetcode-patterns-cn) | 8 种算法模式，72 道题 |
 
 </details>
 
@@ -204,13 +204,13 @@ graph LR
 
 | 项目 | 描述 |
 |:-----|:-----|
-| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ 提示词（Sora、Runway、Kling） |
-| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 项转录技能 |
-| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14 项视频工作流技能 |
-| [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10 项视频编辑技能 |
-| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10 项创意技能（海报、Logo） |
-| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 项写作技能（博客、SEO） |
-| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ AI 提示词，覆盖各类任务 |
+| [awesome-video-prompts](https://github.com/Serennity007/awesome-video-prompts) | 200+ 提示词（Sora、Runway、Kling） |
+| [awesome-video-to-text](https://github.com/Serennity007/awesome-video-to-text) | 12 项转录技能 |
+| [awesome-video-creation](https://github.com/Serennity007/awesome-video-creation) | 14 项视频工作流技能 |
+| [awesome-video-skills](https://github.com/Serennity007/awesome-video-skills) | 10 项视频编辑技能 |
+| [awesome-creative-skills](https://github.com/Serennity007/awesome-creative-skills) | 10 项创意技能（海报、Logo） |
+| [awesome-writing-skills](https://github.com/Serennity007/awesome-writing-skills) | 12 项写作技能（博客、SEO） |
+| [awesome-prompts](https://github.com/Serennity007/awesome-prompts) | 285+ AI 提示词，覆盖各类任务 |
 
 </details>
 
@@ -219,14 +219,14 @@ graph LR
 
 | 项目 | 描述 |
 |:-----|:-----|
-| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ 开发者工具，按类别分类 |
-| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 项 DevOps 技能（CI/CD、K8s） |
-| [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12 项网络安全技能 |
-| [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | 12 项面向创始人的技能 |
-| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7 种 AI 代理架构模式 |
-| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | 在本地硬件上运行 LLM |
-| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | GitHub Star 趋势分析 |
-| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | 中文开发者工具 |
+| [awesome-dev-tools](https://github.com/Serennity007/awesome-dev-tools) | 50+ 开发者工具，按类别分类 |
+| [awesome-devops-skills](https://github.com/Serennity007/awesome-devops-skills) | 12 项 DevOps 技能（CI/CD、K8s） |
+| [awesome-security-skills](https://github.com/Serennity007/awesome-security-skills) | 12 项网络安全技能 |
+| [awesome-startup-skills](https://github.com/Serennity007/awesome-startup-skills) | 12 项面向创始人的技能 |
+| [ai-agent-architectures](https://github.com/Serennity007/ai-agent-architectures) | 7 种 AI 代理架构模式 |
+| [open-source-llm-guide](https://github.com/Serennity007/open-source-llm-guide) | 在本地硬件上运行 LLM |
+| [github-stars-analysis](https://github.com/Serennity007/github-stars-analysis) | GitHub Star 趋势分析 |
+| [awesome-chinese-developer-tools](https://github.com/Serennity007/awesome-chinese-developer-tools) | 中文开发者工具 |
 
 </details>
 
@@ -235,10 +235,10 @@ graph LR
 
 | 项目 | 描述 |
 |:-----|:-----|
-| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | 开发环境配置（Zsh、Git、Neovim） |
-| [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | 贵州试卷（学生免费使用） |
-| [blog](https://github.com/liangzhengtao/blog) | 技术博客文章 |
-| [git-format](https://github.com/liangzhengtao/git-format) | 将提交格式化为 Conventional Commits |
+| [my-dotfiles](https://github.com/Serennity007/my-dotfiles) | 开发环境配置（Zsh、Git、Neovim） |
+| [guizhou-exam-papers](https://github.com/Serennity007/guizhou-exam-papers) | 贵州试卷（学生免费使用） |
+| [blog](https://github.com/Serennity007/blog) | 技术博客文章 |
+| [git-format](https://github.com/Serennity007/git-format) | 将提交格式化为 Conventional Commits |
 
 </details>
 
@@ -252,8 +252,8 @@ graph LR
 
 ### 🤝 联系
 
-[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
+[![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Serennity007/blog)
 
 **300+ 个项目 · 全部开源 · 全部免费**
 

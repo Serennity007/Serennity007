@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/liangzhengtao/liangzhengtao@main/.github/terminal.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@main/.github/terminal.svg" width="100%" />
 
 </div>
 
@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # Score your project's AI-readiness (0-100)
-npx @liangzhengtao/vibe-check
+npx @Serennity007/vibe-check
 
 # Track your AI agent — costs, tokens, tool calls
 npx agent-trace
@@ -82,18 +82,18 @@ npx agent-trace
 
 | Инструмент | Что делает | Попробовать |
 |:-----------|:-----------|:------------|
-| **[git-format](https://github.com/liangzhengtao/git-format)** | Форматирование коммитов в Conventional Commits | `npx git-format` |
-| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | ИИ генерирует сообщения коммитов из git diff | `npx ai-commit` |
-| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | Отслеживание стоимости, токенов, состояния инструментов ИИ-агента | `npx agent-trace` |
-| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | Аудит готовности проекта к ИИ (оценка 0-100) | `npx @liangzhengtao/vibe-check` |
+| **[git-format](https://github.com/Serennity007/git-format)** | Форматирование коммитов в Conventional Commits | `npx git-format` |
+| **[ai-commit](https://github.com/Serennity007/ai-commit)** | ИИ генерирует сообщения коммитов из git diff | `npx ai-commit` |
+| **[agent-trace](https://github.com/Serennity007/agent-trace)** | Отслеживание стоимости, токенов, состояния инструментов ИИ-агента | `npx agent-trace` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | Аудит готовности проекта к ИИ (оценка 0-100) | `npx @Serennity007/vibe-check` |
 
 ### Тематические коллекции
 
 | Коллекция | Содержание |
 |:----------|:-----------|
-| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | 20 правил ИИ-программирования для продакшена для Cursor, Claude, Kimi Code |
-| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 9 проверенных конфигураций MCP-серверов |
-| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 285+ проверенных ИИ-промптов для любых задач |
+| **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | 20 правил ИИ-программирования для продакшена для Cursor, Claude, Kimi Code |
+| **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 9 проверенных конфигураций MCP-серверов |
+| **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | 285+ проверенных ИИ-промптов для любых задач |
 
 ---
 
@@ -139,12 +139,12 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangzhengtao&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liangzhengtao&theme=github_dark" width="41%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="41%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 </div>
 
@@ -158,7 +158,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Serennity007&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
 
 </div>
 
@@ -175,12 +175,12 @@ graph LR
 
 | Проект | Описание |
 |:-------|:---------|
-| [agent-trace](https://github.com/liangzhengtao/agent-trace) | Отслеживание ИИ-агента — стоимость, токены, состояние инструментов |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 правил ИИ-программирования для продакшена |
-| [vibe-check](https://github.com/liangzhengtao/vibe-check) | Оценка готовности проекта к ИИ (0-100) |
-| [commit-ai](https://github.com/liangzhengtao/ai-commit) | ИИ пишет сообщения коммитов |
-| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 9 проверенных MCP-серверов |
-| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 навыков ИИ-агентов для продакшена |
+| [agent-trace](https://github.com/Serennity007/agent-trace) | Отслеживание ИИ-агента — стоимость, токены, состояние инструментов |
+| [awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules) | 20 правил ИИ-программирования для продакшена |
+| [vibe-check](https://github.com/Serennity007/vibe-check) | Оценка готовности проекта к ИИ (0-100) |
+| [commit-ai](https://github.com/Serennity007/ai-commit) | ИИ пишет сообщения коммитов |
+| [awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers) | 9 проверенных MCP-серверов |
+| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 навыков ИИ-агентов для продакшена |
 
 </details>
 
@@ -189,13 +189,13 @@ graph LR
 
 | Проект | Описание |
 |:-------|:---------|
-| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 исследовательских навыков (LaTeX, статистика) |
-| [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | Научные иллюстрации публикационного качества |
-| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 14 навыков для получения работы мечты |
-| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | Подготовка к системному проектированию с ASCII-диаграммами |
-| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 карьерных дорожных карт (джуниор → стафф) |
-| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | Создание технологий с нуля (10 руководств) |
-| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 алгоритмических паттернов, 72 задачи |
+| [awesome-skills](https://github.com/Serennity007/awesome-skills) | 12 исследовательских навыков (LaTeX, статистика) |
+| [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | Научные иллюстрации публикационного качества |
+| [awesome-interview-skills](https://github.com/Serennity007/awesome-interview-skills) | 14 навыков для получения работы мечты |
+| [system-design-interview](https://github.com/Serennity007/system-design-interview) | Подготовка к системному проектированию с ASCII-диаграммами |
+| [awesome-developer-roadmap](https://github.com/Serennity007/awesome-developer-roadmap) | 10 карьерных дорожных карт (джуниор → стафф) |
+| [build-your-own-x-cn](https://github.com/Serennity007/build-your-own-x-cn) | Создание технологий с нуля (10 руководств) |
+| [leetcode-patterns-cn](https://github.com/Serennity007/leetcode-patterns-cn) | 8 алгоритмических паттернов, 72 задачи |
 
 </details>
 
@@ -204,13 +204,13 @@ graph LR
 
 | Проект | Описание |
 |:-------|:---------|
-| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ промптов (Sora, Runway, Kling) |
-| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 навыков транскрибирования |
-| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14 навыков видеопроизводства |
-| [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10 навыков видеомонтажа |
-| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10 творческих навыков (постеры, логотипы) |
-| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 навыков письма (блог, SEO) |
-| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 285+ ИИ-промптов для любых задач |
+| [awesome-video-prompts](https://github.com/Serennity007/awesome-video-prompts) | 200+ промптов (Sora, Runway, Kling) |
+| [awesome-video-to-text](https://github.com/Serennity007/awesome-video-to-text) | 12 навыков транскрибирования |
+| [awesome-video-creation](https://github.com/Serennity007/awesome-video-creation) | 14 навыков видеопроизводства |
+| [awesome-video-skills](https://github.com/Serennity007/awesome-video-skills) | 10 навыков видеомонтажа |
+| [awesome-creative-skills](https://github.com/Serennity007/awesome-creative-skills) | 10 творческих навыков (постеры, логотипы) |
+| [awesome-writing-skills](https://github.com/Serennity007/awesome-writing-skills) | 12 навыков письма (блог, SEO) |
+| [awesome-prompts](https://github.com/Serennity007/awesome-prompts) | 285+ ИИ-промптов для любых задач |
 
 </details>
 
@@ -219,14 +219,14 @@ graph LR
 
 | Проект | Описание |
 |:-------|:---------|
-| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 50+ инструментов разработчика по категориям |
-| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 навыков DevOps (CI/CD, K8s) |
-| [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12 навыков кибербезопасности |
-| [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | 12 навыков для основателей стартапов |
-| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7 архитектурных паттернов ИИ-агентов |
-| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | Запуск LLM на собственном оборудовании |
-| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | Анализ трендов звёзд GitHub |
-| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | Инструменты китайских разработчиков |
+| [awesome-dev-tools](https://github.com/Serennity007/awesome-dev-tools) | 50+ инструментов разработчика по категориям |
+| [awesome-devops-skills](https://github.com/Serennity007/awesome-devops-skills) | 12 навыков DevOps (CI/CD, K8s) |
+| [awesome-security-skills](https://github.com/Serennity007/awesome-security-skills) | 12 навыков кибербезопасности |
+| [awesome-startup-skills](https://github.com/Serennity007/awesome-startup-skills) | 12 навыков для основателей стартапов |
+| [ai-agent-architectures](https://github.com/Serennity007/ai-agent-architectures) | 7 архитектурных паттернов ИИ-агентов |
+| [open-source-llm-guide](https://github.com/Serennity007/open-source-llm-guide) | Запуск LLM на собственном оборудовании |
+| [github-stars-analysis](https://github.com/Serennity007/github-stars-analysis) | Анализ трендов звёзд GitHub |
+| [awesome-chinese-developer-tools](https://github.com/Serennity007/awesome-chinese-developer-tools) | Инструменты китайских разработчиков |
 
 </details>
 
@@ -235,10 +235,10 @@ graph LR
 
 | Проект | Описание |
 |:-------|:---------|
-| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | Окружение разработчика (Zsh, Git, Neovim) |
-| [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | Экзаменационные работы Гуйчжоу (бесплатно для студентов) |
-| [blog](https://github.com/liangzhengtao/blog) | Технические статьи в блоге |
-| [git-format](https://github.com/liangzhengtao/git-format) | Форматирование коммитов в Conventional Commits |
+| [my-dotfiles](https://github.com/Serennity007/my-dotfiles) | Окружение разработчика (Zsh, Git, Neovim) |
+| [guizhou-exam-papers](https://github.com/Serennity007/guizhou-exam-papers) | Экзаменационные работы Гуйчжоу (бесплатно для студентов) |
+| [blog](https://github.com/Serennity007/blog) | Технические статьи в блоге |
+| [git-format](https://github.com/Serennity007/git-format) | Форматирование коммитов в Conventional Commits |
 
 </details>
 
@@ -252,8 +252,8 @@ graph LR
 
 ### 🤝 Связаться
 
-[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
+[![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Serennity007/blog)
 
 **300+ проектов · Всё с открытым кодом · Всё бесплатно**
 

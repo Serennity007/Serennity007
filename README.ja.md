@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/liangzhengtao/liangzhengtao@main/.github/terminal.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@main/.github/terminal.svg" width="100%" />
 
 </div>
 
@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # プロジェクトの AI 対応度をスコアリング（0-100）
-npx @liangzhengtao/vibe-check
+npx @Serennity007/vibe-check
 
 # AI エージェントを追跡 — コスト、トークン、ツール呼び出し
 npx agent-trace
@@ -82,18 +82,18 @@ npx agent-trace
 
 | ツール | 概要 | 試す |
 |:-------|:-----|:-----|
-| **[git-format](https://github.com/liangzhengtao/git-format)** | コミットを Conventional Commits 形式にフォーマット | `npx git-format` |
-| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | AI が git diff からコミットメッセージを生成 | `npx ai-commit` |
-| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | AI エージェントのコスト・トークン・ツール健全性を追跡 | `npx agent-trace` |
-| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | プロジェクトの AI 対応度を監査（0-100 スコア） | `npx @liangzhengtao/vibe-check` |
+| **[git-format](https://github.com/Serennity007/git-format)** | コミットを Conventional Commits 形式にフォーマット | `npx git-format` |
+| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI が git diff からコミットメッセージを生成 | `npx ai-commit` |
+| **[agent-trace](https://github.com/Serennity007/agent-trace)** | AI エージェントのコスト・トークン・ツール健全性を追跡 | `npx agent-trace` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | プロジェクトの AI 対応度を監査（0-100 スコア） | `npx @Serennity007/vibe-check` |
 
 ### キュレーションコレクション
 
 | コレクション | 内容 |
 |:-------------|:-----|
-| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | Cursor、Claude、Kimi Code 向け 20 の本番環境 AI コーディングルール |
-| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 検証済み MCP サーバー設定 9 件 |
-| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | あらゆるタスク向け 285+ のテスト済み AI プロンプト |
+| **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | Cursor、Claude、Kimi Code 向け 20 の本番環境 AI コーディングルール |
+| **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 検証済み MCP サーバー設定 9 件 |
+| **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | あらゆるタスク向け 285+ のテスト済み AI プロンプト |
 
 ---
 
@@ -139,12 +139,12 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangzhengtao&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liangzhengtao&theme=github_dark" width="41%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="41%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 </div>
 
@@ -158,7 +158,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Serennity007&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
 
 </div>
 
@@ -175,12 +175,12 @@ graph LR
 
 | プロジェクト | 概要 |
 |:-------------|:-----|
-| [agent-trace](https://github.com/liangzhengtao/agent-trace) | AI エージェントを追跡 — コスト、トークン、ツール健全性 |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20 の本番環境 AI コーディングルール |
-| [vibe-check](https://github.com/liangzhengtao/vibe-check) | プロジェクトの AI 対応度をスコアリング（0-100） |
-| [commit-ai](https://github.com/liangzhengtao/ai-commit) | AI がコミットメッセージを生成 |
-| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 検証済み MCP サーバー 9 件 |
-| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12 の本番環境 AI エージェントスキル |
+| [agent-trace](https://github.com/Serennity007/agent-trace) | AI エージェントを追跡 — コスト、トークン、ツール健全性 |
+| [awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules) | 20 の本番環境 AI コーディングルール |
+| [vibe-check](https://github.com/Serennity007/vibe-check) | プロジェクトの AI 対応度をスコアリング（0-100） |
+| [commit-ai](https://github.com/Serennity007/ai-commit) | AI がコミットメッセージを生成 |
+| [awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers) | 検証済み MCP サーバー 9 件 |
+| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 の本番環境 AI エージェントスキル |
 
 </details>
 
@@ -189,13 +189,13 @@ graph LR
 
 | プロジェクト | 概要 |
 |:-------------|:-----|
-| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12 の研究スキル（LaTeX、統計） |
-| [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | 出版品質の科学図表 |
-| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 理想の仕事を得るための 14 スキル |
-| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | ASCII 図解付きシステム設計面接対策 |
-| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10 のキャリアロードマップ（ジュニア → スタッフ） |
-| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | 技術をゼロから構築（10 チュートリアル） |
-| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8 アルゴリズムパターン、72 問題 |
+| [awesome-skills](https://github.com/Serennity007/awesome-skills) | 12 の研究スキル（LaTeX、統計） |
+| [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | 出版品質の科学図表 |
+| [awesome-interview-skills](https://github.com/Serennity007/awesome-interview-skills) | 理想の仕事を得るための 14 スキル |
+| [system-design-interview](https://github.com/Serennity007/system-design-interview) | ASCII 図解付きシステム設計面接対策 |
+| [awesome-developer-roadmap](https://github.com/Serennity007/awesome-developer-roadmap) | 10 のキャリアロードマップ（ジュニア → スタッフ） |
+| [build-your-own-x-cn](https://github.com/Serennity007/build-your-own-x-cn) | 技術をゼロから構築（10 チュートリアル） |
+| [leetcode-patterns-cn](https://github.com/Serennity007/leetcode-patterns-cn) | 8 アルゴリズムパターン、72 問題 |
 
 </details>
 
@@ -204,13 +204,13 @@ graph LR
 
 | プロジェクト | 概要 |
 |:-------------|:-----|
-| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ プロンプト（Sora、Runway、Kling） |
-| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12 の文字起こしスキル |
-| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14 の動画ワークフロースキル |
-| [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10 の動画編集スキル |
-| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10 のクリエイティブスキル（ポスター、ロゴ） |
-| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12 のライティングスキル（ブログ、SEO） |
-| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | あらゆるタスク向け 285+ の AI プロンプト |
+| [awesome-video-prompts](https://github.com/Serennity007/awesome-video-prompts) | 200+ プロンプト（Sora、Runway、Kling） |
+| [awesome-video-to-text](https://github.com/Serennity007/awesome-video-to-text) | 12 の文字起こしスキル |
+| [awesome-video-creation](https://github.com/Serennity007/awesome-video-creation) | 14 の動画ワークフロースキル |
+| [awesome-video-skills](https://github.com/Serennity007/awesome-video-skills) | 10 の動画編集スキル |
+| [awesome-creative-skills](https://github.com/Serennity007/awesome-creative-skills) | 10 のクリエイティブスキル（ポスター、ロゴ） |
+| [awesome-writing-skills](https://github.com/Serennity007/awesome-writing-skills) | 12 のライティングスキル（ブログ、SEO） |
+| [awesome-prompts](https://github.com/Serennity007/awesome-prompts) | あらゆるタスク向け 285+ の AI プロンプト |
 
 </details>
 
@@ -219,14 +219,14 @@ graph LR
 
 | プロジェクト | 概要 |
 |:-------------|:-----|
-| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | カテゴリ別 50+ の開発者ツール |
-| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12 の DevOps スキル（CI/CD、K8s） |
-| [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12 のサイバーセキュリティスキル |
-| [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | ファウンダー向け 12 スキル |
-| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7 の AI エージェントアーキテクチャパターン |
-| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | 自身のハードウェアで LLM を実行 |
-| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | GitHub Star トレンド分析 |
-| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | 中国語開発者ツール |
+| [awesome-dev-tools](https://github.com/Serennity007/awesome-dev-tools) | カテゴリ別 50+ の開発者ツール |
+| [awesome-devops-skills](https://github.com/Serennity007/awesome-devops-skills) | 12 の DevOps スキル（CI/CD、K8s） |
+| [awesome-security-skills](https://github.com/Serennity007/awesome-security-skills) | 12 のサイバーセキュリティスキル |
+| [awesome-startup-skills](https://github.com/Serennity007/awesome-startup-skills) | ファウンダー向け 12 スキル |
+| [ai-agent-architectures](https://github.com/Serennity007/ai-agent-architectures) | 7 の AI エージェントアーキテクチャパターン |
+| [open-source-llm-guide](https://github.com/Serennity007/open-source-llm-guide) | 自身のハードウェアで LLM を実行 |
+| [github-stars-analysis](https://github.com/Serennity007/github-stars-analysis) | GitHub Star トレンド分析 |
+| [awesome-chinese-developer-tools](https://github.com/Serennity007/awesome-chinese-developer-tools) | 中国語開発者ツール |
 
 </details>
 
@@ -235,10 +235,10 @@ graph LR
 
 | プロジェクト | 概要 |
 |:-------------|:-----|
-| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | 開発環境設定（Zsh、Git、Neovim） |
-| [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | 貴州省の試験問題（学生無料） |
-| [blog](https://github.com/liangzhengtao/blog) | 技術ブログ記事 |
-| [git-format](https://github.com/liangzhengtao/git-format) | コミットを Conventional Commits 形式にフォーマット |
+| [my-dotfiles](https://github.com/Serennity007/my-dotfiles) | 開発環境設定（Zsh、Git、Neovim） |
+| [guizhou-exam-papers](https://github.com/Serennity007/guizhou-exam-papers) | 貴州省の試験問題（学生無料） |
+| [blog](https://github.com/Serennity007/blog) | 技術ブログ記事 |
+| [git-format](https://github.com/Serennity007/git-format) | コミットを Conventional Commits 形式にフォーマット |
 
 </details>
 
@@ -252,8 +252,8 @@ graph LR
 
 ### 🤝 つながる
 
-[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
+[![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Serennity007/blog)
 
 **300+ プロジェクト · すべてオープンソース · すべて無料**
 

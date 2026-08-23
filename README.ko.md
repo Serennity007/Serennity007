@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/liangzhengtao/liangzhengtao@main/.github/terminal.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@main/.github/terminal.svg" width="100%" />
 
 </div>
 
@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/liangzhengtao"><img src="https://img.shields.io/github/followers/liangzhengtao?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=liangzhengtao&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/liangzhengtao?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
+<img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # 프로젝트의 AI 준비도 평가 (0-100)
-npx @liangzhengtao/vibe-check
+npx @Serennity007/vibe-check
 
 # AI 에이전트 추적 — 비용, 토큰, 도구 호출
 npx agent-trace
@@ -82,18 +82,18 @@ npx agent-trace
 
 | 도구 | 설명 | 체험 |
 |:-----|:-----|:-----|
-| **[git-format](https://github.com/liangzhengtao/git-format)** | 커밋을 Conventional Commits 형식으로 포맷 | `npx git-format` |
-| **[ai-commit](https://github.com/liangzhengtao/ai-commit)** | AI가 git diff에서 커밋 메시지 생성 | `npx ai-commit` |
-| **[agent-trace](https://github.com/liangzhengtao/agent-trace)** | AI 에이전트 비용·토큰·도구 상태 추적 | `npx agent-trace` |
-| **[vibe-check](https://github.com/liangzhengtao/vibe-check)** | 프로젝트 AI 준비도 감사 (0-100점) | `npx @liangzhengtao/vibe-check` |
+| **[git-format](https://github.com/Serennity007/git-format)** | 커밋을 Conventional Commits 형식으로 포맷 | `npx git-format` |
+| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI가 git diff에서 커밋 메시지 생성 | `npx ai-commit` |
+| **[agent-trace](https://github.com/Serennity007/agent-trace)** | AI 에이전트 비용·토큰·도구 상태 추적 | `npx agent-trace` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | 프로젝트 AI 준비도 감사 (0-100점) | `npx @Serennity007/vibe-check` |
 
 ### 큐레이션 컬렉션
 
 | 컬렉션 | 내용 |
 |:-------|:-----|
-| **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** | Cursor, Claude, Kimi Code용 20개 프로덕션 AI 코딩 규칙 |
-| **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** | 검증된 MCP 서버 설정 9개 |
-| **[awesome-prompts](https://github.com/liangzhengtao/awesome-prompts)** | 모든 작업을 위한 285+ 테스트된 AI 프롬프트 |
+| **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | Cursor, Claude, Kimi Code용 20개 프로덕션 AI 코딩 규칙 |
+| **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 검증된 MCP 서버 설정 9개 |
+| **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | 모든 작업을 위한 285+ 테스트된 AI 프롬프트 |
 
 ---
 
@@ -139,12 +139,12 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangzhengtao&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liangzhengtao&theme=github_dark" width="41%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="41%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=liangzhengtao&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 </div>
 
@@ -158,7 +158,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liangzhengtao&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Serennity007&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
 
 </div>
 
@@ -175,12 +175,12 @@ graph LR
 
 | 프로젝트 | 설명 |
 |:---------|:-----|
-| [agent-trace](https://github.com/liangzhengtao/agent-trace) | AI 에이전트 추적 — 비용, 토큰, 도구 상태 |
-| [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) | 20개 프로덕션 AI 코딩 규칙 |
-| [vibe-check](https://github.com/liangzhengtao/vibe-check) | 프로젝트 AI 준비도 평가 (0-100점) |
-| [commit-ai](https://github.com/liangzhengtao/ai-commit) | AI가 커밋 메시지 작성 |
-| [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) | 검증된 MCP 서버 9개 |
-| [awesome-ai-agents](https://github.com/liangzhengtao/awesome-ai-agents) | 12개 프로덕션 AI 에이전트 스킬 |
+| [agent-trace](https://github.com/Serennity007/agent-trace) | AI 에이전트 추적 — 비용, 토큰, 도구 상태 |
+| [awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules) | 20개 프로덕션 AI 코딩 규칙 |
+| [vibe-check](https://github.com/Serennity007/vibe-check) | 프로젝트 AI 준비도 평가 (0-100점) |
+| [commit-ai](https://github.com/Serennity007/ai-commit) | AI가 커밋 메시지 작성 |
+| [awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers) | 검증된 MCP 서버 9개 |
+| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12개 프로덕션 AI 에이전트 스킬 |
 
 </details>
 
@@ -189,13 +189,13 @@ graph LR
 
 | 프로젝트 | 설명 |
 |:---------|:-----|
-| [awesome-skills](https://github.com/liangzhengtao/awesome-skills) | 12개 연구 스킬 (LaTeX, 통계) |
-| [awesome-research-figures](https://github.com/liangzhengtao/awesome-research-figures) | 출판 품질의 과학 그림 |
-| [awesome-interview-skills](https://github.com/liangzhengtao/awesome-interview-skills) | 원하는 직장을 위한 14가지 스킬 |
-| [system-design-interview](https://github.com/liangzhengtao/system-design-interview) | ASCII 다이어그램이 포함된 시스템 디자인 면접 준비 |
-| [awesome-developer-roadmap](https://github.com/liangzhengtao/awesome-developer-roadmap) | 10개 커리어 로드맵 (주니어 → 스태프) |
-| [build-your-own-x-cn](https://github.com/liangzhengtao/build-your-own-x-cn) | 기술을 처음부터 구축 (10개 튜토리얼) |
-| [leetcode-patterns-cn](https://github.com/liangzhengtao/leetcode-patterns-cn) | 8가지 알고리즘 패턴, 72문제 |
+| [awesome-skills](https://github.com/Serennity007/awesome-skills) | 12개 연구 스킬 (LaTeX, 통계) |
+| [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | 출판 품질의 과학 그림 |
+| [awesome-interview-skills](https://github.com/Serennity007/awesome-interview-skills) | 원하는 직장을 위한 14가지 스킬 |
+| [system-design-interview](https://github.com/Serennity007/system-design-interview) | ASCII 다이어그램이 포함된 시스템 디자인 면접 준비 |
+| [awesome-developer-roadmap](https://github.com/Serennity007/awesome-developer-roadmap) | 10개 커리어 로드맵 (주니어 → 스태프) |
+| [build-your-own-x-cn](https://github.com/Serennity007/build-your-own-x-cn) | 기술을 처음부터 구축 (10개 튜토리얼) |
+| [leetcode-patterns-cn](https://github.com/Serennity007/leetcode-patterns-cn) | 8가지 알고리즘 패턴, 72문제 |
 
 </details>
 
@@ -204,13 +204,13 @@ graph LR
 
 | 프로젝트 | 설명 |
 |:---------|:-----|
-| [awesome-video-prompts](https://github.com/liangzhengtao/awesome-video-prompts) | 200+ 프롬프트 (Sora, Runway, Kling) |
-| [awesome-video-to-text](https://github.com/liangzhengtao/awesome-video-to-text) | 12개 전사 스킬 |
-| [awesome-video-creation](https://github.com/liangzhengtao/awesome-video-creation) | 14개 영상 워크플로우 스킬 |
-| [awesome-video-skills](https://github.com/liangzhengtao/awesome-video-skills) | 10개 영상 편집 스킬 |
-| [awesome-creative-skills](https://github.com/liangzhengtao/awesome-creative-skills) | 10개 크리에이티브 스킬 (포스터, 로고) |
-| [awesome-writing-skills](https://github.com/liangzhengtao/awesome-writing-skills) | 12개 글쓰기 스킬 (블로그, SEO) |
-| [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) | 모든 작업을 위한 285+ AI 프롬프트 |
+| [awesome-video-prompts](https://github.com/Serennity007/awesome-video-prompts) | 200+ 프롬프트 (Sora, Runway, Kling) |
+| [awesome-video-to-text](https://github.com/Serennity007/awesome-video-to-text) | 12개 전사 스킬 |
+| [awesome-video-creation](https://github.com/Serennity007/awesome-video-creation) | 14개 영상 워크플로우 스킬 |
+| [awesome-video-skills](https://github.com/Serennity007/awesome-video-skills) | 10개 영상 편집 스킬 |
+| [awesome-creative-skills](https://github.com/Serennity007/awesome-creative-skills) | 10개 크리에이티브 스킬 (포스터, 로고) |
+| [awesome-writing-skills](https://github.com/Serennity007/awesome-writing-skills) | 12개 글쓰기 스킬 (블로그, SEO) |
+| [awesome-prompts](https://github.com/Serennity007/awesome-prompts) | 모든 작업을 위한 285+ AI 프롬프트 |
 
 </details>
 
@@ -219,14 +219,14 @@ graph LR
 
 | 프로젝트 | 설명 |
 |:---------|:-----|
-| [awesome-dev-tools](https://github.com/liangzhengtao/awesome-dev-tools) | 카테고리별 50+ 개발자 도구 |
-| [awesome-devops-skills](https://github.com/liangzhengtao/awesome-devops-skills) | 12개 DevOps 스킬 (CI/CD, K8s) |
-| [awesome-security-skills](https://github.com/liangzhengtao/awesome-security-skills) | 12개 사이버 보안 스킬 |
-| [awesome-startup-skills](https://github.com/liangzhengtao/awesome-startup-skills) | 창업자를 위한 12가지 스킬 |
-| [ai-agent-architectures](https://github.com/liangzhengtao/ai-agent-architectures) | 7가지 AI 에이전트 아키텍처 패턴 |
-| [open-source-llm-guide](https://github.com/liangzhengtao/open-source-llm-guide) | 자체 하드웨어에서 LLM 실행하기 |
-| [github-stars-analysis](https://github.com/liangzhengtao/github-stars-analysis) | GitHub Star 트렌드 분석 |
-| [awesome-chinese-developer-tools](https://github.com/liangzhengtao/awesome-chinese-developer-tools) | 중국어 개발자 도구 |
+| [awesome-dev-tools](https://github.com/Serennity007/awesome-dev-tools) | 카테고리별 50+ 개발자 도구 |
+| [awesome-devops-skills](https://github.com/Serennity007/awesome-devops-skills) | 12개 DevOps 스킬 (CI/CD, K8s) |
+| [awesome-security-skills](https://github.com/Serennity007/awesome-security-skills) | 12개 사이버 보안 스킬 |
+| [awesome-startup-skills](https://github.com/Serennity007/awesome-startup-skills) | 창업자를 위한 12가지 스킬 |
+| [ai-agent-architectures](https://github.com/Serennity007/ai-agent-architectures) | 7가지 AI 에이전트 아키텍처 패턴 |
+| [open-source-llm-guide](https://github.com/Serennity007/open-source-llm-guide) | 자체 하드웨어에서 LLM 실행하기 |
+| [github-stars-analysis](https://github.com/Serennity007/github-stars-analysis) | GitHub Star 트렌드 분석 |
+| [awesome-chinese-developer-tools](https://github.com/Serennity007/awesome-chinese-developer-tools) | 중국어 개발자 도구 |
 
 </details>
 
@@ -235,10 +235,10 @@ graph LR
 
 | 프로젝트 | 설명 |
 |:---------|:-----|
-| [my-dotfiles](https://github.com/liangzhengtao/my-dotfiles) | 개발 환경 설정 (Zsh, Git, Neovim) |
-| [guizhou-exam-papers](https://github.com/liangzhengtao/guizhou-exam-papers) | 구이저우 시험지 (학생 무료) |
-| [blog](https://github.com/liangzhengtao/blog) | 기술 블로그 글 |
-| [git-format](https://github.com/liangzhengtao/git-format) | 커밋을 Conventional Commits 형식으로 포맷 |
+| [my-dotfiles](https://github.com/Serennity007/my-dotfiles) | 개발 환경 설정 (Zsh, Git, Neovim) |
+| [guizhou-exam-papers](https://github.com/Serennity007/guizhou-exam-papers) | 구이저우 시험지 (학생 무료) |
+| [blog](https://github.com/Serennity007/blog) | 기술 블로그 글 |
+| [git-format](https://github.com/Serennity007/git-format) | 커밋을 Conventional Commits 형식으로 포맷 |
 
 </details>
 
@@ -252,8 +252,8 @@ graph LR
 
 ### 🤝 연결
 
-[![GitHub](https://img.shields.io/badge/-@liangzhengtao-181717?style=for-the-badge&logo=github)](https://github.com/liangzhengtao)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/liangzhengtao/blog)
+[![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
+[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Serennity007/blog)
 
 **300+ 프로젝트 · 모두 오픈 소스 · 모두 무료**
 
