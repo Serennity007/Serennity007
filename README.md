@@ -1,22 +1,14 @@
-[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER: Animated Terminal                                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[English](README.md) | [中文](README.zh.md)
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@main/.github/terminal.svg" width="100%" />
+<img src=".github/terminal.svg" width="100%" />
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E_+I+build+CLI+tools+that+automate+AI+development;300++open+source+projects;All+free+%7C+All+open+source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&height=100&lines=%3E_+I+build+CLI+tools+that+automate+AI+development;324+open-source+repos+%C2%B7+4+npm+CLI+tools+%C2%B7+285%2B+prompts;All+free+%7C+All+open+source+%7C+npx-ready" alt="Typing SVG" />
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- BADGES: npm downloads + profile stats                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BADGES: npm downloads + profile stats -->
 
 <a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
 <a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
@@ -27,30 +19,24 @@
 
 <a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/300+_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/324_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT -->
 
 ## 👋 About Me
 
-I'm a developer focused on building AI-powered CLI tools. My tools help developers with:
-- **Git workflows** — auto-format commits, AI-generated messages
-- **AI agent monitoring** — track costs, tokens, tool health
-- **Project auditing** — score AI-readiness of your codebase
+AI researcher & open-source builder. M.S. in Intelligent Science & Technology at **Beijing Institute of Technology** (2026 → ). First-author paper at **CCF-BigData 2025** on legal judgment prediction with LLMs.
 
-All tools are open source, MIT licensed, and can be run with `npx` — zero install required.
+- 🔧 **4 npm CLI tools** — `npx`-ready, zero install
+- 📦 **324 open-source repos** — all MIT, all free
+- 🏆 Huawei ICT Contest **National 1st Prize** (+ Global 3rd) · National Scholarship · Rank **1/69**, GPA **4.14/5**
+- 🔬 Legal AI + multimodal safety alignment · 🇸🇬 NUS exchange · IELTS 6.5
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- QUICK TRY: Terminal Demo                                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- QUICK TRY -->
 
 ## ⚡ Try One in 10 Seconds
 
@@ -72,13 +58,9 @@ npx agent-trace
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WHAT I BUILD                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I BUILD -->
 
 ## 🔧 What I Build
-
-### Original CLI Tools
 
 | Tool | What it does | Try it |
 |:-----|:-------------|:-------|
@@ -97,9 +79,7 @@ npx agent-trace
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK: Animated Skill Icons                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
 ## 📊 Tech Stack
 
@@ -113,9 +93,7 @@ npx agent-trace
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WORKFLOW: Mermaid Diagram                                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WORKFLOW -->
 
 ## 🔀 How My Tools Work Together
 
@@ -131,9 +109,7 @@ graph LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS: Animated Cards                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
 
 ## 📈 GitHub Stats
 
@@ -150,112 +126,58 @@ graph LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY -->
 
-## 🔥 Activity
+## 🐍 Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Serennity007&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ALL PROJECTS                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📂 All Projects (300+)
+<!-- FEATURED PROJECTS -->
 
 <details>
-<summary><b>🤖 AI Developer Tools (6)</b></summary>
+<summary><b>📂 Featured Projects (10 of 324)</b></summary>
 
 | Project | Description |
 |:--------|:------------|
-| [agent-trace](https://github.com/Serennity007/agent-trace) | Track AI agent — costs, tokens, tool health |
-| [awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules) | 20 production AI coding rules |
-| [vibe-check](https://github.com/Serennity007/vibe-check) | Score project AI-readiness (0-100) |
-| [commit-ai](https://github.com/Serennity007/ai-commit) | AI writes commit messages |
-| [awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers) | 9 verified MCP servers |
-| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 production AI agent skills |
-
-</details>
-
-<details>
-<summary><b>📚 Research & Career (7)</b></summary>
-
-| Project | Description |
-|:--------|:------------|
-| [awesome-skills](https://github.com/Serennity007/awesome-skills) | 12 research skills (LaTeX, stats) |
+| [token-meter](https://github.com/Serennity007/token-meter) | Real-time token & cost meter for AI coding agents |
+| [paper-grill](https://github.com/Serennity007/paper-grill) | Honest paper review — NeurIPS / ICML / ICLR styles |
+| [awesome-ai-alignment](https://github.com/Serennity007/awesome-ai-alignment) | 12 AI safety & alignment skills |
+| [awesome-trading-strategies](https://github.com/Serennity007/awesome-trading-strategies) | 6 practical trading strategies for retail investors |
+| [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) | Quant research & trading skill collection |
 | [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | Publication-quality scientific figures |
-| [awesome-interview-skills](https://github.com/Serennity007/awesome-interview-skills) | 14 skills to land your dream job |
-| [system-design-interview](https://github.com/Serennity007/system-design-interview) | System design prep with ASCII diagrams |
-| [awesome-developer-roadmap](https://github.com/Serennity007/awesome-developer-roadmap) | 10 career roadmaps (junior → staff) |
-| [build-your-own-x-cn](https://github.com/Serennity007/build-your-own-x-cn) | Build tech from scratch (10 tutorials) |
-| [leetcode-patterns-cn](https://github.com/Serennity007/leetcode-patterns-cn) | 8 algorithm patterns, 72 problems |
+| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 production-ready AI agent skills |
+| [awesome-geo](https://github.com/Serennity007/awesome-geo) | Get recommended by AI search engines (GEO) |
+| [awesome-portfolio-skills](https://github.com/Serennity007/awesome-portfolio-skills) | Build a developer portfolio that stands out |
+| [build-your-own-x](https://github.com/Serennity007/build-your-own-x) | Build tech from scratch — curated tutorials |
 
-</details>
-
-<details>
-<summary><b>🎬 Video & Creative (7)</b></summary>
-
-| Project | Description |
-|:--------|:------------|
-| [awesome-video-prompts](https://github.com/Serennity007/awesome-video-prompts) | 200+ prompts (Sora, Runway, Kling) |
-| [awesome-video-to-text](https://github.com/Serennity007/awesome-video-to-text) | 12 transcription skills |
-| [awesome-video-creation](https://github.com/Serennity007/awesome-video-creation) | 14 video workflow skills |
-| [awesome-video-skills](https://github.com/Serennity007/awesome-video-skills) | 10 video editing skills |
-| [awesome-creative-skills](https://github.com/Serennity007/awesome-creative-skills) | 10 creative skills (posters, logos) |
-| [awesome-writing-skills](https://github.com/Serennity007/awesome-writing-skills) | 12 writing skills (blog, SEO) |
-| [awesome-prompts](https://github.com/Serennity007/awesome-prompts) | 285+ AI prompts for every task |
-
-</details>
-
-<details>
-<summary><b>🛠️ Developer Resources (8)</b></summary>
-
-| Project | Description |
-|:--------|:------------|
-| [awesome-dev-tools](https://github.com/Serennity007/awesome-dev-tools) | 50+ developer tools by category |
-| [awesome-devops-skills](https://github.com/Serennity007/awesome-devops-skills) | 12 DevOps skills (CI/CD, K8s) |
-| [awesome-security-skills](https://github.com/Serennity007/awesome-security-skills) | 12 cybersecurity skills |
-| [awesome-startup-skills](https://github.com/Serennity007/awesome-startup-skills) | 12 skills for founders |
-| [ai-agent-architectures](https://github.com/Serennity007/ai-agent-architectures) | 7 AI agent patterns |
-| [open-source-llm-guide](https://github.com/Serennity007/open-source-llm-guide) | Run LLMs on your own hardware |
-| [github-stars-analysis](https://github.com/Serennity007/github-stars-analysis) | GitHub star trends analysis |
-| [awesome-chinese-developer-tools](https://github.com/Serennity007/awesome-chinese-developer-tools) | Chinese developer tools |
-
-</details>
-
-<details>
-<summary><b>📁 Personal (4)</b></summary>
-
-| Project | Description |
-|:--------|:------------|
-| [my-dotfiles](https://github.com/Serennity007/my-dotfiles) | Dev environment (Zsh, Git, Neovim) |
-| [guizhou-exam-papers](https://github.com/Serennity007/guizhou-exam-papers) | Guizhou exam papers (free for students) |
-| [blog](https://github.com/Serennity007/blog) | Technical blog posts |
-| [git-format](https://github.com/Serennity007/git-format) | Format commits to Conventional Commits |
+**[Browse all 324 repos →](https://github.com/Serennity007?tab=repositories)**
 
 </details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
 
 <div align="center">
 
 ### 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
-[![Blog](https://img.shields.io/badge/-Blog-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Serennity007/blog)
+[![Email](https://img.shields.io/badge/-1392452425a%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1392452425a@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/liangzhengtao-portfolio/)
+[![Blog](https://img.shields.io/badge/-Blog-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
 
-**300+ projects · All open source · All free**
+**324 repos · All open source · All free**
 
 *If any of these saved you time, ⭐ the repo you used most.*
 
