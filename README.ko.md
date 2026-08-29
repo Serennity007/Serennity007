@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # 프로젝트의 AI 준비도 평가 (0-100)
-npx @Serennity007/vibe-check
+npx @liangzhengtao/vibe-check
 
 # AI 에이전트 추적 — 비용, 토큰, 도구 호출
 npx agent-trace
@@ -85,7 +85,7 @@ npx agent-trace
 | **[git-format](https://github.com/Serennity007/git-format)** | 커밋을 Conventional Commits 형식으로 포맷 | `npx git-format` |
 | **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI가 git diff에서 커밋 메시지 생성 | `npx ai-commit` |
 | **[agent-trace](https://github.com/Serennity007/agent-trace)** | AI 에이전트 비용·토큰·도구 상태 추적 | `npx agent-trace` |
-| **[vibe-check](https://github.com/Serennity007/vibe-check)** | 프로젝트 AI 준비도 감사 (0-100점) | `npx @Serennity007/vibe-check` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | 프로젝트 AI 준비도 감사 (0-100점) | `npx @liangzhengtao/vibe-check` |
 
 ### 큐레이션 컬렉션
 

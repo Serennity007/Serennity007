@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # Score your project's AI-readiness (0-100)
-npx @Serennity007/vibe-check
+npx @liangzhengtao/vibe-check
 
 # Track your AI agent — costs, tokens, tool calls
 npx agent-trace
@@ -85,7 +85,7 @@ npx agent-trace
 | **[git-format](https://github.com/Serennity007/git-format)** | Formatar commits para Conventional Commits | `npx git-format` |
 | **[ai-commit](https://github.com/Serennity007/ai-commit)** | A IA gera mensagens de commit a partir do git diff | `npx ai-commit` |
 | **[agent-trace](https://github.com/Serennity007/agent-trace)** | Rastrear custos, tokens e saúde das ferramentas do agente IA | `npx agent-trace` |
-| **[vibe-check](https://github.com/Serennity007/vibe-check)** | Auditar a preparação AI do projeto (pontuação 0-100) | `npx @Serennity007/vibe-check` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | Auditar a preparação AI do projeto (pontuação 0-100) | `npx @liangzhengtao/vibe-check` |
 
 ### Coleções selecionadas
 

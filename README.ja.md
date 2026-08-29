@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # プロジェクトの AI 対応度をスコアリング（0-100）
-npx @Serennity007/vibe-check
+npx @liangzhengtao/vibe-check
 
 # AI エージェントを追跡 — コスト、トークン、ツール呼び出し
 npx agent-trace
@@ -85,7 +85,7 @@ npx agent-trace
 | **[git-format](https://github.com/Serennity007/git-format)** | コミットを Conventional Commits 形式にフォーマット | `npx git-format` |
 | **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI が git diff からコミットメッセージを生成 | `npx ai-commit` |
 | **[agent-trace](https://github.com/Serennity007/agent-trace)** | AI エージェントのコスト・トークン・ツール健全性を追跡 | `npx agent-trace` |
-| **[vibe-check](https://github.com/Serennity007/vibe-check)** | プロジェクトの AI 対応度を監査（0-100 スコア） | `npx @Serennity007/vibe-check` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | プロジェクトの AI 対応度を監査（0-100 スコア） | `npx @liangzhengtao/vibe-check` |
 
 ### キュレーションコレクション
 

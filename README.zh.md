@@ -62,7 +62,7 @@ npx git-format
 npx ai-commit
 
 # 评估项目的 AI 就绪度（0-100 分）
-npx @Serennity007/vibe-check
+npx @liangzhengtao/vibe-check
 
 # 追踪你的 AI 代理 — 成本、Token、工具调用
 npx agent-trace
@@ -85,7 +85,7 @@ npx agent-trace
 | **[git-format](https://github.com/Serennity007/git-format)** | 将提交格式化为 Conventional Commits | `npx git-format` |
 | **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI 根据 git diff 生成提交信息 | `npx ai-commit` |
 | **[agent-trace](https://github.com/Serennity007/agent-trace)** | 追踪 AI 代理成本、Token、工具健康状态 | `npx agent-trace` |
-| **[vibe-check](https://github.com/Serennity007/vibe-check)** | 审计项目 AI 就绪度（0-100 分） | `npx @Serennity007/vibe-check` |
+| **[vibe-check](https://github.com/Serennity007/vibe-check)** | 审计项目 AI 就绪度（0-100 分） | `npx @liangzhengtao/vibe-check` |
 
 ### 精选合集
 
