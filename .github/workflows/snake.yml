@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Animal Snake
 
 on:
   schedule:
@@ -15,12 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Serennity007
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: actions/checkout@v4
+
+      - name: Generate capybara calendar SVGs (dark + light)
+        run: |
+          python3 scripts/generate_animal_snake.py --user Serennity007 \
+            --theme dark --out dist --out-name animal-snake-dark
+          python3 scripts/generate_animal_snake.py --user Serennity007 \
+            --theme light --out dist --out-name animal-snake
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
