@@ -10,10 +10,10 @@
 
 <!-- BADGES: npm downloads + profile stats -->
 
-<a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/git-format"><img src="https://img.shields.io/npm/dm/@liangzhengtao/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/commit-ai"><img src="https://img.shields.io/npm/dm/@liangzhengtao/commit-ai?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/agent-trace"><img src="https://img.shields.io/npm/dm/@liangzhengtao/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/vibe-check"><img src="https://img.shields.io/npm/dm/@liangzhengtao/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
 
 <br/>
 
@@ -42,16 +42,16 @@ AI researcher & open-source builder. M.S. in Intelligent Science & Technology at
 
 ```bash
 # Format messy git history → clean Conventional Commits
-npx git-format
+npx @liangzhengtao/git-format
 
 # AI writes your commit messages
-npx ai-commit
+npx @liangzhengtao/commit-ai
 
 # Score your project's AI-readiness (0-100)
 npx @liangzhengtao/vibe-check
 
 # Track your AI agent — costs, tokens, tool calls
-npx agent-trace
+npx @liangzhengtao/agent-trace
 ```
 
 **No clone · No API key · No config · Just run it**
@@ -64,9 +64,9 @@ npx agent-trace
 
 | Tool | What it does | Try it |
 |:-----|:-------------|:-------|
-| **[git-format](https://github.com/Serennity007/git-format)** | Format commits to Conventional Commits | `npx git-format` |
-| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI generates commit messages from git diff | `npx ai-commit` |
-| **[agent-trace](https://github.com/Serennity007/agent-trace)** | Track AI agent costs, tokens, tool health | `npx agent-trace` |
+| **[git-format](https://github.com/Serennity007/git-format)** | Format commits to Conventional Commits | `npx @liangzhengtao/git-format` |
+| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI generates commit messages from git diff | `npx @liangzhengtao/commit-ai` |
+| **[agent-trace](https://github.com/Serennity007/agent-trace)** | Track AI agent costs, tokens, tool health | `npx @liangzhengtao/agent-trace` |
 | **[vibe-check](https://github.com/Serennity007/vibe-check)** | Audit project AI-readiness (0-100 score) | `npx @liangzhengtao/vibe-check` |
 
 ### Curated Collections

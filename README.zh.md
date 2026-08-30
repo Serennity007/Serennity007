@@ -10,10 +10,10 @@
 
 <!-- BADGES: npm downloads + profile stats -->
 
-<a href="https://www.npmjs.com/package/git-format"><img src="https://img.shields.io/npm/dm/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/ai-commit"><img src="https://img.shields.io/npm/dm/ai-commit?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/agent-trace"><img src="https://img.shields.io/npm/dm/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/vibe-check"><img src="https://img.shields.io/npm/dm/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/git-format"><img src="https://img.shields.io/npm/dm/@liangzhengtao/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/commit-ai"><img src="https://img.shields.io/npm/dm/@liangzhengtao/commit-ai?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/agent-trace"><img src="https://img.shields.io/npm/dm/@liangzhengtao/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+<a href="https://www.npmjs.com/package/@liangzhengtao/vibe-check"><img src="https://img.shields.io/npm/dm/@liangzhengtao/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
 
 <br/>
 
@@ -42,16 +42,16 @@ AI 研究者 & 开源开发者，**北京理工大学**智能科学与技术硕�
 
 ```bash
 # 把混乱的 git 历史格式化为 Conventional Commits
-npx git-format
+npx @liangzhengtao/git-format
 
 # AI 帮你写 commit message
-npx ai-commit
+npx @liangzhengtao/commit-ai
 
 # 给项目的 AI 友好度打分（0-100）
 npx @liangzhengtao/vibe-check
 
 # 追踪你的 AI Agent —— 成本、token、工具调用
-npx agent-trace
+npx @liangzhengtao/agent-trace
 ```
 
 **不 clone · 不要 API key · 不用配置 · 直接跑**
@@ -64,9 +64,9 @@ npx agent-trace
 
 | 工具 | 功能 | 试试 |
 |:-----|:-----|:-----|
-| **[git-format](https://github.com/Serennity007/git-format)** | 提交格式化为 Conventional Commits | `npx git-format` |
-| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI 根据 git diff 生成提交信息 | `npx ai-commit` |
-| **[agent-trace](https://github.com/Serennity007/agent-trace)** | 追踪 AI Agent 成本、token、工具健康 | `npx agent-trace` |
+| **[git-format](https://github.com/Serennity007/git-format)** | 提交格式化为 Conventional Commits | `npx @liangzhengtao/git-format` |
+| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI 根据 git diff 生成提交信息 | `npx @liangzhengtao/commit-ai` |
+| **[agent-trace](https://github.com/Serennity007/agent-trace)** | 追踪 AI Agent 成本、token、工具健康 | `npx @liangzhengtao/agent-trace` |
 | **[vibe-check](https://github.com/Serennity007/vibe-check)** | 评估项目 AI 就绪度（0-100 分） | `npx @liangzhengtao/vibe-check` |
 
 ### 精选合集
