@@ -116,9 +116,12 @@ graph LR
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="41%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Serennity007&theme=github_dark" width="49%"/>
 
 <br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serennity007&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
@@ -180,5 +183,15 @@ graph LR
 **324 repos · All open source · All free**
 
 *If any of these saved you time, ⭐ the repo you used most.*
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src=".github/footer.svg" width="100%" alt="Thanks for visiting — leave a star on the repo that saved you time" />
 
 </div>
