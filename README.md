@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&height=100&lines=%3E_+I+build+CLI+tools+that+automate+AI+development;324+open-source+repos+%C2%B7+4+npm+CLI+tools+%C2%B7+285%2B+prompts;All+free+%7C+All+open+source+%7C+npx-ready" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&height=100&lines=%3E_+I+build+CLI+tools+that+automate+AI+development;325+open-source+repos+%C2%B7+4+npm+CLI+tools+%C2%B7+285%2B+prompts;All+free+%7C+All+open+source+%7C+npx-ready" alt="Typing SVG" />
 
 <!-- BADGES: npm downloads + profile stats -->
 
@@ -19,7 +19,7 @@
 
 <a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/324_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/325_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
@@ -30,7 +30,7 @@
 AI researcher & open-source builder. M.S. in Intelligent Science & Technology at **Beijing Institute of Technology** (2026 → ). First-author paper at **CCF-BigData 2025** on legal judgment prediction with LLMs.
 
 - 🔧 **4 npm CLI tools** — `npx`-ready, zero install
-- 📦 **324 open-source repos** — all MIT, all free
+- 📦 **325 open-source repos** — all MIT, all free
 - 🏆 Huawei ICT Contest **National 1st Prize** (+ Global 3rd) · National Scholarship · Rank **1/69**, GPA **4.14/5**
 - 🔬 Legal AI + multimodal safety alignment · 🇸🇬 NUS exchange · IELTS 6.5
 
@@ -76,6 +76,28 @@ npx @liangzhengtao/agent-trace
 | **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | 20 production AI coding rules for Cursor, Claude, Kimi Code |
 | **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 9 verified MCP server configs |
 | **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | 285+ tested AI prompts for every task |
+
+---
+
+<!-- NEW: INVESTMENT MASTERS SKILLS -->
+
+## 🎓 New: Investment Masters × AI Skills
+
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **13 original** skills.
+
+| Master | Skill | One-liner |
+|:-------|:------|:----------|
+| Buffett | [buffett-value-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/buffett-value-investing) | Moat + 5yr ROE + margin of safety |
+| Munger | [munger-quality-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/munger-quality-investing) | Great company at fair price, 5-dim quality score |
+| Lynch | [lynch-garp-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lynch-garp-investing) | PEG<1 tenbagger screen + 6-type tagging |
+| Graham | [graham-defensive-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/graham-defensive-investing) | Defensive 7-criteria gate |
+| Dalio | [dalio-all-weather](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dalio-all-weather) | All-weather risk parity + backtest |
+| Marks | [howard-marks-cycle](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/howard-marks-cycle) | 0-100 market cycle thermometer |
+| Soros | [soros-reflexivity](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/soros-reflexivity) | Reflexivity: price-fundamentals divergence scan |
+| Druckenmiller | [druckenmiller-macro-flex](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/druckenmiller-macro-flex) | Macro dashboard: FX / rates / gold / oil / copper |
+| Livermore | [livermore-trend-trading](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/livermore-trend-trading) | Pivotal-point breakout + pyramid sizing |
+
+Plus the ⚡ hot-theme series: [hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner) · [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker) · [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper) · [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
 
 ---
 
@@ -148,7 +170,7 @@ graph LR
 <!-- FEATURED PROJECTS -->
 
 <details>
-<summary><b>📂 Featured Projects (10 of 324)</b></summary>
+<summary><b>📂 Featured Projects (10 of 325)</b></summary>
 
 | Project | Description |
 |:--------|:------------|
@@ -163,7 +185,7 @@ graph LR
 | [awesome-portfolio-skills](https://github.com/Serennity007/awesome-portfolio-skills) | Build a developer portfolio that stands out |
 | [build-your-own-x](https://github.com/Serennity007/build-your-own-x) | Build tech from scratch — curated tutorials |
 
-**[Browse all 324 repos →](https://github.com/Serennity007?tab=repositories)**
+**[Browse all 325 repos →](https://github.com/Serennity007?tab=repositories)**
 
 </details>
 
@@ -180,7 +202,7 @@ graph LR
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/Serennity007-portfolio/)
 [![Blog](https://img.shields.io/badge/-Blog-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
 
-**324 repos · All open source · All free**
+**325 repos · All open source · All free**
 
 *If any of these saved you time, ⭐ the repo you used most.*
 

@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&height=100&lines=%3E_+%E6%9E%84%E5%BB%BA%E8%87%AA%E5%8A%A8%E5%8C%96+AI+%E5%BC%80%E5%8F%91%E7%9A%84+CLI+%E5%B7%A5%E5%85%B7;324+%E4%B8%AA%E5%BC%80%E6%BA%90%E4%BB%93%E5%BA%93+%C2%B7+4+%E4%B8%AA+npm+CLI+%E5%B7%A5%E5%85%B7+%C2%B7+285%2B+%E6%8F%90%E7%A4%BA%E8%AF%8D;%E5%85%A8%E9%83%A8%E5%85%8D%E8%B4%B9+%7C+%E5%85%A8%E9%83%A8%E5%BC%80%E6%BA%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&height=100&lines=%3E_+%E6%9E%84%E5%BB%BA%E8%87%AA%E5%8A%A8%E5%8C%96+AI+%E5%BC%80%E5%8F%91%E7%9A%84+CLI+%E5%B7%A5%E5%85%B7;325+%E4%B8%AA%E5%BC%80%E6%BA%90%E4%BB%93%E5%BA%93+%C2%B7+4+%E4%B8%AA+npm+CLI+%E5%B7%A5%E5%85%B7+%C2%B7+285%2B+%E6%8F%90%E7%A4%BA%E8%AF%8D;%E5%85%A8%E9%83%A8%E5%85%8D%E8%B4%B9+%7C+%E5%85%A8%E9%83%A8%E5%BC%80%E6%BA%90" alt="Typing SVG" />
 
 <!-- BADGES: npm downloads + profile stats -->
 
@@ -19,7 +19,7 @@
 
 <a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/324_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/325_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
@@ -30,7 +30,7 @@
 AI 研究者 & 开源开发者，**北京理工大学**智能科学与技术硕士在读（2026 级）。一作论文投中 **CCF-BigData 2025**（大语言模型法律判决预测方向）。
 
 - 🔧 **4 个 npm CLI 工具** — `npx` 直接运行，零安装
-- 📦 **324 个开源仓库** — 全部 MIT，全部免费
+- 📦 **325 个开源仓库** — 全部 MIT，全部免费
 - 🏆 华为 ICT 大赛**国家一等奖**（+ 全球三等奖）· 国家奖学金 · 专业排名 **1/69**，GPA **4.14/5**
 - 🔬 法律 AI + 多模态安全对齐 · 🇸🇬 新国立交换 · 雅思 6.5
 
@@ -76,6 +76,28 @@ npx @liangzhengtao/agent-trace
 | **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | 20 条生产级 AI 编码规则（Cursor / Claude / Kimi Code） |
 | **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 9 个验证过的 MCP 服务器配置 |
 | **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | 285+ 实测 AI 提示词 |
+
+---
+
+<!-- NEW: 投资大师 SKILLS -->
+
+## 🎓 新作：投资大师 × AI Skills
+
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **13** 个。
+
+| 大师 | 技能 | 一句话 |
+|:-----|:-----|:-------|
+| 巴菲特 | [buffett-value-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/buffett-value-investing) | 护城河 + 连续5年ROE + 安全边际 |
+| 芒格 | [munger-quality-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/munger-quality-investing) | 公允价买伟大公司，五维质量打分 |
+| 彼得·林奇 | [lynch-garp-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lynch-garp-investing) | PEG<1 十倍股筛选 + 六分类 |
+| 格雷厄姆 | [graham-defensive-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/graham-defensive-investing) | 防御型七准则铁门筛股 |
+| 达利欧 | [dalio-all-weather](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dalio-all-weather) | 全天候风险平价配置 + 回测 |
+| 霍华德·马克斯 | [howard-marks-cycle](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/howard-marks-cycle) | 0-100 市场周期温度计 |
+| 索罗斯 | [soros-reflexivity](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/soros-reflexivity) | 反身性：价格-基本面背离扫描 |
+| 德鲁肯米勒 | [druckenmiller-macro-flex](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/druckenmiller-macro-flex) | 宏观仪表盘：汇率/利率/金油铜 |
+| 利弗莫尔 | [livermore-trend-trading](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/livermore-trend-trading) | 关键点突破 + 金字塔加仓 |
+
+另有 ⚡ 热点题材系列：[hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner)（5秒锁定今日最强题材）· [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker)（8只最热美股AI标的）· [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper)（关键词秒拉概念股）· [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
 
 ---
 
@@ -148,7 +170,7 @@ graph LR
 <!-- FEATURED PROJECTS -->
 
 <details>
-<summary><b>📂 精选项目（324 选 10）</b></summary>
+<summary><b>📂 精选项目（325 选 10）</b></summary>
 
 | 项目 | 说明 |
 |:-----|:-----|
@@ -163,7 +185,7 @@ graph LR
 | [awesome-portfolio-skills](https://github.com/Serennity007/awesome-portfolio-skills) | 打造亮眼的开发者作品集 |
 | [build-your-own-x](https://github.com/Serennity007/build-your-own-x) | 从零构建技术 — 精选教程 |
 
-**[查看全部 324 个仓库 →](https://github.com/Serennity007?tab=repositories)**
+**[查看全部 325 个仓库 →](https://github.com/Serennity007?tab=repositories)**
 
 </details>
 
@@ -180,7 +202,7 @@ graph LR
 [![Portfolio](https://img.shields.io/badge/-个人网站-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/Serennity007-portfolio/)
 [![Blog](https://img.shields.io/badge/-博客-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
 
-**324 个仓库 · 全部开源 · 全部免费**
+**325 个仓库 · 全部开源 · 全部免费**
 
 *如果某个项目帮到了你，给那个仓库一个 ⭐*
 
