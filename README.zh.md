@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 新作：投资大师 × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **13** 个。
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **16** 个。
 
 | 大师 | 技能 | 一句话 |
 |:-----|:-----|:-------|
@@ -96,6 +96,9 @@ npx @liangzhengtao/agent-trace
 | 索罗斯 | [soros-reflexivity](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/soros-reflexivity) | 反身性：价格-基本面背离扫描 |
 | 德鲁肯米勒 | [druckenmiller-macro-flex](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/druckenmiller-macro-flex) | 宏观仪表盘：汇率/利率/金油铜 |
 | 利弗莫尔 | [livermore-trend-trading](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/livermore-trend-trading) | 关键点突破 + 金字塔加仓 |
+| 西蒙斯 | [simons-factor-quant](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/simons-factor-quant) | 多因子打分：动量/反转/波动率/量能/均线偏离 |
+| 卡拉曼 | [klarman-margin-safety](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/klarman-margin-safety) | 深度价值：PB/PE分位、净现金、52周回撤 |
+| 邓普顿 | [templeton-global-contrarian](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/templeton-global-contrarian) | 极度悲观扫描：52周低位 + 估值历史低位 |
 
 另有 ⚡ 热点题材系列：[hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner)（5秒锁定今日最强题材）· [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker)（8只最热美股AI标的）· [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper)（关键词秒拉概念股）· [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
 
