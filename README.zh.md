@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 新作：投资大师 × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **21** 个（含 5 位中国投资大佬）。
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **23** 个（含 5 位中国投资大佬）。
 
 | 大师 | 技能 | 一句话 |
 |:-----|:-----|:-------|
@@ -99,6 +99,8 @@ npx @liangzhengtao/agent-trace
 | 西蒙斯 | [simons-factor-quant](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/simons-factor-quant) | 多因子打分：动量/反转/波动率/量能/均线偏离 |
 | 卡拉曼 | [klarman-margin-safety](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/klarman-margin-safety) | 深度价值：PB/PE分位、净现金、52周回撤 |
 | 邓普顿 | [templeton-global-contrarian](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/templeton-global-contrarian) | 极度悲观扫描：52周低位 + 估值历史低位 |
+| 费雪 | [fisher-growth-15](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/fisher-growth-15) | 成长股15要点：研发投入 + 利润率趋势 + 闲聊法候选 |
+| 聂夫 | [neff-low-pe-total-return](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/neff-low-pe-total-return) | 低市盈率 vs 市场中位数 + 总回报率≥2 黄金标准 |
 | 段永平 | [duan-yongping-business-first](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/duan-yongping-business-first) | 商业模式第一：六维打分，敢为天下后 |
 | 张磊 | [zhang-lei-longterm](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/zhang-lei-longterm) | 长期结构性价值：四维成长质量雷达 |
 | 邱国鹭 | [qiu-guolu-simple-rules](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/qiu-guolu-simple-rules) | 三好打分：数月亮不数星星 |
