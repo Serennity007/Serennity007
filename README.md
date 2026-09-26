@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 New: Investment Masters × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **16 original** skills.
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **21 original** skills, now incl. 5 Chinese investment masters.
 
 | Master | Skill | One-liner |
 |:-------|:------|:----------|
@@ -99,6 +99,11 @@ npx @liangzhengtao/agent-trace
 | Simons | [simons-factor-quant](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/simons-factor-quant) | Multi-factor scorer: momentum / reversal / volatility / volume / MA deviation |
 | Klarman | [klarman-margin-safety](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/klarman-margin-safety) | Deep value: PB/PE percentiles, net cash, 52w drawdown |
 | Templeton | [templeton-global-contrarian](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/templeton-global-contrarian) | Max-pessimism scan: 52w low zone + historic valuation lows |
+| Duan Yongping | [duan-yongping-business-first](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/duan-yongping-business-first) | Business model first: 6-dim screen, "dare to be the follower" |
+| Zhang Lei | [zhang-lei-longterm](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/zhang-lei-longterm) | Long-term structural value: 4-d growth-quality radar |
+| Qiu Guolu | [qiu-guolu-simple-rules](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/qiu-guolu-simple-rules) | Good industry/company/price — "count moons, not stars" |
+| Feng Liu | [feng-liu-weak-side](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/feng-liu-weak-side) | Weak-side contrarian: high odds after deep drawdowns |
+| Lin Yuan | [lin-yuan-monopoly-consumer](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lin-yuan-monopoly-consumer) | Monopoly + addictive consumer: mouth-related necessities |
 
 Plus the ⚡ hot-theme series: [hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner) · [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker) · [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper) · [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
 

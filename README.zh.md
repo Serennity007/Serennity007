@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 新作：投资大师 × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **16** 个。
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **21** 个（含 5 位中国投资大佬）。
 
 | 大师 | 技能 | 一句话 |
 |:-----|:-----|:-------|
@@ -99,6 +99,11 @@ npx @liangzhengtao/agent-trace
 | 西蒙斯 | [simons-factor-quant](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/simons-factor-quant) | 多因子打分：动量/反转/波动率/量能/均线偏离 |
 | 卡拉曼 | [klarman-margin-safety](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/klarman-margin-safety) | 深度价值：PB/PE分位、净现金、52周回撤 |
 | 邓普顿 | [templeton-global-contrarian](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/templeton-global-contrarian) | 极度悲观扫描：52周低位 + 估值历史低位 |
+| 段永平 | [duan-yongping-business-first](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/duan-yongping-business-first) | 商业模式第一：六维打分，敢为天下后 |
+| 张磊 | [zhang-lei-longterm](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/zhang-lei-longterm) | 长期结构性价值：四维成长质量雷达 |
+| 邱国鹭 | [qiu-guolu-simple-rules](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/qiu-guolu-simple-rules) | 三好打分：数月亮不数星星 |
+| 冯柳 | [feng-liu-weak-side](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/feng-liu-weak-side) | 弱者体系：深度回撤后的高赔率逆向 |
+| 林园 | [lin-yuan-monopoly-consumer](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lin-yuan-monopoly-consumer) | 垄断+成瘾消费：只投嘴巴相关的刚需 |
 
 另有 ⚡ 热点题材系列：[hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner)（5秒锁定今日最强题材）· [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker)（8只最热美股AI标的）· [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper)（关键词秒拉概念股）· [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
 
