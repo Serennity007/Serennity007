@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 New: Investment Masters × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **23 original** skills, incl. 5 Chinese investment masters.
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **27 original** skills, incl. 7 Chinese investment masters.
 
 | Master | Skill | One-liner |
 |:-------|:------|:----------|
@@ -101,11 +101,15 @@ npx @liangzhengtao/agent-trace
 | Templeton | [templeton-global-contrarian](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/templeton-global-contrarian) | Max-pessimism scan: 52w low zone + historic valuation lows |
 | Fisher | [fisher-growth-15](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/fisher-growth-15) | Growth-stock 15 points: R&D intensity + margin trend + scuttlebutt shortlist |
 | Neff | [neff-low-pe-total-return](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/neff-low-pe-total-return) | Low P/E vs market median + total-return ratio ≥2 golden standard |
+| Bogle | [bogle-index-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/bogle-index-investing) | Index thermometer: PE/PB 10y percentile + Bogle expected-return + DCA backtest |
+| O'Neil | [oneil-canslim](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/oneil-canslim) | CANSLIM 7-letter checklist: earnings accel + 250d high + RS + market trend |
 | Duan Yongping | [duan-yongping-business-first](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/duan-yongping-business-first) | Business model first: 6-dim screen, "dare to be the follower" |
 | Zhang Lei | [zhang-lei-longterm](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/zhang-lei-longterm) | Long-term structural value: 4-d growth-quality radar |
 | Qiu Guolu | [qiu-guolu-simple-rules](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/qiu-guolu-simple-rules) | Good industry/company/price — "count moons, not stars" |
 | Feng Liu | [feng-liu-weak-side](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/feng-liu-weak-side) | Weak-side contrarian: high odds after deep drawdowns |
 | Lin Yuan | [lin-yuan-monopoly-consumer](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lin-yuan-monopoly-consumer) | Monopoly + addictive consumer: mouth-related necessities |
+| Dan Bin | [dan-bin-rose-of-time](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dan-bin-rose-of-time) | "Rose of Time": long slope + thick snow + compounding engine, 7-dim great-enterprise score |
+| Li Lu | [li-lu-value-compounding](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/li-lu-value-compounding) | Value compounding machine: sustained ROE + ROE trend + low-percentile margin of safety |
 
 Plus the ⚡ hot-theme series: [hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner) · [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker) · [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper) · [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
 
