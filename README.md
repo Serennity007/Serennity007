@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 New: Investment Masters × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **27 original** skills, incl. 7 Chinese investment masters.
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **28 original** skills, incl. 7 Chinese investment masters.
 
 | Master | Skill | One-liner |
 |:-------|:------|:----------|

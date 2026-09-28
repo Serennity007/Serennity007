@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 新作：投资大师 × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **27** 个（含 7 位中国投资大佬）。
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **28** 个（含 7 位中国投资大佬）。
 
 | 大师 | 技能 | 一句话 |
 |:-----|:-----|:-------|
