@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 New: Investment Masters × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **28 original** skills, incl. 7 Chinese investment masters.
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **29 original** skills, incl. 7 Chinese investment masters.
 
 | Master | Skill | One-liner |
 |:-------|:------|:----------|
@@ -111,7 +111,7 @@ npx @liangzhengtao/agent-trace
 | Dan Bin | [dan-bin-rose-of-time](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dan-bin-rose-of-time) | "Rose of Time": long slope + thick snow + compounding engine, 7-dim great-enterprise score |
 | Li Lu | [li-lu-value-compounding](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/li-lu-value-compounding) | Value compounding machine: sustained ROE + ROE trend + low-percentile margin of safety |
 
-Plus the ⚡ hot-theme series: [hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner) · [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker) · [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper) · [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
+Plus the ⚡ hot-theme series: [hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner) · [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker) · [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper) · [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition), and cross-framework tools [master-ensemble](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/master-ensemble) · [framework-backtest](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/framework-backtest).
 
 ---
 

@@ -83,7 +83,7 @@ npx @liangzhengtao/agent-trace
 
 ## 🎓 新作：投资大师 × AI Skills
 
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **28** 个（含 7 位中国投资大佬）。
+**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **29** 个（含 7 位中国投资大佬）。
 
 | 大师 | 技能 | 一句话 |
 |:-----|:-----|:-------|
@@ -111,7 +111,7 @@ npx @liangzhengtao/agent-trace
 | 但斌 | [dan-bin-rose-of-time](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dan-bin-rose-of-time) | 时间的玫瑰：长坡厚雪+复利引擎，伟大企业七维打分 |
 | 李录 | [li-lu-value-compounding](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/li-lu-value-compounding) | 价值复利机器：持续ROE + 复利趋势 + 低分位安全边际 |
 
-另有 ⚡ 热点题材系列：[hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner)（5秒锁定今日最强题材）· [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker)（8只最热美股AI标的）· [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper)（关键词秒拉概念股）· [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)
+另有 ⚡ 热点题材系列：[hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner)（5秒锁定今日最强题材）· [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker)（8只最热美股AI标的）· [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper)（关键词秒拉概念股）· [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)；跨框架工具 [master-ensemble](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/master-ensemble)（大师共识合成）· [framework-backtest](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/framework-backtest)（月度调仓回测验证器）。
 
 ---
 
