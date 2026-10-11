@@ -19,7 +19,7 @@
 
 <a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/325_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/339_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
@@ -30,7 +30,7 @@
 AI 研究者 & 开源开发者，**北京理工大学**智能科学与技术硕士在读（2026 级）。一作论文投中 **CCF-BigData 2025**（大语言模型法律判决预测方向）。
 
 - 🔧 **4 个 npm CLI 工具** — `npx` 直接运行，零安装
-- 📦 **325 个开源仓库** — 全部 MIT，全部免费
+- 📦 **339 个开源仓库** — 以 MIT 为主，少数 GPL-3.0，全部免费
 - 🏆 华为 ICT 大赛**国家一等奖**（+ 全球三等奖）· 国家奖学金 · 专业排名 **1/69**，GPA **4.14/5**
 - 🔬 法律 AI + 多模态安全对齐 · 🇸🇬 新国立交换 · 雅思 6.5
 
@@ -184,7 +184,7 @@ graph LR
 <!-- FEATURED PROJECTS -->
 
 <details>
-<summary><b>📂 精选项目（325 选 10）</b></summary>
+<summary><b>📂 精选项目（339 选 10）</b></summary>
 
 | 项目 | 说明 |
 |:-----|:-----|
@@ -199,7 +199,7 @@ graph LR
 | [awesome-portfolio-skills](https://github.com/Serennity007/awesome-portfolio-skills) | 打造亮眼的开发者作品集 |
 | [build-your-own-x](https://github.com/Serennity007/build-your-own-x) | 从零构建技术 — 精选教程 |
 
-**[查看全部 325 个仓库 →](https://github.com/Serennity007?tab=repositories)**
+**[查看全部 339 个仓库 →](https://github.com/Serennity007?tab=repositories)**
 
 </details>
 
@@ -216,7 +216,7 @@ graph LR
 [![Portfolio](https://img.shields.io/badge/-个人网站-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/Serennity007-portfolio/)
 [![Blog](https://img.shields.io/badge/-博客-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
 
-**325 个仓库 · 全部开源 · 全部免费**
+**339 个仓库 · 全部开源 · 全部免费**
 
 *如果某个项目帮到了你，给那个仓库一个 ⭐*
 
