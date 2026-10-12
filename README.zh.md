@@ -218,7 +218,7 @@ graph LR
 [![Portfolio](https://img.shields.io/badge/-个人网站-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/Serennity007-portfolio/)
 [![Blog](https://img.shields.io/badge/-博客-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
 
-**339 个仓库 · 全部开源 · 全部免费**
+**340 个仓库 · 全部开源 · 全部免费**
 
 *如果某个项目帮到了你，给那个仓库一个 ⭐*
 
