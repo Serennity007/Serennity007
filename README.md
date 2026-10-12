@@ -19,7 +19,7 @@
 
 <a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
 <img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/339_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/340_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
@@ -30,7 +30,7 @@
 AI researcher & open-source builder. M.S. in Intelligent Science & Technology at **Beijing Institute of Technology** (2026 → ). First-author paper at **CCF-BigData 2025** on legal judgment prediction with LLMs.
 
 - 🔧 **4 npm CLI tools** — `npx`-ready, zero install
-- 📦 **339 open-source repos** — MIT, a few GPL-3.0, all free
+- 📦 **340 open-source repos** — MIT, a few GPL-3.0, all free
 - 🏆 Huawei ICT Contest **National 1st Prize** (+ Global 3rd) · National Scholarship · Rank **1/69**, GPA **4.14/5**
 - 🔬 Legal AI + multimodal safety alignment · 🇸🇬 NUS exchange · IELTS 6.5
 
@@ -184,7 +184,7 @@ graph LR
 <!-- FEATURED PROJECTS -->
 
 <details>
-<summary><b>📂 Featured Projects (10 of 339)</b></summary>
+<summary><b>📂 Featured Projects (10 of 340)</b></summary>
 
 | Project | Description |
 |:--------|:------------|
@@ -199,7 +199,9 @@ graph LR
 | [awesome-portfolio-skills](https://github.com/Serennity007/awesome-portfolio-skills) | Build a developer portfolio that stands out |
 | [build-your-own-x](https://github.com/Serennity007/build-your-own-x) | Build tech from scratch — curated tutorials |
 
-**[Browse all 339 repos →](https://github.com/Serennity007?tab=repositories)**
+**[Browse all 340 repos →](https://github.com/Serennity007?tab=repositories)**
+
+**[🗂️ Categorized index — which repos are real, which are placeholders →](https://github.com/Serennity007/repo-catalog)
 
 </details>
 
@@ -216,7 +218,7 @@ graph LR
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/Serennity007-portfolio/)
 [![Blog](https://img.shields.io/badge/-Blog-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
 
-**339 repos · All open source · All free**
+**340 repos · All open source · All free**
 
 *If any of these saved you time, ⭐ the repo you used most.*
 
