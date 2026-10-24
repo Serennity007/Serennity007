@@ -1,9 +1,6 @@
 [English](README.md) | [中文](README.zh.md)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/profile-cover-dark.svg" />
-  <img src=".github/profile-cover.svg" width="100%" alt="Zhengtao Liang · AI research and open-source engineering" />
-</picture>
+<img src=".github/terminal.svg" width="100%" alt="Zhengtao Liang · AI research and open-source engineering" />
 
 # 梁正涛 | AI 研究与开源工程
 
