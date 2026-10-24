@@ -17,18 +17,26 @@
 - **教育背景**: 贵州大学人工智能本科，专业排名 **1/69**，GPA **4.14/5**；北京理工大学硕士在读。
 - **荣誉与交流**: 国家奖学金；华为 ICT 国家一等奖、全球三等奖；新加坡国立大学交流；雅思 6.5。
 
+## 重点项目：选股与量化研究
+
+**[GitHub 41 Stars · 8 Forks（截至 2026-10-24）](https://github.com/Serennity007/awesome-stock-quant-skills/stargazers)**
+
+- 开发 30 个原创选股与量化研究 Skill（增强版），覆盖财务筛选、因子排序、多框架共识和含交易成本的回测。
+- 个人实测：AKShare 1.19.3 跑通 600519 真实财务取数与筛选计算，覆盖 2021–2025 年报；35 项行为测试通过，覆盖估值日期、财务缺失、换手与成本。
+- [增强版与验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/docs/validation.md) · [真实取数原始记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
+
 ## 代表项目
 
 精选具备具体功能、源码或可复用工作流的项目。
 
 | 项目 | 做了什么 | 技术栈 |
 |---|---|---|
-| **[量化研究 AI Skills](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 将价值投资、因子筛选与回测框架写成 AI Skills 和 Python 脚本；区分原创技能与收录内容，保留来源与许可证。 | Python · akshare · pandas · Agent Skills |
+| **[量化研究 AI Skills](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 30 个原创 Skill（增强版），覆盖财务筛选、共识排序与含成本回测；41 Stars / 8 Forks（截至 2026-10-24），附真实数据实跑和 35 项行为测试记录。 | Python · akshare · pandas · Agent Skills |
 | **[国际课程组卷与在线考试系统](https://github.com/Serennity007/paper-builder-system)**<br>`paper-builder-system` | 基于 Flask + SQLite 实现题库、双栏组卷、在线答题、客观题判分、教师批阅与成绩分析；支持离线公式渲染和 Excel 导入导出。 | Flask · SQLite · JavaScript · KaTeX |
 | **[PPT 批量改造与验收工作流](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | 使用 Python 批量统一课件标题、配色和字号；调用 PowerPoint 实测文本越框并回退，配套静态验收报告与回归测试。 | Python · python-pptx · PowerPoint |
 | **[京城黔味地图](https://github.com/Serennity007/beijing-food-map-workspace)**<br>`beijing-food-map-workspace` | 提供 React 网页、API、SQLite 数据层及 Taro 小程序的完整源码快照；实现地图找店与反馈流程，线上使用合成演示数据。 | TypeScript · React · SQLite · Taro |
 | **[AI Agent 会话分析 CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | 解析多种编码 Agent 的本地会话日志，汇总 token 用量、成本估算与工具调用；提供终端报告与 JSON 输出。 | Node.js · JavaScript · CLI |
-| **[Conventional Commits 工具](https://github.com/Serennity007/git-format)**<br>`git-format` | 读取暂存区文件并按规则推断提交类型与 scope，生成规范提交信息；支持 dry-run 预览和 JSON 输出。 | Node.js · Git · CLI |
+| **[财经 RSS 阅读器与摘要工具](https://github.com/Serennity007/serenity-stock-rss)**<br>`serenity-stock-rss` | 基于 Qiaomu AI RSS 改造 Obsidian 财经阅读器，内置 45 个源，支持文章转 Markdown、日记摘录与 OPML；另开发飞书摘要工具，支持消息去重、分组卡片和分批发送。 | TypeScript · Obsidian API · Node.js |
 
 [地图在线演示（合成数据）](https://serennity007.github.io/beijing-food-map/) · [仓库分类索引](https://github.com/Serennity007/repo-catalog) · [全部仓库](https://github.com/Serennity007/?tab=repositories)
 

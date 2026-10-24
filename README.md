@@ -17,18 +17,26 @@ M.S. student in Intelligent Science and Technology at **Beijing Institute of Tec
 - **Education**: B.S. in AI, Guizhou University; rank **1/69**, GPA **4.14/5**. M.S. at BIT.
 - **Honors & international experience**: National Scholarship; Huawei ICT National First Prize and Global Third Prize; NUS exchange; IELTS 6.5.
 
+## Featured: Stock Screening & Quant Research
+
+**[GitHub: 41 Stars · 8 Forks (as of 2026-10-24)](https://github.com/Serennity007/awesome-stock-quant-skills/stargazers)**
+
+- Develop 30 original stock-screening and quant-research Skills in the enhanced version, covering financial filters, factor ranking, multi-framework consensus and backtesting with transaction costs.
+- Hands-on validation: AKShare 1.19.3 retrieved real financial data and completed screening for 600519 across FY2021–2025; 35 behavioral tests passed, covering valuation dates, missing financials, turnover and costs.
+- [Enhanced version & validation](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/docs/validation.md) · [Original live-data run](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
+
 ## Selected Projects
 
 Selected for concrete functionality, source code and reusable workflows.
 
 | Project | Implementation | Stack |
 |---|---|---|
-| **[Quant Research Skills](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | Turn investment research, factor screening and backtesting frameworks into AI Skills and Python scripts; separate original work from attributed third-party collections. | Python · akshare · pandas · Agent Skills |
+| **[Quant Research Skills](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 30 original Skills (enhanced version); financial screening, consensus ranking and cost-aware backtesting. 41 Stars / 8 Forks as of 2026-10-24. Real-data smoke run and 35 behavioral tests documented. | Python · akshare · pandas · Agent Skills |
 | **[Exam Builder & Assessment System](https://github.com/Serennity007/paper-builder-system)**<br>`paper-builder-system` | Build a Flask + SQLite application for question banks, exam assembly, student answers, objective grading, teacher review and score reports, with offline math rendering and Excel import/export. | Flask · SQLite · JavaScript · KaTeX |
 | **[PPT Refactoring & Validation Workflow](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | Standardize slide titles, colors and typography with Python; measure text overflow in PowerPoint, adjust font sizes and produce audit reports with regression checks. | Python · python-pptx · PowerPoint |
 | **[Beijing Guizhou Food Map](https://github.com/Serennity007/beijing-food-map-workspace)**<br>`beijing-food-map-workspace` | Provide a source snapshot with a React web app, API, SQLite data layer and Taro mini program for map-based restaurant discovery and feedback; the demo uses synthetic data. | TypeScript · React · SQLite · Taro |
 | **[AI Agent Session Analytics CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | Parse local coding-agent session logs and report token usage, estimated costs and tool calls through terminal and JSON output. | Node.js · JavaScript · CLI |
-| **[Conventional Commits CLI](https://github.com/Serennity007/git-format)**<br>`git-format` | Read staged files, infer commit type and scope with rules, and generate Conventional Commits messages with dry-run and JSON output. | Node.js · Git · CLI |
+| **[Finance RSS Reader & Digest Tools](https://github.com/Serennity007/serenity-stock-rss)**<br>`serenity-stock-rss` | Adapt Qiaomu AI RSS into an Obsidian finance reader with 45 feeds, Markdown saving, daily-note excerpts and OPML; build a companion Feishu digest tool with deduplication, grouped cards and batched delivery. | TypeScript · Obsidian API · Node.js |
 
 [Food map demo (synthetic data)](https://serennity007.github.io/beijing-food-map/) · [Repository catalog](https://github.com/Serennity007/repo-catalog) · [All repositories](https://github.com/Serennity007/?tab=repositories)
 
