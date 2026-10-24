@@ -1,6 +1,9 @@
 [English](README.md) | [中文](README.zh.md)
 
-<img src=".github/terminal.svg" width="100%" alt="Zhengtao Liang · AI research and open-source engineering" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/profile-cover-dark.svg" />
+  <img src=".github/profile-cover.svg" width="100%" alt="Zhengtao Liang · AI research and open-source engineering" />
+</picture>
 
 # Zhengtao Liang | AI Research & Open-Source Engineering
 

@@ -11,5 +11,7 @@
 
 历史语言决策见 [ADR 0001](docs/adr/0001-language-reduction-en-zh.md)。
 
+- 视觉：与作品集统一为米白、墨绿、古铜色与编辑式排版。首屏封面为 `.github/profile-cover.svg` / `.github/profile-cover-dark.svg`，随访客主题切换。
+
 - 选股项目（2026-10-24 核对）：41 Stars、8 Forks；增强版提交 c46da26575289ddaab5587d31e7f718f9ac22a2e 有 30 个原创 Skill、35 项行为测试与 AKShare 1.19.3 单股真实取数记录。规模与实测链接指向增强版；主分支与增强版的内容不要混用。实测表示取数和计算验证，不表示实盘收益。
 - 新增代表项目 serenity-stock-rss 与飞书摘要工具；财经阅读器基于 Qiaomu AI RSS 改造，不能声称从零独立实现全部阅读器。
