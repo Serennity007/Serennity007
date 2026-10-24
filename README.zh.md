@@ -27,7 +27,7 @@
 - 串联财务筛选、因子评分、跨框架共识与含成本回测，输出分项得分、换手、持仓明细和输入哈希。
 - 功能验证：40 项本地测试通过（2026-10-25）；一条命令运行离线示例，生成报告、CSV 与日志。
 - 真实取数：2026-10-24 使用 AKShare 1.19.3 完成 600519 筛选，覆盖 2021–2025 年报。
-- [运行离线演示](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [真实取数原始记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
+- [项目拆解与实测](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [运行离线演示](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [真实取数原始记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
 ## 代表项目
 

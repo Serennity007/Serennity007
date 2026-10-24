@@ -27,7 +27,7 @@ Download: [中文 PDF](https://serennity007.github.io/Serennity007-portfolio/ass
 - Combined financial screening, factor scoring, cross-framework consensus and cost-aware backtesting, with component scores, turnover, holding details and input hashes.
 - Passed 40 local tests on 2026-10-25; a one-command offline demo produces reports, CSVs and logs.
 - Retrieved real FY2021–2025 financials for 600519 with AKShare 1.19.3 on 2026-10-24.
-- [Run the offline demo](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [Validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [Original live-data record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
+- [Project walkthrough](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [Run the offline demo](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [Validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [Original live-data record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
 ## Selected Projects
 
