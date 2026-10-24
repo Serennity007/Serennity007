@@ -9,7 +9,7 @@
 
 M.S. student in Intelligent Science and Technology at **Beijing Institute of Technology** (2026 cohort). I work on legal AI and multimodal model safety, and build developer tools and applications.
 
-**1 KSEM conference paper (CCF-C)** · Huawei ICT Competition: National First Prize / Global Third Prize
+**1 KSEM conference paper (CCF-C)** · Huawei ICT Competition: National First Prize
 
 [Portfolio](https://serennity007.github.io/Serennity007-portfolio/) · [中文简历](https://serennity007.github.io/Serennity007-portfolio/resume.html) · [English Resume](https://serennity007.github.io/Serennity007-portfolio/resume-en.html) · [Email](mailto:1392452425a@gmail.com)
 
@@ -18,7 +18,7 @@ M.S. student in Intelligent Science and Technology at **Beijing Institute of Tec
 - **KSEM · CCF-C**: 1 conference paper. [CCF classification](https://www.ccf.org.cn/c/2017-04-25/592085.shtml).
 - **Research**: legal judgment prediction with LLMs, knowledge and precedent retrieval, and multimodal model safety alignment.
 - **Education**: B.S. in AI, Guizhou University; rank **1/69**, GPA **4.14/5**. M.S. at BIT.
-- **Honors & international experience**: National Scholarship; Huawei ICT National First Prize and Global Third Prize; NUS exchange; IELTS 6.5.
+- **Honors & international experience**: National Scholarship; Huawei ICT National First Prize; NUS exchange; IELTS 6.5.
 
 ## Featured: Stock Screening & Quant Research
 
