@@ -17,13 +17,14 @@ M.S. student in Intelligent Science and Technology at **Beijing Institute of Tec
 - **Education**: B.S. in AI, Guizhou University; rank **1/69**, GPA **4.14/5**. M.S. at BIT.
 - **Honors & international experience**: National Scholarship; Huawei ICT National First Prize; NUS exchange; IELTS 6.5.
 
-## Featured: Stock Screening & Quant Research
+## Featured: AI Stock Screening & Quant Research Toolchain
 
-**[GitHub: 41 Stars · 8 Forks (as of 2026-10-24)](https://github.com/Serennity007/awesome-stock-quant-skills/stargazers)**
+**[41 Stars · 8 Forks（2026-10-24）](https://github.com/Serennity007/awesome-stock-quant-skills)**
 
-- Develop 30 original stock-screening and quant-research Skills in the enhanced version, covering financial filters, factor ranking, multi-framework consensus and backtesting with transaction costs.
-- Hands-on validation: AKShare 1.19.3 retrieved real financial data and completed screening for 600519 across FY2021–2025; 35 behavioral tests passed, covering valuation dates, missing financials, turnover and costs.
-- [Enhanced version & validation](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/docs/validation.md) · [Original live-data run](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
+- Developed 30 original Agent Skills and 32 Python scripts implementing 23 investment-method reference frameworks across value, growth, momentum, macro cycles and allocation.
+- Combined financial screening, factor scoring, cross-framework consensus and cost-aware backtesting, with component scores, turnover, holding details and input hashes.
+- Hands-on validation: 35 behavioral tests passed; AKShare 1.19.3 retrieved real data and completed screening for 600519 across FY2021–2025.
+- [Enhanced version & validation](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/docs/validation.md) · [Original live-data record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
 ## Selected Projects
 
@@ -31,7 +32,7 @@ Selected for concrete functionality, source code and reusable workflows.
 
 | Project | Implementation | Stack |
 |---|---|---|
-| **[Quant Research Skills](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 30 original Skills (enhanced version); financial screening, consensus ranking and cost-aware backtesting. 41 Stars / 8 Forks as of 2026-10-24. Real-data smoke run and 35 behavioral tests documented. | Python · akshare · pandas · Agent Skills |
+| **[AI Quant Research Toolchain](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 30 original Skills (enhanced version); financial screening, consensus ranking and cost-aware backtesting. 41 Stars / 8 Forks as of 2026-10-24. Real-data smoke run and 35 behavioral tests documented. | Python · akshare · pandas · Agent Skills |
 | **[Exam Builder & Assessment System](https://github.com/Serennity007/paper-builder-system)**<br>`paper-builder-system` | Build a Flask + SQLite application for question banks, exam assembly, student answers, objective grading, teacher review and score reports, with offline math rendering and Excel import/export. | Flask · SQLite · JavaScript · KaTeX |
 | **[PPT Refactoring & Validation Workflow](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | Standardize slide titles, colors and typography with Python; measure text overflow in PowerPoint, adjust font sizes and produce audit reports with regression checks. | Python · python-pptx · PowerPoint |
 | **[Beijing Guizhou Food Map](https://github.com/Serennity007/beijing-food-map-workspace)**<br>`beijing-food-map-workspace` | Provide a source snapshot with a React web app, API, SQLite data layer and Taro mini program for map-based restaurant discovery and feedback; the demo uses synthetic data. | TypeScript · React · SQLite · Taro |
