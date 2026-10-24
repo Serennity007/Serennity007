@@ -1,235 +1,63 @@
 [English](README.md) | [中文](README.zh.md)
 
-<div align="center">
+<img src=".github/terminal.svg" width="100%" alt="Zhengtao Liang · AI research and open-source engineering" />
 
-<img src=".github/terminal.svg" width="100%" />
+# Zhengtao Liang | AI Research & Open-Source Engineering
 
-</div>
+M.S. student in Intelligent Science and Technology at **Beijing Institute of Technology** (2026 cohort). I work on legal AI and multimodal model safety, and build developer tools and applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&height=100&lines=%3E_+I+build+CLI+tools+that+automate+AI+development;325+open-source+repos+%C2%B7+4+npm+CLI+tools+%C2%B7+285%2B+prompts;All+free+%7C+All+open+source+%7C+npx-ready" alt="Typing SVG" />
+**1 KSEM conference paper (CCF-C)** · Huawei ICT Competition: National First Prize / Global Third Prize
 
-<!-- BADGES: npm downloads + profile stats -->
+[Portfolio](https://serennity007.github.io/Serennity007-portfolio/) · [中文简历](https://serennity007.github.io/Serennity007-portfolio/resume.html) · [English Resume](https://serennity007.github.io/Serennity007-portfolio/resume-en.html) · [Email](mailto:1392452425a@gmail.com)
 
-<a href="https://www.npmjs.com/package/@liangzhengtao/git-format"><img src="https://img.shields.io/npm/dm/@liangzhengtao/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/@liangzhengtao/commit-ai"><img src="https://img.shields.io/npm/dm/@liangzhengtao/commit-ai?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/@liangzhengtao/agent-trace"><img src="https://img.shields.io/npm/dm/@liangzhengtao/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/@liangzhengtao/vibe-check"><img src="https://img.shields.io/npm/dm/@liangzhengtao/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+## Research & Background
 
-<br/>
+- **KSEM · CCF-C**: 1 conference paper. [CCF classification](https://www.ccf.org.cn/c/2017-04-25/592085.shtml).
+- **Research**: legal judgment prediction with LLMs, knowledge and precedent retrieval, and multimodal model safety alignment.
+- **Education**: B.S. in AI, Guizhou University; rank **1/69**, GPA **4.14/5**. M.S. at BIT.
+- **Honors & international experience**: National Scholarship; Huawei ICT National First Prize and Global Third Prize; NUS exchange; IELTS 6.5.
 
-<a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/340_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+## Selected Projects
 
----
+Selected for concrete functionality, source code and reusable workflows.
 
-<!-- ABOUT -->
+| Project | Implementation | Stack |
+|---|---|---|
+| **[Quant Research Skills](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | Turn investment research, factor screening and backtesting frameworks into AI Skills and Python scripts; separate original work from attributed third-party collections. | Python · akshare · pandas · Agent Skills |
+| **[Exam Builder & Assessment System](https://github.com/Serennity007/paper-builder-system)**<br>`paper-builder-system` | Build a Flask + SQLite application for question banks, exam assembly, student answers, objective grading, teacher review and score reports, with offline math rendering and Excel import/export. | Flask · SQLite · JavaScript · KaTeX |
+| **[PPT Refactoring & Validation Workflow](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | Standardize slide titles, colors and typography with Python; measure text overflow in PowerPoint, adjust font sizes and produce audit reports with regression checks. | Python · python-pptx · PowerPoint |
+| **[Beijing Guizhou Food Map](https://github.com/Serennity007/beijing-food-map-workspace)**<br>`beijing-food-map-workspace` | Provide a source snapshot with a React web app, API, SQLite data layer and Taro mini program for map-based restaurant discovery and feedback; the demo uses synthetic data. | TypeScript · React · SQLite · Taro |
+| **[AI Agent Session Analytics CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | Parse local coding-agent session logs and report token usage, estimated costs and tool calls through terminal and JSON output. | Node.js · JavaScript · CLI |
+| **[Conventional Commits CLI](https://github.com/Serennity007/git-format)**<br>`git-format` | Read staged files, infer commit type and scope with rules, and generate Conventional Commits messages with dry-run and JSON output. | Node.js · Git · CLI |
 
-## 👋 About Me
+[Food map demo (synthetic data)](https://serennity007.github.io/beijing-food-map/) · [Repository catalog](https://github.com/Serennity007/repo-catalog) · [All repositories](https://github.com/Serennity007/?tab=repositories)
 
-AI researcher & open-source builder. M.S. in Intelligent Science & Technology at **Beijing Institute of Technology** (2026 → ). First-author paper at **CCF-BigData 2025** on legal judgment prediction with LLMs.
+## CLI Tools
 
-- 🔧 **4 npm CLI tools** — `npx`-ready, zero install
-- 📦 **340 open-source repos** — MIT, a few GPL-3.0, all free
-- 🏆 Huawei ICT Contest **National 1st Prize** (+ Global 3rd) · National Scholarship · Rank **1/69**, GPA **4.14/5**
-- 🔬 Legal AI + multimodal safety alignment · 🇸🇬 NUS exchange · IELTS 6.5
+| Tool | Purpose | Command |
+|---|---|---|
+| [agent-trace](https://github.com/Serennity007/agent-trace) | Local agent session analytics | `npx @liangzhengtao/agent-trace` |
+| [git-format](https://github.com/Serennity007/git-format) | Rule-based commit message formatting | `npx @liangzhengtao/git-format --dry-run` |
+| [ai-commit](https://github.com/Serennity007/ai-commit) | Generate messages from Git diffs | `npx @liangzhengtao/commit-ai` |
+| [vibe-check](https://github.com/Serennity007/vibe-check) | Check AI coding configuration | `npx @liangzhengtao/vibe-check` |
 
----
+## Engineering Focus
 
-<!-- QUICK TRY -->
+**AI / Data**: Python · PyTorch · Transformers · RAG · Milvus · pandas<br>
+**Applications**: TypeScript · JavaScript · React · Flask · FastAPI · SQLite<br>
+**Workflows**: Git · Node.js CLI · Agent Skills · PowerPoint automation · GitHub Actions
 
-## ⚡ Try One in 10 Seconds
-
-```bash
-# Format messy git history → clean Conventional Commits
-npx @liangzhengtao/git-format
-
-# AI writes your commit messages
-npx @liangzhengtao/commit-ai
-
-# Score your project's AI-readiness (0-100)
-npx @liangzhengtao/vibe-check
-
-# Track your AI agent — costs, tokens, tool calls
-npx @liangzhengtao/agent-trace
-```
-
-**No clone · No API key · No config · Just run it**
-
----
-
-<!-- WHAT I BUILD -->
-
-## 🔧 What I Build
-
-| Tool | What it does | Try it |
-|:-----|:-------------|:-------|
-| **[git-format](https://github.com/Serennity007/git-format)** | Format commits to Conventional Commits | `npx @liangzhengtao/git-format` |
-| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI generates commit messages from git diff | `npx @liangzhengtao/commit-ai` |
-| **[agent-trace](https://github.com/Serennity007/agent-trace)** | Track AI agent costs, tokens, tool health | `npx @liangzhengtao/agent-trace` |
-| **[vibe-check](https://github.com/Serennity007/vibe-check)** | Audit project AI-readiness (0-100 score) | `npx @liangzhengtao/vibe-check` |
-
-### Curated Collections
-
-| Collection | What's inside |
-|:-----------|:--------------|
-| **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | 20 production AI coding rules for Cursor, Claude, Kimi Code |
-| **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 9 verified MCP server configs |
-| **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | 285+ tested AI prompts for every task |
-
----
-
-<!-- NEW: INVESTMENT MASTERS SKILLS -->
-
-## 🎓 New: Investment Masters × AI Skills
-
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — legendary investors' methodologies as runnable AI skills (akshare data, Claude Code ready, 中文/EN/日本語 docs). 16 curated + **29 original** skills, incl. 7 Chinese investment masters.
-
-| Master | Skill | One-liner |
-|:-------|:------|:----------|
-| Buffett | [buffett-value-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/buffett-value-investing) | Moat + 5yr ROE + margin of safety |
-| Munger | [munger-quality-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/munger-quality-investing) | Great company at fair price, 5-dim quality score |
-| Lynch | [lynch-garp-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lynch-garp-investing) | PEG<1 tenbagger screen + 6-type tagging |
-| Graham | [graham-defensive-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/graham-defensive-investing) | Defensive 7-criteria gate |
-| Dalio | [dalio-all-weather](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dalio-all-weather) | All-weather risk parity + backtest |
-| Marks | [howard-marks-cycle](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/howard-marks-cycle) | 0-100 market cycle thermometer |
-| Soros | [soros-reflexivity](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/soros-reflexivity) | Reflexivity: price-fundamentals divergence scan |
-| Druckenmiller | [druckenmiller-macro-flex](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/druckenmiller-macro-flex) | Macro dashboard: FX / rates / gold / oil / copper |
-| Livermore | [livermore-trend-trading](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/livermore-trend-trading) | Pivotal-point breakout + pyramid sizing |
-| Simons | [simons-factor-quant](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/simons-factor-quant) | Multi-factor scorer: momentum / reversal / volatility / volume / MA deviation |
-| Klarman | [klarman-margin-safety](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/klarman-margin-safety) | Deep value: PB/PE percentiles, net cash, 52w drawdown |
-| Templeton | [templeton-global-contrarian](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/templeton-global-contrarian) | Max-pessimism scan: 52w low zone + historic valuation lows |
-| Fisher | [fisher-growth-15](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/fisher-growth-15) | Growth-stock 15 points: R&D intensity + margin trend + scuttlebutt shortlist |
-| Neff | [neff-low-pe-total-return](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/neff-low-pe-total-return) | Low P/E vs market median + total-return ratio ≥2 golden standard |
-| Bogle | [bogle-index-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/bogle-index-investing) | Index thermometer: PE/PB 10y percentile + Bogle expected-return + DCA backtest |
-| O'Neil | [oneil-canslim](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/oneil-canslim) | CANSLIM 7-letter checklist: earnings accel + 250d high + RS + market trend |
-| Duan Yongping | [duan-yongping-business-first](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/duan-yongping-business-first) | Business model first: 6-dim screen, "dare to be the follower" |
-| Zhang Lei | [zhang-lei-longterm](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/zhang-lei-longterm) | Long-term structural value: 4-d growth-quality radar |
-| Qiu Guolu | [qiu-guolu-simple-rules](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/qiu-guolu-simple-rules) | Good industry/company/price — "count moons, not stars" |
-| Feng Liu | [feng-liu-weak-side](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/feng-liu-weak-side) | Weak-side contrarian: high odds after deep drawdowns |
-| Lin Yuan | [lin-yuan-monopoly-consumer](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lin-yuan-monopoly-consumer) | Monopoly + addictive consumer: mouth-related necessities |
-| Dan Bin | [dan-bin-rose-of-time](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dan-bin-rose-of-time) | "Rose of Time": long slope + thick snow + compounding engine, 7-dim great-enterprise score |
-| Li Lu | [li-lu-value-compounding](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/li-lu-value-compounding) | Value compounding machine: sustained ROE + ROE trend + low-percentile margin of safety |
-
-Plus the ⚡ hot-theme series: [hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner) · [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker) · [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper) · [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition), and cross-framework tools [master-ensemble](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/master-ensemble) · [framework-backtest](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/framework-backtest).
-
----
-
-<!-- TECH STACK -->
-
-## 📊 Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,react,nextjs,vue,tailwind,docker,k8s,githubactions,postgres,redis,neovim,linux&theme=dark" />
-</a>
-
-</div>
-
----
-
-<!-- WORKFLOW -->
-
-## 🔀 How My Tools Work Together
-
-```mermaid
-graph LR
-    A["🔧 git-format"] -->|Clean Commits| B["📦 PR Ready"]
-    C["🤖 ai-commit"] -->|AI Messages| B
-    B --> D["📊 vibe-check"]
-    D -->|"Score 0-100"| E["✅ AI-Ready"]
-    E --> F["🔍 agent-trace"]
-    F --> G["💰 Cost Control"]
-```
-
----
-
-<!-- GITHUB STATS -->
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Serennity007&theme=github_dark" width="49%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serennity007&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
-
-</div>
-
----
-
-<!-- ACTIVITY -->
-
-## 🐍 Activity
-
-<div align="center">
+<details>
+<summary>GitHub activity</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake.svg" />
-  <img alt="Contribution snake animation" src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake-dark.svg" width="100%" />
+  <img alt="GitHub contribution animation" src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake-dark.svg" width="100%" />
 </picture>
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-
-<details>
-<summary><b>📂 Featured Projects (10 of 340)</b></summary>
-
-| Project | Description |
-|:--------|:------------|
-| [token-meter](https://github.com/Serennity007/token-meter) | Real-time token & cost meter for AI coding agents |
-| [paper-grill](https://github.com/Serennity007/paper-grill) | Honest paper review — NeurIPS / ICML / ICLR styles |
-| [awesome-ai-alignment](https://github.com/Serennity007/awesome-ai-alignment) | 12 AI safety & alignment skills |
-| [awesome-trading-strategies](https://github.com/Serennity007/awesome-trading-strategies) | 6 practical trading strategies for retail investors |
-| [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) | Quant research & trading skill collection |
-| [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | Publication-quality scientific figures |
-| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 production-ready AI agent skills |
-| [awesome-geo](https://github.com/Serennity007/awesome-geo) | Get recommended by AI search engines (GEO) |
-| [awesome-portfolio-skills](https://github.com/Serennity007/awesome-portfolio-skills) | Build a developer portfolio that stands out |
-| [build-your-own-x](https://github.com/Serennity007/build-your-own-x) | Build tech from scratch — curated tutorials |
-
-**[Browse all 340 repos →](https://github.com/Serennity007?tab=repositories)**
-
-**[🗂️ Categorized index — which repos are real, which are placeholders →](https://github.com/Serennity007/repo-catalog)
 
 </details>
 
 ---
 
-<!-- CONNECT -->
-
-<div align="center">
-
-### 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
-[![Email](https://img.shields.io/badge/-1392452425a%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1392452425a@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/Serennity007-portfolio/)
-[![Blog](https://img.shields.io/badge/-Blog-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
-
-**340 repos · All open source · All free**
-
-*If any of these saved you time, ⭐ the repo you used most.*
-
-</div>
-
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<img src=".github/footer.svg" width="100%" alt="Thanks for visiting — leave a star on the repo that saved you time" />
-
-</div>
+Interested in research collaboration or AI engineering? Reach me at [1392452425a@gmail.com](mailto:1392452425a@gmail.com).

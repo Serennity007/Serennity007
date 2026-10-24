@@ -1,235 +1,63 @@
 [English](README.md) | [中文](README.zh.md)
 
-<div align="center">
+<img src=".github/terminal.svg" width="100%" alt="Zhengtao Liang · AI research and open-source engineering" />
 
-<img src=".github/terminal.svg" width="100%" />
+# 梁正涛 | AI 研究与开源工程
 
-</div>
+**北京理工大学**智能科学与技术硕士在读（2026 级），研究方向为法律 AI 与多模态大模型安全对齐，同时开发 AI 工具和应用系统。
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&height=100&lines=%3E_+%E6%9E%84%E5%BB%BA%E8%87%AA%E5%8A%A8%E5%8C%96+AI+%E5%BC%80%E5%8F%91%E7%9A%84+CLI+%E5%B7%A5%E5%85%B7;325+%E4%B8%AA%E5%BC%80%E6%BA%90%E4%BB%93%E5%BA%93+%C2%B7+4+%E4%B8%AA+npm+CLI+%E5%B7%A5%E5%85%B7+%C2%B7+285%2B+%E6%8F%90%E7%A4%BA%E8%AF%8D;%E5%85%A8%E9%83%A8%E5%85%8D%E8%B4%B9+%7C+%E5%85%A8%E9%83%A8%E5%BC%80%E6%BA%90" alt="Typing SVG" />
+**KSEM（CCF-C）会议论文 1 篇** · 华为 ICT 大赛国家一等奖 / 全球三等奖
 
-<!-- BADGES: npm downloads + profile stats -->
+[作品集](https://serennity007.github.io/Serennity007-portfolio/) · [中文简历](https://serennity007.github.io/Serennity007-portfolio/resume.html) · [English Resume](https://serennity007.github.io/Serennity007-portfolio/resume-en.html) · [Email](mailto:1392452425a@gmail.com)
 
-<a href="https://www.npmjs.com/package/@liangzhengtao/git-format"><img src="https://img.shields.io/npm/dm/@liangzhengtao/git-format?label=git-format&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/@liangzhengtao/commit-ai"><img src="https://img.shields.io/npm/dm/@liangzhengtao/commit-ai?label=ai-commit&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/@liangzhengtao/agent-trace"><img src="https://img.shields.io/npm/dm/@liangzhengtao/agent-trace?label=agent-trace&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
-<a href="https://www.npmjs.com/package/@liangzhengtao/vibe-check"><img src="https://img.shields.io/npm/dm/@liangzhengtao/vibe-check?label=vibe-check&style=for-the-badge&logo=npm&logoColor=white&color=cb3837" /></a>
+## 科研与背景
 
-<br/>
+- **KSEM · CCF-C**: 会议论文 1 篇。[CCF 会议分类](https://www.ccf.org.cn/c/2017-04-25/592085.shtml)。
+- **研究方向**: 大语言模型法律判决预测、法律知识与先例检索、多模态大模型安全对齐。
+- **教育背景**: 贵州大学人工智能本科，专业排名 **1/69**，GPA **4.14/5**；北京理工大学硕士在读。
+- **荣誉与交流**: 国家奖学金；华为 ICT 国家一等奖、全球三等奖；新加坡国立大学交流；雅思 6.5。
 
-<a href="https://github.com/Serennity007"><img src="https://img.shields.io/github/followers/Serennity007?style=for-the-badge&logo=github&logoColor=white&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=Serennity007&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/Serennity007?tab=repositories"><img src="https://img.shields.io/badge/340_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+## 代表项目
 
----
+精选具备具体功能、源码或可复用工作流的项目。
 
-<!-- ABOUT -->
+| 项目 | 做了什么 | 技术栈 |
+|---|---|---|
+| **[量化研究 AI Skills](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 将价值投资、因子筛选与回测框架写成 AI Skills 和 Python 脚本；区分原创技能与收录内容，保留来源与许可证。 | Python · akshare · pandas · Agent Skills |
+| **[国际课程组卷与在线考试系统](https://github.com/Serennity007/paper-builder-system)**<br>`paper-builder-system` | 基于 Flask + SQLite 实现题库、双栏组卷、在线答题、客观题判分、教师批阅与成绩分析；支持离线公式渲染和 Excel 导入导出。 | Flask · SQLite · JavaScript · KaTeX |
+| **[PPT 批量改造与验收工作流](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | 使用 Python 批量统一课件标题、配色和字号；调用 PowerPoint 实测文本越框并回退，配套静态验收报告与回归测试。 | Python · python-pptx · PowerPoint |
+| **[京城黔味地图](https://github.com/Serennity007/beijing-food-map-workspace)**<br>`beijing-food-map-workspace` | 提供 React 网页、API、SQLite 数据层及 Taro 小程序的完整源码快照；实现地图找店与反馈流程，线上使用合成演示数据。 | TypeScript · React · SQLite · Taro |
+| **[AI Agent 会话分析 CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | 解析多种编码 Agent 的本地会话日志，汇总 token 用量、成本估算与工具调用；提供终端报告与 JSON 输出。 | Node.js · JavaScript · CLI |
+| **[Conventional Commits 工具](https://github.com/Serennity007/git-format)**<br>`git-format` | 读取暂存区文件并按规则推断提交类型与 scope，生成规范提交信息；支持 dry-run 预览和 JSON 输出。 | Node.js · Git · CLI |
 
-## 👋 关于我
+[地图在线演示（合成数据）](https://serennity007.github.io/beijing-food-map/) · [仓库分类索引](https://github.com/Serennity007/repo-catalog) · [全部仓库](https://github.com/Serennity007/?tab=repositories)
 
-AI 研究者 & 开源开发者，**北京理工大学**智能科学与技术硕士在读（2026 级）。一作论文投中 **CCF-BigData 2025**（大语言模型法律判决预测方向）。
+## CLI 工具
 
-- 🔧 **4 个 npm CLI 工具** — `npx` 直接运行，零安装
-- 📦 **340 个开源仓库** — 以 MIT 为主，少数 GPL-3.0，全部免费
-- 🏆 华为 ICT 大赛**国家一等奖**（+ 全球三等奖）· 国家奖学金 · 专业排名 **1/69**，GPA **4.14/5**
-- 🔬 法律 AI + 多模态安全对齐 · 🇸🇬 新国立交换 · 雅思 6.5
+| 工具 | 用途 | 使用入口 |
+|---|---|---|
+| [agent-trace](https://github.com/Serennity007/agent-trace) | 本地 Agent 会话分析 | `npx @liangzhengtao/agent-trace` |
+| [git-format](https://github.com/Serennity007/git-format) | 按规则生成规范提交信息 | `npx @liangzhengtao/git-format --dry-run` |
+| [ai-commit](https://github.com/Serennity007/ai-commit) | 根据 Git diff 生成提交信息 | `npx @liangzhengtao/commit-ai` |
+| [vibe-check](https://github.com/Serennity007/vibe-check) | 检查 AI 编码配置 | `npx @liangzhengtao/vibe-check` |
 
----
+## 工程能力
 
-<!-- QUICK TRY -->
+**AI / Data**: Python · PyTorch · Transformers · RAG · Milvus · pandas<br>
+**Applications**: TypeScript · JavaScript · React · Flask · FastAPI · SQLite<br>
+**Workflows**: Git · Node.js CLI · Agent Skills · PowerPoint automation · GitHub Actions
 
-## ⚡ 10 秒上手
-
-```bash
-# 把混乱的 git 历史格式化为 Conventional Commits
-npx @liangzhengtao/git-format
-
-# AI 帮你写 commit message
-npx @liangzhengtao/commit-ai
-
-# 给项目的 AI 友好度打分（0-100）
-npx @liangzhengtao/vibe-check
-
-# 追踪你的 AI Agent —— 成本、token、工具调用
-npx @liangzhengtao/agent-trace
-```
-
-**不 clone · 不要 API key · 不用配置 · 直接跑**
-
----
-
-<!-- WHAT I BUILD -->
-
-## 🔧 我做了什么
-
-| 工具 | 功能 | 试试 |
-|:-----|:-----|:-----|
-| **[git-format](https://github.com/Serennity007/git-format)** | 提交格式化为 Conventional Commits | `npx @liangzhengtao/git-format` |
-| **[ai-commit](https://github.com/Serennity007/ai-commit)** | AI 根据 git diff 生成提交信息 | `npx @liangzhengtao/commit-ai` |
-| **[agent-trace](https://github.com/Serennity007/agent-trace)** | 追踪 AI Agent 成本、token、工具健康 | `npx @liangzhengtao/agent-trace` |
-| **[vibe-check](https://github.com/Serennity007/vibe-check)** | 评估项目 AI 就绪度（0-100 分） | `npx @liangzhengtao/vibe-check` |
-
-### 精选合集
-
-| 合集 | 内容 |
-|:-----|:-----|
-| **[awesome-ai-rules](https://github.com/Serennity007/awesome-ai-rules)** | 20 条生产级 AI 编码规则（Cursor / Claude / Kimi Code） |
-| **[awesome-mcp-servers](https://github.com/Serennity007/awesome-mcp-servers)** | 9 个验证过的 MCP 服务器配置 |
-| **[awesome-prompts](https://github.com/Serennity007/awesome-prompts)** | 285+ 实测 AI 提示词 |
-
----
-
-<!-- NEW: 投资大师 SKILLS -->
-
-## 🎓 新作：投资大师 × AI Skills
-
-**[awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills)** — 把传奇投资者的方法论变成可运行的 AI 技能（akshare 数据源，Claude Code 即用，中英日三语文档）。收录 16 个 + 原创 **29** 个（含 7 位中国投资大佬）。
-
-| 大师 | 技能 | 一句话 |
-|:-----|:-----|:-------|
-| 巴菲特 | [buffett-value-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/buffett-value-investing) | 护城河 + 连续5年ROE + 安全边际 |
-| 芒格 | [munger-quality-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/munger-quality-investing) | 公允价买伟大公司，五维质量打分 |
-| 彼得·林奇 | [lynch-garp-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lynch-garp-investing) | PEG<1 十倍股筛选 + 六分类 |
-| 格雷厄姆 | [graham-defensive-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/graham-defensive-investing) | 防御型七准则铁门筛股 |
-| 达利欧 | [dalio-all-weather](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dalio-all-weather) | 全天候风险平价配置 + 回测 |
-| 霍华德·马克斯 | [howard-marks-cycle](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/howard-marks-cycle) | 0-100 市场周期温度计 |
-| 索罗斯 | [soros-reflexivity](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/soros-reflexivity) | 反身性：价格-基本面背离扫描 |
-| 德鲁肯米勒 | [druckenmiller-macro-flex](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/druckenmiller-macro-flex) | 宏观仪表盘：汇率/利率/金油铜 |
-| 利弗莫尔 | [livermore-trend-trading](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/livermore-trend-trading) | 关键点突破 + 金字塔加仓 |
-| 西蒙斯 | [simons-factor-quant](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/simons-factor-quant) | 多因子打分：动量/反转/波动率/量能/均线偏离 |
-| 卡拉曼 | [klarman-margin-safety](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/klarman-margin-safety) | 深度价值：PB/PE分位、净现金、52周回撤 |
-| 邓普顿 | [templeton-global-contrarian](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/templeton-global-contrarian) | 极度悲观扫描：52周低位 + 估值历史低位 |
-| 费雪 | [fisher-growth-15](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/fisher-growth-15) | 成长股15要点：研发投入 + 利润率趋势 + 闲聊法候选 |
-| 聂夫 | [neff-low-pe-total-return](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/neff-low-pe-total-return) | 低市盈率 vs 市场中位数 + 总回报率≥2 黄金标准 |
-| 约翰·博格 | [bogle-index-investing](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/bogle-index-investing) | 指数温度计：PE/PB 十年分位 + 博格公式 + 定投回测 |
-| 威廉·欧奈尔 | [oneil-canslim](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/oneil-canslim) | CANSLIM 七要素体检：业绩加速 + 新高 + 相对强度 + 大盘趋势 |
-| 段永平 | [duan-yongping-business-first](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/duan-yongping-business-first) | 商业模式第一：六维打分，敢为天下后 |
-| 张磊 | [zhang-lei-longterm](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/zhang-lei-longterm) | 长期结构性价值：四维成长质量雷达 |
-| 邱国鹭 | [qiu-guolu-simple-rules](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/qiu-guolu-simple-rules) | 三好打分：数月亮不数星星 |
-| 冯柳 | [feng-liu-weak-side](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/feng-liu-weak-side) | 弱者体系：深度回撤后的高赔率逆向 |
-| 林园 | [lin-yuan-monopoly-consumer](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/lin-yuan-monopoly-consumer) | 垄断+成瘾消费：只投嘴巴相关的刚需 |
-| 但斌 | [dan-bin-rose-of-time](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/dan-bin-rose-of-time) | 时间的玫瑰：长坡厚雪+复利引擎，伟大企业七维打分 |
-| 李录 | [li-lu-value-compounding](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/li-lu-value-compounding) | 价值复利机器：持续ROE + 复利趋势 + 低分位安全边际 |
-
-另有 ⚡ 热点题材系列：[hot-theme-scanner](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/hot-theme-scanner)（5秒锁定今日最强题材）· [us-hot-stocks-tracker](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/us-hot-stocks-tracker)（8只最热美股AI标的）· [concept-stock-mapper](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/concept-stock-mapper)（关键词秒拉概念股）· [technical-pattern-recognition](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/technical-pattern-recognition)；跨框架工具 [master-ensemble](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/master-ensemble)（大师共识合成）· [framework-backtest](https://github.com/Serennity007/awesome-stock-quant-skills/tree/main/my-skills/framework-backtest)（月度调仓回测验证器）。
-
----
-
-<!-- TECH STACK -->
-
-## 📊 技术栈
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,react,nextjs,vue,tailwind,docker,k8s,githubactions,postgres,redis,neovim,linux&theme=dark" />
-</a>
-
-</div>
-
----
-
-<!-- WORKFLOW -->
-
-## 🔀 工具如何协同
-
-```mermaid
-graph LR
-    A["🔧 git-format"] -->|干净提交| B["📦 PR 就绪"]
-    C["🤖 ai-commit"] -->|AI 消息| B
-    B --> D["📊 vibe-check"]
-    D -->|"0-100 分"| E["✅ AI 就绪"]
-    E --> F["🔍 agent-trace"]
-    F --> G["💰 成本可控"]
-```
-
----
-
-<!-- GITHUB STATS -->
-
-## 📈 GitHub 统计
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serennity007&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Serennity007&theme=github_dark" width="49%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serennity007&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Serennity007&theme=github_dark" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Serennity007&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
-
-</div>
-
----
-
-<!-- ACTIVITY -->
-
-## 🐍 活跃度
-
-<div align="center">
+<details>
+<summary>GitHub 活跃记录</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake.svg" />
-  <img alt="贡献贪吃蛇动画" src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake-dark.svg" width="100%" />
+  <img alt="GitHub contribution animation" src="https://cdn.jsdelivr.net/gh/Serennity007/Serennity007@output/animal-snake-dark.svg" width="100%" />
 </picture>
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-
-<details>
-<summary><b>📂 精选项目（340 选 10）</b></summary>
-
-| 项目 | 说明 |
-|:-----|:-----|
-| [token-meter](https://github.com/Serennity007/token-meter) | AI 编程 Agent 的实时 token / 成本计量器 |
-| [paper-grill](https://github.com/Serennity007/paper-grill) | 论文毒舌审稿 — NeurIPS / ICML / ICLR 风格 |
-| [awesome-ai-alignment](https://github.com/Serennity007/awesome-ai-alignment) | 12 个 AI 安全与对齐技能 |
-| [awesome-trading-strategies](https://github.com/Serennity007/awesome-trading-strategies) | 散户可用的 6 大交易策略合集 |
-| [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) | 量化研究 & 交易技能合集 |
-| [awesome-research-figures](https://github.com/Serennity007/awesome-research-figures) | 出版级科研图表绘制技能 |
-| [awesome-ai-agents](https://github.com/Serennity007/awesome-ai-agents) | 12 个生产级 AI Agent 技能 |
-| [awesome-geo](https://github.com/Serennity007/awesome-geo) | 让 AI 搜索引擎推荐你（GEO 指南） |
-| [awesome-portfolio-skills](https://github.com/Serennity007/awesome-portfolio-skills) | 打造亮眼的开发者作品集 |
-| [build-your-own-x](https://github.com/Serennity007/build-your-own-x) | 从零构建技术 — 精选教程 |
-
-**[查看全部 340 个仓库 →](https://github.com/Serennity007?tab=repositories)**
-
-**[🗂️ 分类索引 — 哪些仓库有内容、哪些还是占位 →](https://github.com/Serennity007/repo-catalog)
 
 </details>
 
 ---
 
-<!-- CONNECT -->
-
-<div align="center">
-
-### 🤝 联系我
-
-[![GitHub](https://img.shields.io/badge/-@Serennity007-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007)
-[![Email](https://img.shields.io/badge/-1392452425a%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1392452425a@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-个人网站-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serennity007.github.io/Serennity007-portfolio/)
-[![Blog](https://img.shields.io/badge/-博客-181717?style=for-the-badge&logo=github)](https://github.com/Serennity007/blog)
-
-**340 个仓库 · 全部开源 · 全部免费**
-
-*如果某个项目帮到了你，给那个仓库一个 ⭐*
-
-</div>
-
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<img src=".github/footer.svg" width="100%" alt="Thanks for visiting — leave a star on the repo that saved you time" />
-
-</div>
+科研合作与 AI 工程交流： [1392452425a@gmail.com](mailto:1392452425a@gmail.com).
