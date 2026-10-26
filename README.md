@@ -36,13 +36,11 @@ Selected for concrete functionality, source code and reusable workflows.
 | Project | Implementation | Stack |
 |---|---|---|
 | **[AI Quant Research Toolchain](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 30 original Skills on the default branch; financial screening, consensus ranking and cost-aware backtesting. 41 Stars / 8 Forks as of 2026-10-24. Real-data smoke run and 40 local tests documented (2026-10-25). | Python · akshare · pandas · Agent Skills |
-| **[Exam Builder & Assessment System](https://github.com/Serennity007/paper-builder-system)**<br>`paper-builder-system` | Build a Flask + SQLite application for question banks, exam assembly, student answers, objective grading, teacher review and score reports, with offline math rendering and Excel import/export. | Flask · SQLite · JavaScript · KaTeX |
 | **[PPT Refactoring & Validation Workflow](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | Standardize slide titles, colors and typography with Python; measure text overflow in PowerPoint, adjust font sizes and produce audit reports with regression checks. | Python · python-pptx · PowerPoint |
-| **[Beijing Guizhou Food Map](https://github.com/Serennity007/beijing-food-map-workspace)**<br>`beijing-food-map-workspace` | Provide a source snapshot with a React web app, API, SQLite data layer and Taro mini program for map-based restaurant discovery and feedback; the demo uses synthetic data. | TypeScript · React · SQLite · Taro |
 | **[AI Agent Session Analytics CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | Parse local coding-agent session logs and report token usage, estimated costs and tool calls through terminal and JSON output. | Node.js · JavaScript · CLI |
 | **[Finance RSS Reader & Digest Tools](https://github.com/Serennity007/serenity-stock-rss)**<br>`serenity-stock-rss` | Adapt Qiaomu AI RSS into an Obsidian finance reader with 45 feeds, Markdown saving, daily-note excerpts and OPML; build a companion Feishu digest tool with deduplication, grouped cards and batched delivery. | TypeScript · Obsidian API · Node.js |
 
-[Food map demo (synthetic data)](https://serennity007.github.io/beijing-food-map/) · [Repository catalog](https://github.com/Serennity007/repo-catalog) · [All repositories](https://github.com/Serennity007/?tab=repositories)
+[Repository catalog](https://github.com/Serennity007/repo-catalog) · [All repositories](https://github.com/Serennity007/?tab=repositories)
 
 ## CLI Tools
 
