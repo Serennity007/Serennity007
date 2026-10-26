@@ -6,7 +6,7 @@
 
 **北京理工大学**智能科学与技术硕士在读（2026 级），研究方向为法律 AI 与多模态大模型安全对齐，同时开发 AI 工具和应用系统。
 
-**KSEM（CCF-C）会议论文 1 篇** · 华为 ICT 大赛国家一等奖
+**KSEM（CCF-C）会议论文已中稿** · 华为 ICT 大赛国家一等奖
 
 [作品集](https://serennity007.github.io/Serennity007-portfolio/) · [中文简历](https://serennity007.github.io/Serennity007-portfolio/resume.html) · [English Resume](https://serennity007.github.io/Serennity007-portfolio/resume-en.html) · [Email](mailto:1392452425a@gmail.com)
 
@@ -14,7 +14,7 @@
 
 ## 科研与背景
 
-- **KSEM · CCF-C**: 会议论文 1 篇。[CCF 会议分类](https://www.ccf.org.cn/c/2017-04-25/592085.shtml)。
+- **KSEM · CCF-C**: 会议论文已中稿。[CCF 会议分类](https://www.ccf.org.cn/c/2017-04-25/592085.shtml)。
 - **研究方向**: 大语言模型法律判决预测、法律知识与先例检索、多模态大模型安全对齐。
 - **教育背景**: 贵州大学人工智能本科，专业排名 **1/69**，GPA **4.14/5**；北京理工大学硕士在读。
 - **荣誉与交流**: 国家奖学金；华为 ICT 国家一等奖；新加坡国立大学交流；雅思 6.5。
