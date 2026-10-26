@@ -36,7 +36,8 @@ Selected for concrete functionality, source code and reusable workflows.
 | Project | Implementation | Stack |
 |---|---|---|
 | **[AI Quant Research Toolchain](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 30 original Skills on the default branch; financial screening, consensus ranking and cost-aware backtesting. 41 Stars / 8 Forks as of 2026-10-24. Real-data smoke run and 40 local tests documented (2026-10-25). | Python · akshare · pandas · Agent Skills |
-| **[PPT Refactoring & Validation Workflow](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | Standardize slide titles, colors and typography with Python; measure text overflow in PowerPoint, adjust font sizes and produce audit reports with regression checks. | Python · python-pptx · PowerPoint |
+| **[GhostTrack Console & Atlas](https://github.com/Serennity007/GhostTrack)** | Extended GhostTrack into Windows, Android and web workbenches for IP/ASN, RDAP, DNS and HTTPS/TLS research, with source status, snapshot comparison, redaction and reports. | Python · Tkinter · Android · Web |
+| **[XSS Audit Desktop](https://github.com/Serennity007/xss-audit-desktop)** | Extended the xss-audit playbook into a bilingual Windows app and CLI: local/public-GitHub import, JS/TS/Python AST evidence, saved human triage and HTML/SARIF reports. | Python · Tree-sitter · Tkinter · SARIF |
 | **[AI Agent Session Analytics CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | Parse local coding-agent session logs and report token usage, estimated costs and tool calls through terminal and JSON output. | Node.js · JavaScript · CLI |
 | **[Finance RSS Reader & Digest Tools](https://github.com/Serennity007/serenity-stock-rss)**<br>`serenity-stock-rss` | Adapt Qiaomu AI RSS into an Obsidian finance reader with 45 feeds, Markdown saving, daily-note excerpts and OPML; build a companion Feishu digest tool with deduplication, grouped cards and batched delivery. | TypeScript · Obsidian API · Node.js |
 
@@ -55,7 +56,7 @@ Selected for concrete functionality, source code and reusable workflows.
 
 **AI / Data**: Python · PyTorch · Transformers · RAG · Milvus · pandas<br>
 **Applications**: TypeScript · JavaScript · React · Flask · FastAPI · SQLite<br>
-**Workflows**: Git · Node.js CLI · Agent Skills · PowerPoint automation · GitHub Actions
+**Workflows**: Git · Node.js CLI · Agent Skills · GitHub Actions
 
 <details>
 <summary>GitHub activity</summary>

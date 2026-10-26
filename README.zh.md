@@ -36,7 +36,8 @@
 | 项目 | 做了什么 | 技术栈 |
 |---|---|---|
 | **[AI 选股与量化投研工具链](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 默认分支包含 30 个原创 Skill，覆盖财务筛选、共识排序与含成本回测；41 Stars / 8 Forks（截至 2026-10-24），附真实数据实跑和 40 项本地测试记录（2026-10-25）。 | Python · akshare · pandas · Agent Skills |
-| **[PPT 批量改造与验收工作流](https://github.com/Serennity007/beiligong-ppt-skill)**<br>`beiligong-ppt-skill` | 使用 Python 批量统一课件标题、配色和字号；调用 PowerPoint 实测文本越框并回退，配套静态验收报告与回归测试。 | Python · python-pptx · PowerPoint |
+| **[GhostTrack · IP 与域名信息查询工作台](https://github.com/Serennity007/GhostTrack)** | 基于 GhostTrack 扩展 Windows、Android 与 Web 工作台，整合 IP/ASN、RDAP、DNS、HTTPS/TLS 查询，支持来源状态、快照对比、脱敏和报告导出。 | Python · Tkinter · Android · Web |
+| **[XSS Audit Desktop · 源码安全审查工作台](https://github.com/Serennity007/xss-audit-desktop)** | 基于 xss-audit 审计方法扩展双语桌面端与 CLI，支持本地及公开 GitHub 导入、JS/TS/Python AST 证据、人工分诊与 HTML/SARIF 报告。 | Python · Tree-sitter · Tkinter · SARIF |
 | **[AI Agent 会话分析 CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | 解析多种编码 Agent 的本地会话日志，汇总 token 用量、成本估算与工具调用；提供终端报告与 JSON 输出。 | Node.js · JavaScript · CLI |
 | **[财经 RSS 阅读器与摘要工具](https://github.com/Serennity007/serenity-stock-rss)**<br>`serenity-stock-rss` | 基于 Qiaomu AI RSS 改造 Obsidian 财经阅读器，内置 45 个源，支持文章转 Markdown、日记摘录与 OPML；另开发飞书摘要工具，支持消息去重、分组卡片和分批发送。 | TypeScript · Obsidian API · Node.js |
 
@@ -55,7 +56,7 @@
 
 **AI / Data**: Python · PyTorch · Transformers · RAG · Milvus · pandas<br>
 **Applications**: TypeScript · JavaScript · React · Flask · FastAPI · SQLite<br>
-**Workflows**: Git · Node.js CLI · Agent Skills · PowerPoint automation · GitHub Actions
+**Workflows**: Git · Node.js CLI · Agent Skills · GitHub Actions
 
 <details>
 <summary>GitHub 活跃记录</summary>
