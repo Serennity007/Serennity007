@@ -4,7 +4,7 @@
 
 # Zhengtao Liang | AI Research & Open-Source Engineering
 
-M.S. student in Intelligent Science and Technology at **Beijing Institute of Technology** (2026 cohort). I work on legal AI and multimodal model safety, and build developer tools and applications.
+M.S. student in Intelligent Science and Technology at **Beijing Institute of Technology** (2026 cohort). My research focuses on agent collaboration, agent safety, and multimodal large language model safety. I also build developer tools and applications.
 
 **Paper accepted at KSEM (CCF-C)** · Huawei ICT Competition: National First Prize
 
@@ -15,7 +15,7 @@ Download: [中文 PDF](https://serennity007.github.io/Serennity007-portfolio/ass
 ## Research & Background
 
 - **KSEM · CCF-C**: Paper accepted. [CCF classification](https://www.ccf.org.cn/c/2017-04-25/592085.shtml).
-- **Research**: legal judgment prediction with LLMs, knowledge and precedent retrieval, and multimodal model safety alignment.
+- **Research**: agent collaboration, agent safety, and multimodal large language model safety.
 - **Education**: B.S. in AI, Guizhou University; rank **1/69**, GPA **4.14/5**. M.S. at BIT.
 - **Honors & international experience**: National Scholarship; Huawei ICT National First Prize; NUS exchange; IELTS 6.5.
 
