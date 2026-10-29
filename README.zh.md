@@ -4,6 +4,8 @@
 
 # 梁正涛 | AI 研究与开源工程
 
+**[开源项目导航](https://github.com/Serennity007/repo-catalog/blob/main/README.zh-CN.md)** · [按用途找工具](https://github.com/Serennity007/repo-catalog/blob/main/README.zh-CN.md#按用途直达) · [全部公开仓库分类](https://github.com/Serennity007/repo-catalog/blob/main/docs/catalog.md)
+
 **北京理工大学**智能科学与技术硕士在读（2026 级），研究方向为智能体协作研究、智能体安全、多模态大模型安全研究，同时开发 AI 工具和应用系统。
 
 **KSEM（CCF-C）会议论文已中稿** · 华为 ICT 大赛国家一等奖
@@ -21,11 +23,11 @@
 
 ## 重点项目：AI 选股与量化投研工具链
 
-**[41 Stars · 8 Forks（2026-10-24）](https://github.com/Serennity007/awesome-stock-quant-skills)**
+**[31 个原创 Skills · 33 个 Python 脚本](https://github.com/Serennity007/awesome-stock-quant-skills)** — 2026-10-30 核对源码清单。
 
-- 自主开发 30 个原创 Agent Skills、32 个 Python 脚本，实现 23 套投资方法参考框架，覆盖价值、成长、动量、宏观周期与资产配置。
+- 自主开发 31 个原创 Agent Skills、33 个 Python 脚本，实现 23 套投资方法参考框架，覆盖价值、成长、动量、宏观周期与资产配置。
 - 串联财务筛选、因子评分、跨框架共识与含成本回测，输出分项得分、换手、持仓明细和输入哈希。
-- 功能验证：40 项本地测试通过（2026-10-25）；一条命令运行离线示例，生成报告、CSV 与日志。
+- 项目[验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md)记录了 60 项本地测试通过；一条命令运行离线示例，生成报告、CSV 与日志。
 - 真实取数：2026-10-24 使用 AKShare 1.19.3 完成 600519 筛选，覆盖 2021–2025 年报。
 - [项目拆解与实测](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [运行离线演示](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [真实取数原始记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
@@ -35,7 +37,7 @@
 
 | 项目 | 做了什么 | 技术栈 |
 |---|---|---|
-| **[AI 选股与量化投研工具链](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 默认分支包含 30 个原创 Skill，覆盖财务筛选、共识排序与含成本回测；41 Stars / 8 Forks（截至 2026-10-24），附真实数据实跑和 40 项本地测试记录（2026-10-25）。 | Python · akshare · pandas · Agent Skills |
+| **[AI 选股与量化投研工具链](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 31 个原创 Skills、33 个 Python 脚本，覆盖财务筛选、共识排序与含成本回测；附真实数据实跑和 60 项本地测试记录。2026-10-30 核对源码清单。 | Python · akshare · pandas · Agent Skills |
 | **[GhostTrack · 网络信息查询与域名检查](https://github.com/Serennity007/GhostTrack)** | 在原有 GhostTrack 查询工具上扩展域名批量检查，新增 DNS、证书有效期和 HTTP 状态检查、快照对比及结果导出。实现任务队列的暂停、取消与失败重试。 | Python · Tkinter · Android · Web |
 | **[XSS Audit Desktop · 源码静态扫描工具](https://github.com/Serennity007/xss-audit-desktop)** | 在 xss-audit 审计方法基础上新增源码静态扫描引擎，实现 JS/TS/Python 的规则匹配、AST 流向分析和源码行定位。支持本地目录及公开 GitHub 仓库扫描、人工复核与 HTML/SARIF 导出。 | Python · Tree-sitter · Tkinter · SARIF |
 | **[AI Agent 会话分析 CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | 解析多种编码 Agent 的本地会话日志，汇总 token 用量、成本估算与工具调用；提供终端报告与 JSON 输出。 | Node.js · JavaScript · CLI |

@@ -4,6 +4,8 @@
 
 # Zhengtao Liang | AI Research & Open-Source Engineering
 
+**[Project navigator](https://github.com/Serennity007/repo-catalog)** · [Browse by task](https://github.com/Serennity007/repo-catalog#start-with-a-task) · [完整中文导航](https://github.com/Serennity007/repo-catalog/blob/main/README.zh-CN.md)
+
 M.S. student in Intelligent Science and Technology at **Beijing Institute of Technology** (2026 cohort). My research focuses on agent collaboration, agent safety, and multimodal large language model safety. I also build developer tools and applications.
 
 **Paper accepted at KSEM (CCF-C)** · Huawei ICT Competition: National First Prize
@@ -21,11 +23,11 @@ Download: [中文 PDF](https://serennity007.github.io/Serennity007-portfolio/ass
 
 ## Featured: AI Stock Screening & Quant Research Toolchain
 
-**[41 Stars · 8 Forks（2026-10-24）](https://github.com/Serennity007/awesome-stock-quant-skills)**
+**[31 original Skills · 33 Python scripts](https://github.com/Serennity007/awesome-stock-quant-skills)** — source inventory checked on 2026-10-30.
 
-- Developed 30 original Agent Skills and 32 Python scripts implementing 23 investment-method reference frameworks across value, growth, momentum, macro cycles and allocation.
+- Developed 31 original Agent Skills and 33 Python scripts implementing 23 investment-method reference frameworks across value, growth, momentum, macro cycles and allocation.
 - Combined financial screening, factor scoring, cross-framework consensus and cost-aware backtesting, with component scores, turnover, holding details and input hashes.
-- Passed 40 local tests on 2026-10-25; a one-command offline demo produces reports, CSVs and logs.
+- The project's [validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) documents 60 passing local tests; a one-command offline demo produces reports, CSVs and logs.
 - Retrieved real FY2021–2025 financials for 600519 with AKShare 1.19.3 on 2026-10-24.
 - [Project walkthrough](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [Run the offline demo](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [Validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [Original live-data record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
@@ -35,7 +37,7 @@ Selected for concrete functionality, source code and reusable workflows.
 
 | Project | Implementation | Stack |
 |---|---|---|
-| **[AI Quant Research Toolchain](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 30 original Skills on the default branch; financial screening, consensus ranking and cost-aware backtesting. 41 Stars / 8 Forks as of 2026-10-24. Real-data smoke run and 40 local tests documented (2026-10-25). | Python · akshare · pandas · Agent Skills |
+| **[AI Quant Research Toolchain](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 31 original Skills and 33 Python scripts; financial screening, consensus ranking and cost-aware backtesting. Real-data smoke run and 60 local tests documented in the project. Source inventory checked on 2026-10-30. | Python · akshare · pandas · Agent Skills |
 | **[GhostTrack Console & Atlas](https://github.com/Serennity007/GhostTrack)** | Extended the original GhostTrack query tool with domain batches, DNS/certificate/HTTP health checks, snapshot comparison and report export. Added queue pause, cancellation and retry controls. | Python · Tkinter · Android · Web |
 | **[XSS Audit Desktop](https://github.com/Serennity007/xss-audit-desktop)** | Developed a static source-code scanner from the xss-audit playbook, adding pattern checks, JS/TS/Python AST flow analysis and source-line evidence. Supports local/public-GitHub scans, saved review decisions and HTML/SARIF exports. | Python · Tree-sitter · Tkinter · SARIF |
 | **[AI Agent Session Analytics CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | Parse local coding-agent session logs and report token usage, estimated costs and tool calls through terminal and JSON output. | Node.js · JavaScript · CLI |
