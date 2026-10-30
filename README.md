@@ -31,19 +31,22 @@ Download: [中文 PDF](https://serennity007.github.io/Serennity007-portfolio/ass
 - Retrieved real FY2021–2025 financials for 600519 with AKShare 1.19.3 on 2026-10-24.
 - [Project walkthrough](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [Run the offline demo](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [Validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [Original live-data record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
-## Selected Projects
+<!-- featured-projects:start -->
+## Six projects to start with
 
-Selected for concrete functionality, source code and reusable workflows.
+Selected maintenance priorities. Open each first-run guide for inputs, outputs, environment and limits.
 
-| Project | Implementation | Stack |
-|---|---|---|
-| **[AI Quant Research Toolchain](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 31 original Skills and 33 Python scripts; financial screening, consensus ranking and cost-aware backtesting. Real-data smoke run and 60 local tests documented in the project. Source inventory checked on 2026-10-30. | Python · akshare · pandas · Agent Skills |
-| **[GhostTrack Console & Atlas](https://github.com/Serennity007/GhostTrack)** | Extended the original GhostTrack query tool with domain batches, DNS/certificate/HTTP health checks, snapshot comparison and report export. Added queue pause, cancellation and retry controls. | Python · Tkinter · Android · Web |
-| **[XSS Audit Desktop](https://github.com/Serennity007/xss-audit-desktop)** | Developed a static source-code scanner from the xss-audit playbook, adding pattern checks, JS/TS/Python AST flow analysis and source-line evidence. Supports local/public-GitHub scans, saved review decisions and HTML/SARIF exports. | Python · Tree-sitter · Tkinter · SARIF |
-| **[AI Agent Session Analytics CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | Parse local coding-agent session logs and report token usage, estimated costs and tool calls through terminal and JSON output. | Node.js · JavaScript · CLI |
-| **[Finance RSS Reader & Digest Tools](https://github.com/Serennity007/serenity-stock-rss)**<br>`serenity-stock-rss` | Adapt Qiaomu AI RSS into an Obsidian finance reader with 45 feeds, Markdown saving, daily-note excerpts and OPML; build a companion Feishu digest tool with deduplication, grouped cards and batched delivery. | TypeScript · Obsidian API · Node.js |
+| Project | Purpose | Start |
+| --- | --- | --- |
+| [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) | Connect financial screening, consensus ranking and cost-aware backtest arithmetic. | [First run](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#quant) |
+| [xss-audit-desktop](https://github.com/Serennity007/xss-audit-desktop) | Keep source locations, bounded flow evidence and human decisions together. | [First run](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#audit) |
+| [agent-trace](https://github.com/Serennity007/agent-trace) | Inspect tokens, tool calls and estimated costs from local coding-agent logs. | [First run](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#agent-trace) |
+| [paper-zh-translation](https://github.com/Serennity007/paper-zh-translation) | Write supplied Chinese translations into the paper's PDF coordinates and inspect the result. | [First run](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#paper) |
+| [beiligong-ppt-skill](https://github.com/Serennity007/beiligong-ppt-skill) | Turn font, background, title and logo changes into a repeatable slide workflow. | [First run](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#ppt) |
+| [taotao-futures-research](https://github.com/Serennity007/taotao-futures-research) | Compare sectors with explicit common windows, information cutoffs and sample coverage. | [First run](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#futures) |
 
-[Repository catalog](https://github.com/Serennity007/repo-catalog) · [All repositories](https://github.com/Serennity007/?tab=repositories)
+[Portfolio / 作品集](https://serennity007.github.io/Serennity007-portfolio/#featured-projects) · [All projects / 全量索引](https://github.com/Serennity007/repo-catalog)
+<!-- featured-projects:end -->
 
 ## CLI Tools
 

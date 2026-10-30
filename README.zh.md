@@ -31,19 +31,22 @@
 - 真实取数：2026-10-24 使用 AKShare 1.19.3 完成 600519 筛选，覆盖 2021–2025 年报。
 - [项目拆解与实测](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [运行离线演示](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [真实取数原始记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
-## 代表项目
+<!-- featured-projects:start -->
+## 从六个代表项目开始
 
-精选具备具体功能、源码或可复用工作流的项目。
+人工选定的维护重点。首次运行指南列出输入、输出、环境和适用边界。
 
-| 项目 | 做了什么 | 技术栈 |
-|---|---|---|
-| **[AI 选股与量化投研工具链](https://github.com/Serennity007/awesome-stock-quant-skills)**<br>`awesome-stock-quant-skills` | 31 个原创 Skills、33 个 Python 脚本，覆盖财务筛选、共识排序与含成本回测；附真实数据实跑和 60 项本地测试记录。2026-10-30 核对源码清单。 | Python · akshare · pandas · Agent Skills |
-| **[GhostTrack · 网络信息查询与域名检查](https://github.com/Serennity007/GhostTrack)** | 在原有 GhostTrack 查询工具上扩展域名批量检查，新增 DNS、证书有效期和 HTTP 状态检查、快照对比及结果导出。实现任务队列的暂停、取消与失败重试。 | Python · Tkinter · Android · Web |
-| **[XSS Audit Desktop · 源码静态扫描工具](https://github.com/Serennity007/xss-audit-desktop)** | 在 xss-audit 审计方法基础上新增源码静态扫描引擎，实现 JS/TS/Python 的规则匹配、AST 流向分析和源码行定位。支持本地目录及公开 GitHub 仓库扫描、人工复核与 HTML/SARIF 导出。 | Python · Tree-sitter · Tkinter · SARIF |
-| **[AI Agent 会话分析 CLI](https://github.com/Serennity007/agent-trace)**<br>`agent-trace` | 解析多种编码 Agent 的本地会话日志，汇总 token 用量、成本估算与工具调用；提供终端报告与 JSON 输出。 | Node.js · JavaScript · CLI |
-| **[财经 RSS 阅读器与摘要工具](https://github.com/Serennity007/serenity-stock-rss)**<br>`serenity-stock-rss` | 基于 Qiaomu AI RSS 改造 Obsidian 财经阅读器，内置 45 个源，支持文章转 Markdown、日记摘录与 OPML；另开发飞书摘要工具，支持消息去重、分组卡片和分批发送。 | TypeScript · Obsidian API · Node.js |
+| 项目 | 解决什么问题 | 开始使用 |
+| --- | --- | --- |
+| [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) | 把财务筛选、共识排序和含成本回测串成可复核的研究流程。 | [首次运行](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#quant) |
+| [xss-audit-desktop](https://github.com/Serennity007/xss-audit-desktop) | 让安全审查保留源码位置、有限流向证据和人工复核结论。 | [首次运行](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#audit) |
+| [agent-trace](https://github.com/Serennity007/agent-trace) | 从编码 Agent 的本地日志查看 token、工具调用和成本估算。 | [首次运行](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#agent-trace) |
+| [paper-zh-translation](https://github.com/Serennity007/paper-zh-translation) | 在保留论文版面坐标的前提下，把已有中文译文写回 PDF 并检查。 | [首次运行](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#paper) |
+| [beiligong-ppt-skill](https://github.com/Serennity007/beiligong-ppt-skill) | 把字号、底色、标题与院标调整变成可复跑的课件改版流程。 | [首次运行](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#ppt) |
+| [taotao-futures-research](https://github.com/Serennity007/taotao-futures-research) | 在共同区间、信息时点与样本覆盖明确的条件下比较产业板块。 | [首次运行](https://github.com/Serennity007/repo-catalog/blob/main/docs/projects.md#futures) |
 
-[仓库分类索引](https://github.com/Serennity007/repo-catalog) · [全部仓库](https://github.com/Serennity007/?tab=repositories)
+[Portfolio / 作品集](https://serennity007.github.io/Serennity007-portfolio/#featured-projects) · [All projects / 全量索引](https://github.com/Serennity007/repo-catalog)
+<!-- featured-projects:end -->
 
 ## CLI 工具
 
