@@ -23,11 +23,11 @@ Download: [中文 PDF](https://serennity007.github.io/Serennity007-portfolio/ass
 
 ## Featured: AI Stock Screening & Quant Research Toolchain
 
-**[31 original Skills · 33 Python scripts](https://github.com/Serennity007/awesome-stock-quant-skills)** — source inventory checked on 2026-10-30.
+**[34 original Skills · 36 Python scripts](https://github.com/Serennity007/awesome-stock-quant-skills)** — source inventory checked on 2026-11-24.
 
-- Developed 31 original Agent Skills and 33 Python scripts implementing 23 investment-method reference frameworks across value, growth, momentum, macro cycles and allocation.
+- Developed 34 original Agent Skills and 36 Python scripts implementing 23 investment-method reference frameworks across value, growth, momentum, macro cycles and allocation.
 - Combined financial screening, factor scoring, cross-framework consensus and cost-aware backtesting, with component scores, turnover, holding details and input hashes.
-- The project's [validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) documents 60 passing local tests; a one-command offline demo produces reports, CSVs and logs.
+- The project's [validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) documents 112 passing local tests; a one-command offline demo produces reports, CSVs and logs.
 - Retrieved real FY2021–2025 financials for 600519 with AKShare 1.19.3 on 2026-10-24.
 - [Project walkthrough](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [Run the offline demo](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [Validation record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [Original live-data record](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 

@@ -23,11 +23,11 @@
 
 ## 重点项目：AI 选股与量化投研工具链
 
-**[31 个原创 Skills · 33 个 Python 脚本](https://github.com/Serennity007/awesome-stock-quant-skills)** — 2026-10-30 核对源码清单。
+**[34 个原创 Skills · 36 个 Python 脚本](https://github.com/Serennity007/awesome-stock-quant-skills)** — 2026-11-24 核对源码清单。
 
-- 自主开发 31 个原创 Agent Skills、33 个 Python 脚本，实现 23 套投资方法参考框架，覆盖价值、成长、动量、宏观周期与资产配置。
+- 自主开发 34 个原创 Agent Skills、36 个 Python 脚本，实现 23 套投资方法参考框架，覆盖价值、成长、动量、宏观周期与资产配置。
 - 串联财务筛选、因子评分、跨框架共识与含成本回测，输出分项得分、换手、持仓明细和输入哈希。
-- 项目[验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md)记录了 60 项本地测试通过；一条命令运行离线示例，生成报告、CSV 与日志。
+- 项目[验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md)记录了 112 项本地测试通过；一条命令运行离线示例，生成报告、CSV 与日志。
 - 真实取数：2026-10-24 使用 AKShare 1.19.3 完成 600519 筛选，覆盖 2021–2025 年报。
 - [项目拆解与实测](https://serennity007.github.io/Serennity007-portfolio/project-quant.html) · [运行离线演示](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/quickstart.md) · [验证记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/main/docs/validation.md) · [真实取数原始记录](https://github.com/Serennity007/awesome-stock-quant-skills/blob/c46da26575289ddaab5587d31e7f718f9ac22a2e/examples/verification/2026-10-24/buffett-check.json)
 
